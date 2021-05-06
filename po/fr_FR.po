@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Gestionnaire d'applications"
+
+msgid "ai_ap_name"
+msgstr "Gest. applic."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Détails"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Ajouter"
+
+msgid "ai_bd_confirm_details"
+msgstr "Détails"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Continuer"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Désinstaller"
+
+msgid "ai_bd_create_backup"
+msgstr "Créer sauveg."
+
+msgid "ai_bd_license_ok"
+msgstr "Accepter"
+
+msgid "ai_bd_log_clear"
+msgstr "Effacer"
+
+msgid "ai_bd_log_save_as"
+msgstr "Enreg. sous"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Enregistrer"
+
+msgid "ai_bd_repository_delete"
+msgstr "Supprimer"
+
+msgid "ai_bd_repository_new"
+msgstr "Nouveau"
+
+msgid "ai_bd_search_ok"
+msgstr "Rechercher"
+
+msgid "ai_category_all"
+msgstr "Tous"
+
+msgid "ai_category_desktop"
+msgstr "Bureau"
+
+msgid "ai_category_development"
+msgstr "Développement"
+
+msgid "ai_category_education"
+msgstr "Éducation"
+
+msgid "ai_category_games"
+msgstr "Jeux"
+
+msgid "ai_category_graphics"
+msgstr "Graphiques"
+
+msgid "ai_category_multimedia"
+msgstr "Multimédia"
+
+msgid "ai_category_navigation"
+msgstr "Positionnement et navigation"
+
+msgid "ai_category_network"
+msgstr " Réseau"
+
+msgid "ai_category_office"
+msgstr "Bureautique"
+
+msgid "ai_category_other"
+msgstr "Autres"
+
+msgid "ai_category_science"
+msgstr "Science"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Partage d'extensions"
+
+msgid "ai_category_system"
+msgstr "Système"
+
+msgid "ai_category_utilities"
+msgstr "Utilitaires"
+
+msgid "ai_cb_restarting_device"
+msgstr "Redémarrage du terminal"
+
+msgid "ai_fi_details_category"
+msgstr "Catégorie :"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Maintenance :"
+
+msgid "ai_fi_details_package"
+msgstr "Application :"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Conflit avec les paquetages d'applications :"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Paquetages d'applications à installer :"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Paquetages d'applications manquants :"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Requis par les paquetages d'applications :"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Paquetages d'applications à supprimer :"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Paquetages d'applications à mettre à jour :"
+
+msgid "ai_fi_details_status"
+msgstr "État :"
+
+msgid "ai_fi_details_summary"
+msgstr "Résumé :"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Composants"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Désactivé"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distribution"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Nom du catalogue"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Adresse Web"
+
+msgid "ai_fi_search_area"
+msgstr "Zone de recherche"
+
+msgid "ai_fi_search_words"
+msgstr "Mots à rechercher"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Ajouter un nouveau catalogue ?\n"
+"%s"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Catalogue déjà installé mais désactivé.\n"
+"Activer maintenant ?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Pour une installation depuis cette source, ajouter un catalogue."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Le logiciel installé depuis ce catalogue n'est pas fourni par Nokia et peut "
+"contenir des logiciels malveillants qui accèdent aux données stockées sur le "
+"terminal et aux comptes bancaires et qui peuvent endommager le terminal."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Cette mise à jour Maemo requiert Nokia PC Suite sur votre PC.\n"
+"Connectez le terminal au PC via un câble USB et ouvrez Nokia PC Suite. "
+"L'application vous guidera pour la suite de la mise à jour Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "échec de l'actualisation"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Pour mettre à jour votre terminal avec cette version du système "
+"d'exploitation, utilisez Nokia PC Suite sur votre PC.\n"
+"Connectez le terminal à votre PC via un câble USB et lancez l'application."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Toutes les applications vont être fermées pendant l'installation et toutes "
+"les fonctions désactivées (fonction d'appel d'urgence comprise).\n"
+"Le terminal va ensuite redémarrer.\n"
+"N'utilisez pas le terminal pendant ce temps.\n"
+"La création d'une sauvegarde est recommandée."
+
+msgid "ai_ia_restore"
+msgstr ""
+"La sauvegarde répertorie ces applications.\n"
+"Sélectionnez les applications à télécharger et à installer."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(aucune application)"
+
+msgid "ai_ia_storage"
+msgstr "Mémoire requise : %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Entrer d'abord le nom du catalogue"
+
+msgid "ai_ib_enter_text"
+msgstr "Entrer le texte à chercher"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Entrer d'abord l'adresse Web"
+
+msgid "ai_ib_no_matches"
+msgstr "Aucune correspondance trouvée"
+
+msgid "ai_ib_no_repositories"
+msgstr "Aucun catalogue en cours d'utilisation"
+
+msgid "ai_ib_search_complete"
+msgstr "Recherche terminée"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Impossible d'annuler.\n"
+"Veuillez patienter."
+
+msgid "ai_ib_unable_edit"
+msgstr "Impossible de modifier le catalogue"
+
+msgid "ai_li_install"
+msgstr "Télécharger"
+
+msgid "ai_li_no_applications_available"
+msgstr "(aucune application disponible)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(aucune application installée)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(aucune mise à jour disponible)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Journal"
+
+msgid "ai_li_uninstall"
+msgstr "Désinstaller"
+
+msgid "ai_li_update"
+msgstr "Mettre à jour"
+
+msgid "ai_me_details"
+msgstr "Détails"
+
+msgid "ai_me_package_install_file"
+msgstr "Installation depuis fichier"
+
+msgid "ai_me_refresh"
+msgstr "Rafraîchir"
+
+msgid "ai_me_search"
+msgstr "Rechercher"
+
+msgid "ai_me_settings"
+msgstr "Paramètres"
+
+msgid "ai_me_tools_log"
+msgstr "Journal"
+
+msgid "ai_me_tools_repository"
+msgstr "Catalogues d'applications"
+
+msgid "ai_me_tools_restore"
+msgstr "Restaurer les applications"
+
+msgid "ai_me_update_all"
+msgstr "Tout mettre à jour"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Échec du téléchargement de '%s'. Réessayer ?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Vous êtes sur le point d'installer une application non fournie par Nokia. "
+"Les applications provenant de sources non sécurisées peuvent contenir des "
+"logiciels malveillants pouvant causer des préjudices financiers, accéder à "
+"des données stockées sur le terminal ou endommager le terminal. Il est "
+"également possible que l'application soit soumise aux termes de licence et "
+"aux droits d'éditeurs tiers.\n"
+"L'installation est à vos risques."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Vous êtes sur le point d'installer des applications non fournies par Nokia. "
+"Les applications provenant de sources non sécurisées peuvent contenir des "
+"logiciels malveillants pouvant causer des préjudices financiers, accéder à "
+"des données stockées sur le terminal ou endommager le terminal. Il est "
+"également possible que les applications soient soumises aux termes de "
+"licence et aux droits d'éditeurs tiers.\n"
+"L'installation est à vos risques."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Supprimer le catalogue ?\n"
+"Les paquetages d'applications fournis par ce catalogue ne seront plus "
+"disponibles pour l'installation et les mises à niveau."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Prêt à installer toutes les mises à jour"
+
+msgid "ai_ni_all_installed"
+msgstr "Toutes les applications sont déjà installées."
+
+msgid "ai_ni_bd_details"
+msgstr "Détails"
+
+msgid "ai_ni_continue_install"
+msgstr "Continuer l'installation ?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Système d'exploitation mis à jour. Le terminal va redémarrer. Veuillez "
+"patienter car l'interruption peut endommager le terminal."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Système d'exploitation mis à jour. Le terminal va redémarrer. Veuillez "
+"patienter car l'interruption peut endommager le terminal."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Charge insuffisante de la batterie pour installer la mise à jour de Maemo.\n"
+"Branchez le chargeur, puis réessayez."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Installation impossible.\n"
+"Catalogue incompatible avec la version actuelle du système d'exploitation."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Échec du téléchargement de %s"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Impossible de télécharger '%s'.\n"
+"Paquetage d'applications introuvable."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Impossible d'installer '%s'.\n"
+"Conflit entre paquetages d'applications."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Installation de %s impossible.\n"
+"Fichier d'installation corrompu."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Impossible d'installer '%s'.\n"
+"Paquetage d'applications incompatible."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Installation de %s impossible.\n"
+"Certains paquetages d'applications nécessaires à l'installation sont "
+"manquants."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Impossible d'installer %s"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Installation de %s impossible.\n"
+"Ce paquetage d'application est incompatible avec la version actuelle du "
+"système d'exploitation."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"%s est ouvert.\n"
+"Fermer l'application, puis réessayer."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Impossible de désinstaller '%s'.\n"
+"Certains paquetages d'applications sont requis par d'autres applications."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Impossible de désinstaller %s"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Impossible de mettre à jour '%s'.\n"
+"Conflit entre paquetages d'applications."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Mise à jour de %s impossible.\n"
+"Fichier de mise à jour corrompu."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Impossible de mettre à jour %s"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Impossible de mettre à jour %s.\n"
+"Paquetage d'application incompatible."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Mise à jour de %s impossible.\n"
+"Certains paquetages d'applications nécessaires\n"
+"à la mise à jour sont manquants."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Fin de l'installation de la mise à jour"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "%s installé avec succès. Lancer l'application ?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Espace insuffisant pour installer l'application. Désinstaller des "
+"applications pour libérer suffisamment d'espace."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d application installée avec succès"
+msgstr[1] "%d applications installées avec succès"
+
+msgid "ai_ni_operation_failed"
+msgstr "Échec de l'opération"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Opération en cours.\n"
+"Veuillez patienter."
+
+msgid "ai_ni_package_installed"
+msgstr "%s déjà installé"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Mise à jour logicielle installée avec succès"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Système d'exploitation mis à jour"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Impossible de supprimer le catalogue"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "%s désinstallé avec succès"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Impossible de rafraîchir la liste des applications.\n"
+"Impossible d'accéder aux catalogues.\n"
+"Vérifier la connexion au réseau.\n"
+"Réessayer ?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Liste des applications partiellement rafraîchie.\n"
+"Certains catalogues ne sont pas disponibles.\n"
+"Consulter les détails des catalogues."
+
+msgid "ai_ni_updates_restart"
+msgstr ""
+"Mise à jour logicielle installée avec succès. Le terminal va redémarrer."
+
+msgid "ai_nw_checking_updates"
+msgstr "Vérification des mises à jour, veuillez patienter"
+
+msgid "ai_nw_connecting"
+msgstr "Connexion"
+
+msgid "ai_nw_downloading"
+msgstr "Téléchargement de %s"
+
+msgid "ai_nw_installing"
+msgstr "Installation de %s"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Préparation de l'installation, veuillez patienter"
+
+msgid "ai_nw_searching"
+msgstr "Recherche en cours"
+
+msgid "ai_nw_uninstalling"
+msgstr "Désinstallation de %s"
+
+msgid "ai_nw_updating"
+msgstr "Mise à jour de %s %s"
+
+msgid "ai_pb_progress"
+msgstr "Chargement"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Nouvelles versions du logiciel"
+
+msgid "ai_sb_app_push_link"
+msgstr "Télécharger"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ignorer"
+
+msgid "ai_sb_update_am"
+msgstr "Continuer"
+
+msgid "ai_sb_update_description"
+msgstr "Nouvelles mises à jour"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "logiciel Ovi (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Mise à jour de Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "logiciel tiers (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Ajouter un catalogue"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Composants"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distribution"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Nom du catalogue"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Adresse Web"
+
+msgid "ai_ti_confirm_install"
+msgstr "Installer"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Désinstaller"
+
+msgid "ai_ti_confirm_update"
+msgstr "Mettre à jour"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Je comprends et j'accepte"
+
+msgid "ai_ti_details"
+msgstr "Détails de l'application"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Résumé"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Dépendances"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Description"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Installation"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problèmes"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Désinstallation"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Mise à jour"
+
+msgid "ai_ti_edit_repository"
+msgstr "Détails du catalogue"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "J'accepte"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Catalogues ayant échoué"
+
+msgid "ai_ti_install_apps"
+msgstr "Installer des applications"
+
+msgid "ai_ti_license_agreement"
+msgstr "Accord de licence"
+
+msgid "ai_ti_log"
+msgstr "Journal"
+
+msgid "ai_ti_new_repository"
+msgstr "Nouveau catalogue"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Mise à jour de Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Catalogues"
+
+msgid "ai_ti_save_log"
+msgstr "Enregistrer le journal"
+
+msgid "ai_ti_search"
+msgstr "Rechercher des applications"
+
+msgid "ai_ti_select_package"
+msgstr "Sélectionner application"
+
+msgid "ai_va_details_available_version"
+msgstr "Version disponible :"
+
+msgid "ai_va_details_catalogue"
+msgstr "Catalogue :"
+
+msgid "ai_va_details_download_size"
+msgstr "Taille du téléchargement :"
+
+msgid "ai_va_details_install_frees"
+msgstr "L'installation de %1$s libère %2$s de mémoire du terminal"
+
+msgid "ai_va_details_install_requires"
+msgstr "L'installation de %1$s nécessite %2$s de mémoire du terminal"
+
+msgid "ai_va_details_installed_version"
+msgstr "Version installée :"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Taille :"
+
+msgid "ai_va_details_status_broken"
+msgstr "Défectueuse"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Défectueuse et non actualisable"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Défectueuse, mais actualisable"
+
+msgid "ai_va_details_status_installable"
+msgstr "Peut être installée"
+
+msgid "ai_va_details_status_installed"
+msgstr "Installée"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Non disponible"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Ne peut être installée"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Mise à jour disponible mais impossible à installer"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Actualisable"
+
+msgid "ai_va_details_unable_install"
+msgstr "Impossible d'installer %s"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Impossible de désinstaller %s"
+
+msgid "ai_va_details_unable_update"
+msgstr "Impossible de mettre à jour %s"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "La désinstallation de %1$s libère %2$s de mémoire du terminal"
+
+msgid "ai_va_details_update_frees"
+msgstr "La mise à jour de %1$s libère %2$s de mémoire du terminal"
+
+msgid "ai_va_details_update_requires"
+msgstr "La mise à jour de %1$s nécessite %2$s de mémoire du terminal"
+
+msgid "ai_va_search_name"
+msgstr "Nom de l'application"
+
+msgid "ai_va_search_name_description"
+msgstr "Nom et description"
+
+msgid "ai_va_sort_name"
+msgstr "Nom"
+
+msgid "ai_va_sort_size"
+msgstr "Taille"
+
+msgid "apma_fi_by_provider"
+msgstr "par %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Nouvelles versions"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Nouvelles mises à jour"

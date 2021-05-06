@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Toepassingsbeheer"
+
+msgid "ai_ap_name"
+msgstr "Toepassingsbeh."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Details"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Toevoegen"
+
+msgid "ai_bd_confirm_details"
+msgstr "Details"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Doorgaan"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Verwijderen"
+
+msgid "ai_bd_create_backup"
+msgstr "Maak back-up"
+
+msgid "ai_bd_license_ok"
+msgstr "Accepteren"
+
+msgid "ai_bd_log_clear"
+msgstr "Wissen"
+
+msgid "ai_bd_log_save_as"
+msgstr "Opslaan als"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Opslaan"
+
+msgid "ai_bd_repository_delete"
+msgstr "Verwijderen"
+
+msgid "ai_bd_repository_new"
+msgstr "Nieuw"
+
+msgid "ai_bd_search_ok"
+msgstr "Zoeken"
+
+msgid "ai_category_all"
+msgstr "Alle"
+
+msgid "ai_category_desktop"
+msgstr "Bureaublad"
+
+msgid "ai_category_development"
+msgstr "Ontwikkeling"
+
+msgid "ai_category_education"
+msgstr "Onderwijs"
+
+msgid "ai_category_games"
+msgstr "Spelletjes"
+
+msgid "ai_category_graphics"
+msgstr "Afbeeldingen"
+
+msgid "ai_category_multimedia"
+msgstr "Multimedia"
+
+msgid "ai_category_navigation"
+msgstr "Locatie en navigatie"
+
+msgid "ai_category_network"
+msgstr " Netwerk"
+
+msgid "ai_category_office"
+msgstr "Kantoor"
+
+msgid "ai_category_other"
+msgstr "Overige"
+
+msgid "ai_category_science"
+msgstr "Wetenschap"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Invoegtoepassingen delen"
+
+msgid "ai_category_system"
+msgstr "Systeem"
+
+msgid "ai_category_utilities"
+msgstr "Hulpprogramma's"
+
+msgid "ai_cb_restarting_device"
+msgstr "Het apparaat wordt opnieuw opgestart"
+
+msgid "ai_fi_details_category"
+msgstr "Categorie:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Handhaver:"
+
+msgid "ai_fi_details_package"
+msgstr "Toepassing:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Conflict met toepassingspakketten:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Toepassingspakketten voor installatie:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Ontbrekende toepassingspakketten:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Vereist door toepassingspakketten:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Toepassingspakketten voor verwijderen:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Toepassingspakketten voor bijwerken:"
+
+msgid "ai_fi_details_status"
+msgstr "Status:"
+
+msgid "ai_fi_details_summary"
+msgstr "Overzicht:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Onderdelen"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Uitgeschakeld"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distributie"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Naam van catalogus"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Webadres"
+
+msgid "ai_fi_search_area"
+msgstr "Zoeken in"
+
+msgid "ai_fi_search_words"
+msgstr "Woorden zoeken"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Nieuwe catalogus toevoegen?\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Catalogus is al geïnstalleerd, maar is nu uitgeschakeld.\n"
+"Nu inschakelen?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr ""
+"Er moet een catalogus worden toegevoegd als u van deze bron wilt installeren."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Software van deze catalogus is niet door Nokia geleverd en kan malware "
+"bevatten met toegang tot gegevens die op het apparaat zijn opgeslagen, die "
+"financiële schade kan toebrengen of die het apparaat kan beschadigen."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Voor de installatie van deze Maemo-update hebt u Nokia PC Suite op uw pc "
+"nodig.\n"
+"Sluit het apparaat op de pc aan via een USB-kabel en start Nokia PC Suite. "
+"De toepassing leidt u door de rest van de Maemo-updateprocedure."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "vernieuwen mislukt"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Om uw apparaat bij te werken naar deze versie van het besturingssysteem hebt "
+"u Nokia PC Suite op uw pc nodig.\n"
+"Sluit het apparaat via een USB-kabel aan op uw pc en start het programma."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Alle toepassingen worden tijdens de installatie gesloten en alle functies "
+"(inclusief de functie voor het plaatsen van noodoproepen) worden "
+"uitgeschakeld.\n"
+"Het apparaat wordt vervolgens opnieuw opgestart.\n"
+"Gebruik het apparaat tijdens dit proces niet.\n"
+"Het is raadzaam een reservekopie te maken."
+
+msgid "ai_ia_restore"
+msgstr ""
+"De back-up vermeldt deze toepassingen.\n"
+"Selecteer de toepassingen die u wilt downloaden en installeren."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(geen toepassingen)"
+
+msgid "ai_ia_storage"
+msgstr "Vereist geheugen: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Voer eerst de catalogusnaam in"
+
+msgid "ai_ib_enter_text"
+msgstr "Voer de zoektekst in"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Voer eerst het webadres in"
+
+msgid "ai_ib_no_matches"
+msgstr "Geen treffers gevonden"
+
+msgid "ai_ib_no_repositories"
+msgstr "Geen catalogi in gebruik"
+
+msgid "ai_ib_search_complete"
+msgstr "Zoeken voltooid"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Kan niet annuleren.\n"
+"Een ogenblik geduld."
+
+msgid "ai_ib_unable_edit"
+msgstr "Kan catalogus niet bewerken"
+
+msgid "ai_li_install"
+msgstr "Downloaden"
+
+msgid "ai_li_no_applications_available"
+msgstr "(geen toepassingen beschikbaar)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(geen toepassingen geïnstalleerd)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(geen updates beschikbaar)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Logboek"
+
+msgid "ai_li_uninstall"
+msgstr "Verwijderen"
+
+msgid "ai_li_update"
+msgstr "Bijwerken"
+
+msgid "ai_me_details"
+msgstr "Details"
+
+msgid "ai_me_package_install_file"
+msgstr "Installeren vanuit bestand"
+
+msgid "ai_me_refresh"
+msgstr "Vernieuwen"
+
+msgid "ai_me_search"
+msgstr "Zoeken"
+
+msgid "ai_me_settings"
+msgstr "Instellingen"
+
+msgid "ai_me_tools_log"
+msgstr "Logboek"
+
+msgid "ai_me_tools_repository"
+msgstr "Catalogus"
+
+msgid "ai_me_tools_restore"
+msgstr "Toepassingen herstellen"
+
+msgid "ai_me_update_all"
+msgstr "Alles bijwerken"
+
+msgid "ai_nc_error_download_failed"
+msgstr "'%s' downloaden mislukt. Opnieuw proberen?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"De toepassing die u wilt gaan installeren is niet door Nokia geleverd. "
+"Toepassingen van onvertrouwde bronnen kunnen malware bevatten die mogelijk "
+"financiële schade veroorzaakt, toegang krijgt tot gegevens die zijn "
+"opgeslagen op het apparaat of op andere wijze het apparaat beschadigt. Op de "
+"toepassing zijn mogelijk ook rechten en licentievoorwaarden van derden van "
+"toepassing.\n"
+"Installatie is op eigen risico."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Enkele toepassingen die u wilt gaan installeren zijn niet door Nokia "
+"geleverd. Toepassingen van onvertrouwde bronnen kunnen malware bevatten die "
+"mogelijk financiële schade veroorzaakt, toegang krijgt tot gegevens die zijn "
+"opgeslagen op het apparaat of op andere wijze het apparaat beschadigt. Op de "
+"toepassingen zijn mogelijk ook rechten en licentievoorwaarden van derden van "
+"toepassing.\n"
+"Installatie is op eigen risico."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Catalogus verwijderen?\n"
+"Toepassingspakketten behorend tot deze catalogus zijn niet meer beschikbaar "
+"voor installatie en upgrades."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Klaar om alle updates te installeren"
+
+msgid "ai_ni_all_installed"
+msgstr "Alle toepassingen zijn al geïnstalleerd"
+
+msgid "ai_ni_bd_details"
+msgstr "Details"
+
+msgid "ai_ni_continue_install"
+msgstr "Doorgaan met de installatie?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Besturingssysteem bijgewerkt. Het apparaat wordt opnieuw opgestart. Wacht "
+"tot alles is voltooid. Onderbreekt u het proces, dan kan dit schadelijk zijn "
+"voor het apparaat."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Besturingssysteem bijgewerkt. Het apparaat wordt opnieuw opgestart. Wacht "
+"tot alles is voltooid. Onderbreekt u het proces, dan kan dit schadelijk zijn "
+"voor het apparaat."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Niet voldoende energie om Maemo-update te installeren.\n"
+"Laad de batterij op en probeer het opnieuw."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Kan niet installeren.\n"
+"Catalogus is niet compatibel met het huidige besturingssysteem."
+
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' downloaden mislukt"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Kan '%s' niet downloaden.\n"
+"Toepassingspakket niet gevonden."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Kan '%s' niet installeren.\n"
+"Toepassingspakketten conflicteren."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Kan '%s' niet installeren.\n"
+"Installatiebestand beschadigd."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Kan '%s' niet installeren.\n"
+"Toepassingspakket niet compatibel."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Kan '%s' niet installeren.\n"
+"Sommige voor de installatie vereiste toepassingspakketten ontbreken."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Kan '%s' niet installeren"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Kan '%s' niet installeren.\n"
+"Toepassingspakket is niet compatibel met het huidige besturingssysteem."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' is geopend.\n"
+"Sluit de toepassing en probeer het opnieuw."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Kan '%s' niet verwijderen.\n"
+"Sommige toepassingspakketten worden vereist door andere toepassingen."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Kan '%s' niet verwijderen"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Kan '%s' niet bijwerken.\n"
+"Toepassingspakketten conflicteren."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Kan '%s' niet bijwerken.\n"
+"Update-bestand beschadigd."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Kan '%s' niet bijwerken"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Kan '%s' niet bijwerken.\n"
+"Toepassingspakket niet compatibel."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Kan '%s' niet bijwerken.\n"
+"Sommige voor het bijwerken\n"
+"vereiste toepassingspakketten ontbreken."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Installatie van update wordt voltooid"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "Installatie van '%s' geslaagd. Toepassing starten?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Onvoldoende ruimte in het installatiegeheugen van de toepassing. Verwijder "
+"enkele toepassingen om genoeg ruimte vrij te maken voor deze installatie."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d toepassing geïnstalleerd"
+msgstr[1] "%d toepassingen geïnstalleerd"
+
+msgid "ai_ni_operation_failed"
+msgstr "Bewerking is mislukt"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Bewerking is bezig.\n"
+"Een ogenblik geduld."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' is al geïnstalleerd"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Software-updates geïnstalleerd"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Besturingssysteem bijgewerkt"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Kan catalogus niet verwijderen"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' verwijderd"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Kan de lijst met toepassingen niet vernieuwen.\n"
+"Geen toegang tot catalogi.\n"
+"Controleer de netwerkverbinding.\n"
+"Opnieuw proberen?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Lijst met toepassingen gedeeltelijk vernieuwd.\n"
+"Een aantal catalogi is niet beschikbaar.\n"
+"Controleer de details van de catalogus."
+
+msgid "ai_ni_updates_restart"
+msgstr "Software-updates geïnstalleerd. Het apparaat wordt opnieuw opgestart."
+
+msgid "ai_nw_checking_updates"
+msgstr "Controleren op updates, een ogenblik geduld"
+
+msgid "ai_nw_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "ai_nw_downloading"
+msgstr "Bezig met downloaden van %s"
+
+msgid "ai_nw_installing"
+msgstr "Bezig met installeren van '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Voorbereiden op installatie, een ogenblik geduld"
+
+msgid "ai_nw_searching"
+msgstr "Bezig met zoeken"
+
+msgid "ai_nw_uninstalling"
+msgstr "Bezig met verwijderen van '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Bezig met bijwerken van '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Bezig met laden"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Nieuwe softwarereleases"
+
+msgid "ai_sb_app_push_link"
+msgstr "Downloaden"
+
+msgid "ai_sb_app_push_no"
+msgstr "Negeren"
+
+msgid "ai_sb_update_am"
+msgstr "Doorgaan"
+
+msgid "ai_sb_update_description"
+msgstr "Nieuwe software-updates"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi-software (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo-update"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Software van derden (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Catalogus toevoegen"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Onderdelen"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distributie"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Naam van catalogus"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Webadres"
+
+msgid "ai_ti_confirm_install"
+msgstr "Installeren"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Verwijderen"
+
+msgid "ai_ti_confirm_update"
+msgstr "Bijwerken"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Ik begrijp het en ga akkoord"
+
+msgid "ai_ti_details"
+msgstr "Details van toepassing"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Overzicht"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Afhankelijkheden"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Beschrijving"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Installeren"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problemen"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Deïnstallatie"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Bijwerken"
+
+msgid "ai_ti_edit_repository"
+msgstr "Details van catalogus"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Ik ga akkoord"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Mislukte catalogi"
+
+msgid "ai_ti_install_apps"
+msgstr "Toepassingen installeren"
+
+msgid "ai_ti_license_agreement"
+msgstr "Gebruiksrechtovereenkomst"
+
+msgid "ai_ti_log"
+msgstr "Logboek"
+
+msgid "ai_ti_new_repository"
+msgstr "Nieuwe catalogus"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo-update"
+
+msgid "ai_ti_repository"
+msgstr "Catalogi"
+
+msgid "ai_ti_save_log"
+msgstr "Logboek opslaan"
+
+msgid "ai_ti_search"
+msgstr "Toepassingen zoeken"
+
+msgid "ai_ti_select_package"
+msgstr "Toepassing selecteren"
+
+msgid "ai_va_details_available_version"
+msgstr "Beschikbare versie:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Catalogus:"
+
+msgid "ai_va_details_download_size"
+msgstr "Downloadgrootte:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Installeren van '%1$s' maakt %2$s apparaatgeheugen vrij"
+
+msgid "ai_va_details_install_requires"
+msgstr "Installeren van '%1$s' vereist %2$s apparaatgeheugen"
+
+msgid "ai_va_details_installed_version"
+msgstr "Geïnstalleerde versie:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Grootte:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Beschadigd"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Beschadigd en niet bijwerkbaar"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Beschadigd maar bijwerkbaar"
+
+msgid "ai_va_details_status_installable"
+msgstr "Installeerbaar"
+
+msgid "ai_va_details_status_installed"
+msgstr "Geïnstalleerd"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Niet installeerbaar"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Update beschikbaar maar niet installeerbaar"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Bijwerkbaar"
+
+msgid "ai_va_details_unable_install"
+msgstr "Kan '%s' niet installeren"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Kan '%s' niet verwijderen"
+
+msgid "ai_va_details_unable_update"
+msgstr "Kan '%s' niet bijwerken"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Verwijderen van '%1$s' maakt %2$s apparaatgeheugen vrij"
+
+msgid "ai_va_details_update_frees"
+msgstr "Bijwerken van '%1$s' maakt %2$s apparaatgeheugen vrij"
+
+msgid "ai_va_details_update_requires"
+msgstr "Bijwerken van '%1$s' vereist %2$s apparaatgeheugen"
+
+msgid "ai_va_search_name"
+msgstr "Naam van toepassing"
+
+msgid "ai_va_search_name_description"
+msgstr "Naam en beschrijv. v. toep."
+
+msgid "ai_va_sort_name"
+msgstr "Naam"
+
+msgid "ai_va_sort_size"
+msgstr "Grootte"
+
+msgid "apma_fi_by_provider"
+msgstr "van %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Nieuwe releases"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Nieuwe updates"

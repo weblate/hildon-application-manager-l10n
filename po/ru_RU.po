@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Диспетчер приложений"
+
+msgid "ai_ap_name"
+msgstr "Дисп-р прил."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Свойства"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Добавить"
+
+msgid "ai_bd_confirm_details"
+msgstr "Свойства"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Продолжить"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Удалить"
+
+msgid "ai_bd_create_backup"
+msgstr "Созд.рез.коп."
+
+msgid "ai_bd_license_ok"
+msgstr "Принять"
+
+msgid "ai_bd_log_clear"
+msgstr "Очистить"
+
+msgid "ai_bd_log_save_as"
+msgstr "Сохранить как"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Сохранить"
+
+msgid "ai_bd_repository_delete"
+msgstr "Удалить"
+
+msgid "ai_bd_repository_new"
+msgstr "Создать"
+
+msgid "ai_bd_search_ok"
+msgstr "Поиск"
+
+msgid "ai_category_all"
+msgstr "Все"
+
+msgid "ai_category_desktop"
+msgstr "Рабочий стол"
+
+msgid "ai_category_development"
+msgstr "Разработка"
+
+msgid "ai_category_education"
+msgstr "Образование"
+
+msgid "ai_category_games"
+msgstr "Игры"
+
+msgid "ai_category_graphics"
+msgstr "Графические"
+
+msgid "ai_category_multimedia"
+msgstr "Мультимедийные"
+
+msgid "ai_category_navigation"
+msgstr "Местоположение и навигация"
+
+msgid "ai_category_network"
+msgstr " Сеть"
+
+msgid "ai_category_office"
+msgstr "Офис"
+
+msgid "ai_category_other"
+msgstr "Другие"
+
+msgid "ai_category_science"
+msgstr "Наука"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Подключаемые модули для совместного доступа"
+
+msgid "ai_category_system"
+msgstr "Система"
+
+msgid "ai_category_utilities"
+msgstr "Утилиты"
+
+msgid "ai_cb_restarting_device"
+msgstr "Перезапуск устройства"
+
+msgid "ai_fi_details_category"
+msgstr "Категория:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Лицо, осуществляющее поддержку:"
+
+msgid "ai_fi_details_package"
+msgstr "Приложение:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Конфликт с пакетами приложений:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Пакеты приложений для установки:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Отсутствующие пакеты приложений:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Требуется для пакетов приложений:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Пакеты приложений для удаления:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Пакеты приложений для обновления:"
+
+msgid "ai_fi_details_status"
+msgstr "Состояние:"
+
+msgid "ai_fi_details_summary"
+msgstr "Общая информация:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Компоненты"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Отключено"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Дистрибутив"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Имя каталога"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Веб-адрес"
+
+msgid "ai_fi_search_area"
+msgstr "Область поиска"
+
+msgid "ai_fi_search_words"
+msgstr "Найти текст"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Добавить новый каталог?\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Каталог уже установлен, но заблокирован.\n"
+"Разблокировать сейчас?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Чтобы установить из этого источника, добавьте его каталог."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"ПО, устанавливаемое из этого каталога, не принадлежит Nokia и может "
+"содержать вредоносные компоненты, манипулирующие с данными, хранящимися на "
+"устройстве, а также способные причинить вред устройству или нанести вам "
+"финансовый ущерб."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Для установки этого обновления Maemo необходимо наличие на ПК приложения "
+"Nokia PC Suite.\n"
+"Подсоедините устройство к ПК при помощи кабеля USB и откройте приложение "
+"Nokia PC Suite. Это приложение поможет вам обновить Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "не удалось обновить"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Для обновления устройства до этой версии операционной системы воспользуйтесь "
+"приложением Nokia PC Suite, установленном на вашем ПК.\n"
+"Подключите устройство к ПК при помощи USB-кабеля и запустите приложение."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Во время установки будут закрыты все приложения и отключены все функции "
+"(включая экстренные вызовы).\n"
+"Будет выполнен перезапуск устройства.\n"
+"Не используйте устройство в это время.\n"
+"Рекомендуется выполнить резервное копирование."
+
+msgid "ai_ia_restore"
+msgstr ""
+"В резервной копии найден следующий список.\n"
+"Выберите приложения для загрузки и установки."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(нет приложений)"
+
+msgid "ai_ia_storage"
+msgstr "Требуемая память: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Сначала введите имя каталога"
+
+msgid "ai_ib_enter_text"
+msgstr "Введите текст для поиска"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Сначала введите веб-адрес"
+
+msgid "ai_ib_no_matches"
+msgstr "Совпадений не найдено"
+
+msgid "ai_ib_no_repositories"
+msgstr "Каталоги не используются"
+
+msgid "ai_ib_search_complete"
+msgstr "Поиск завершен"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Не удается отменить.\n"
+"Подождите."
+
+msgid "ai_ib_unable_edit"
+msgstr "Не удается изменить каталог"
+
+msgid "ai_li_install"
+msgstr "Загрузить"
+
+msgid "ai_li_no_applications_available"
+msgstr "(нет доступных приложений)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(нет установленных приложений)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(нет доступных обновлений)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Журнал"
+
+msgid "ai_li_uninstall"
+msgstr "Удалить"
+
+msgid "ai_li_update"
+msgstr "Обновить"
+
+msgid "ai_me_details"
+msgstr "Свойства"
+
+msgid "ai_me_package_install_file"
+msgstr "Установить из файла"
+
+msgid "ai_me_refresh"
+msgstr "Обновить"
+
+msgid "ai_me_search"
+msgstr "Поиск"
+
+msgid "ai_me_settings"
+msgstr "Параметры"
+
+msgid "ai_me_tools_log"
+msgstr "Журнал"
+
+msgid "ai_me_tools_repository"
+msgstr "Каталоги приложений"
+
+msgid "ai_me_tools_restore"
+msgstr "Восстановить приложения"
+
+msgid "ai_me_update_all"
+msgstr "Обновить все"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Сбой загрузки '%s'. Повторить попытку?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Вы собираетесь установить приложение, не принадлежащее Nokia. Приложения из "
+"непроверенных источников могут содержать вредоносные компоненты, способные "
+"нанести финансовый ущерб, манипулировать с данными, хранящимися на "
+"устройстве или каким-либо другим способом причинить вред устройству. "
+"Приложение также может являться предметом лицензирования и соблюдения прав "
+"третьей стороны.\n"
+"Устанавливайте на свой страх и риск."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Некоторые приложения, которые вы собираетесь установить, не принадлежат "
+"Nokia. Приложения из непроверенных источников могут содержать вредоносные "
+"компоненты, способные нанести финансовый ущерб, манипулировать с данными, "
+"хранящимися на устройстве или каким-либо другим способом причинить вред "
+"устройству. Приложения также может являться предметом лицензирования и "
+"соблюдения прав третьей стороны.\n"
+"Устанавливайте на свой страх и риск."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Удалить каталог?\n"
+"Пакеты приложений, содержащиеся в этом каталоге, станут недоступными для "
+"установки и обновления."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Готово для установки всех обновлений"
+
+msgid "ai_ni_all_installed"
+msgstr "Все приложения уже установлены"
+
+msgid "ai_ni_bd_details"
+msgstr "Свойства"
+
+msgid "ai_ni_continue_install"
+msgstr "Продолжить установку?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"ОС обновлена. Устройство будет перезапущено. Не производите никаких "
+"действий, т.к. это может нанести вред устройству."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"ОС обновлена. Устройство будет перезапущено. Не производите никаких "
+"действий, т.к. это может нанести вред устройству."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Заряда батареи недостаточно для установки обновления Maemo.\n"
+"Начните процесс зарядки и повторите попытку."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Не удается установить.\n"
+"Каталог несовместим с имеющейся операционной системой."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Сбой загрузки '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Не удается загрузить '%s'.\n"
+"Пакет приложений не найден."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Не удается установить '%s'.\n"
+"Конфликт пакетов приложений."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Не удается установить '%s'.\n"
+"Установочный файл поврежден."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Не удается установить '%s'.\n"
+"Несовместимый пакет приложений."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Не удается установить '%s'.\n"
+"Отсутствуют некоторые пакеты приложений, необходимые для установки."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Не удается установить '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Не удается установить %s.\n"
+"Пакет приложений несовместим с этой ОС."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"Приложение '%s' открыто.\n"
+"Закройте приложение и повторите попытку."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Не удается удалить '%s'.\n"
+"Некоторые пакеты приложений нужны для других приложений."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Не удается удалить '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Не удается обновить '%s'.\n"
+"Конфликт пакетов приложений."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Не удается обновить '%s'.\n"
+"Файл обновления поврежден."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Не удается обновить '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Не удается обновить '%s'.\n"
+"Несовместимый пакет приложений."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Не удается обновить '%s'.\n"
+"Отсутствуют некоторые пакеты приложений,\n"
+"необходимые для обновления."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Завершение установки обновления"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' успешно установлено. Запустить приложение?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Недостаточно памяти для установки приложения. Удалите какие-нибудь "
+"приложения, чтобы освободить место для установки."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d приложение успешно установлено"
+msgstr[1] "%d приложения успешно установлены"
+msgstr[2] "%d приложений успешно установлены"
+
+msgid "ai_ni_operation_failed"
+msgstr "Сбой операции."
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Операция выполняется.\n"
+"Подождите."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' уже установлено"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Обновления ПО успешно установлены"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Операционная система была успешно обновлена"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Не удается удалить каталог"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "Приложение '%s' успешно удалено"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Не удается обновить список приложений.\n"
+"Нет доступа к каталогам.\n"
+"Проверьте подключение к сети.\n"
+"Повторить попытку?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Список приложений частично обновлен.\n"
+"Некоторые каталоги недоступны.\n"
+"Проверьте сведения каталога."
+
+msgid "ai_ni_updates_restart"
+msgstr "Обновления ПО успешно установлены. Устройство будет перезапущено."
+
+msgid "ai_nw_checking_updates"
+msgstr "Проверка на наличие обновлений, подождите"
+
+msgid "ai_nw_connecting"
+msgstr "Соединение"
+
+msgid "ai_nw_downloading"
+msgstr "Загрузка %s"
+
+msgid "ai_nw_installing"
+msgstr "Установка '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Подготовка к установке, подождите"
+
+msgid "ai_nw_searching"
+msgstr "Идет поиск"
+
+msgid "ai_nw_uninstalling"
+msgstr "Удаление '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Обновление '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Загрузка"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Новые версии ПО"
+
+msgid "ai_sb_app_push_link"
+msgstr "Загрузить"
+
+msgid "ai_sb_app_push_no"
+msgstr "Пропустить"
+
+msgid "ai_sb_update_am"
+msgstr "Продолжить"
+
+msgid "ai_sb_update_description"
+msgstr "Нов. обновления ПО"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "ПО Ovi (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Обновление Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Стороннее ПО (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Добавить каталог"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Компоненты"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Дистрибутив"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Имя каталога"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Веб-адрес"
+
+msgid "ai_ti_confirm_install"
+msgstr "Установить"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Удалить"
+
+msgid "ai_ti_confirm_update"
+msgstr "Обновить"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Я это понимаю и хочу продолжить установку"
+
+msgid "ai_ti_details"
+msgstr "Сведения о приложении"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Общая информация"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Зависимости"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Описание"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Установка"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Проблемы"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Удаление"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Обновление"
+
+msgid "ai_ti_edit_repository"
+msgstr "Свойства каталога"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Принимаю"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Каталоги с ошибками"
+
+msgid "ai_ti_install_apps"
+msgstr "Установить приложения"
+
+msgid "ai_ti_license_agreement"
+msgstr "Лицензионное соглашение"
+
+msgid "ai_ti_log"
+msgstr "Журнал"
+
+msgid "ai_ti_new_repository"
+msgstr "Новый каталог"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Обновление Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Каталоги"
+
+msgid "ai_ti_save_log"
+msgstr "Сохранить журнал"
+
+msgid "ai_ti_search"
+msgstr "Найти приложение"
+
+msgid "ai_ti_select_package"
+msgstr "Выбрать приложение"
+
+msgid "ai_va_details_available_version"
+msgstr "Доступная версия:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Каталог:"
+
+msgid "ai_va_details_download_size"
+msgstr "Размер загрузки:"
+
+msgid "ai_va_details_install_frees"
+msgstr "При установке '%1$s' освободится %2$s аппаратной памяти"
+
+msgid "ai_va_details_install_requires"
+msgstr "Для установки '%1$s' требуется %2$s аппаратной памяти"
+
+msgid "ai_va_details_installed_version"
+msgstr "Установленная версия:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Размер:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Повреждено"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Повреждено, обновление невозможно"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Повреждено, однако возможно обновление"
+
+msgid "ai_va_details_status_installable"
+msgstr "Возможна установка"
+
+msgid "ai_va_details_status_installed"
+msgstr "Установлено"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Недоступен"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Установка невозможна"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Обновление доступно, однако установка невозможна"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Возможно обновление"
+
+msgid "ai_va_details_unable_install"
+msgstr "Не удается установить '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Не удается удалить '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Не удается обновить '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "При удалении '%1$s' освободится %2$s аппаратной памяти"
+
+msgid "ai_va_details_update_frees"
+msgstr "При обновлении '%1$s' освободится %2$s аппаратной памяти"
+
+msgid "ai_va_details_update_requires"
+msgstr "При обновлении '%1$s' требуется %2$s аппаратной памяти"
+
+msgid "ai_va_search_name"
+msgstr "Имя приложения"
+
+msgid "ai_va_search_name_description"
+msgstr "Имя и описание приложения"
+
+msgid "ai_va_sort_name"
+msgstr "По имени"
+
+msgid "ai_va_sort_size"
+msgstr "По размеру"
+
+msgid "apma_fi_by_provider"
+msgstr "от %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Новые версии"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Нов. обновления ПО"

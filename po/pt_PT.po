@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Gestor de aplicações"
+
+msgid "ai_ap_name"
+msgstr "Gestor de apl."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Detalhes"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Adicionar"
+
+msgid "ai_bd_confirm_details"
+msgstr "Detalhes"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Continuar"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Desinstalar"
+
+msgid "ai_bd_create_backup"
+msgstr "Criar cópia"
+
+msgid "ai_bd_license_ok"
+msgstr "Aceitar"
+
+msgid "ai_bd_log_clear"
+msgstr "Limpar"
+
+msgid "ai_bd_log_save_as"
+msgstr "Guardar como"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Guardar"
+
+msgid "ai_bd_repository_delete"
+msgstr "Eliminar"
+
+msgid "ai_bd_repository_new"
+msgstr "Novo"
+
+msgid "ai_bd_search_ok"
+msgstr "Pesquisar"
+
+msgid "ai_category_all"
+msgstr "Todas"
+
+msgid "ai_category_desktop"
+msgstr "Ambiente de trabalho"
+
+msgid "ai_category_development"
+msgstr "Desenvolvimento"
+
+msgid "ai_category_education"
+msgstr "Educação"
+
+msgid "ai_category_games"
+msgstr "Jogos"
+
+msgid "ai_category_graphics"
+msgstr "Gráficos"
+
+msgid "ai_category_multimedia"
+msgstr "Multimédia"
+
+msgid "ai_category_navigation"
+msgstr "Localização e navegação"
+
+msgid "ai_category_network"
+msgstr " Rede"
+
+msgid "ai_category_office"
+msgstr "Escritório"
+
+msgid "ai_category_other"
+msgstr "Outros"
+
+msgid "ai_category_science"
+msgstr "Ciência"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Plug-ins de partilha"
+
+msgid "ai_category_system"
+msgstr "Sistema"
+
+msgid "ai_category_utilities"
+msgstr "Utilitários"
+
+msgid "ai_cb_restarting_device"
+msgstr "A reiniciar o dispositivo"
+
+msgid "ai_fi_details_category"
+msgstr "Categoria:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Mantido por:"
+
+msgid "ai_fi_details_package"
+msgstr "Aplicação:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Conflito com os pacotes de aplicação:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Pacotes de aplicação para instalar:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Pacotes de aplicação em falta:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Necessário aos pacotes de aplicação:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Pacotes de aplicação para remover:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Pacotes de aplicação para actualizar:"
+
+msgid "ai_fi_details_status"
+msgstr "Estado:"
+
+msgid "ai_fi_details_summary"
+msgstr "Resumo:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Componentes"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Desactivado"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distribuição"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Nome do catálogo"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Endereço da Web"
+
+msgid "ai_fi_search_area"
+msgstr "Pesquisar área"
+
+msgid "ai_fi_search_words"
+msgstr "Pesquisar palavras"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Adicionar novo catálogo?\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Catálogo já instalado mas desactivado.\n"
+"Activar agora?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Para instalar a partir desta fonte, adicione este catálogo."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"O software instalado deste catálogo não é fornecido pela Nokia e pode "
+"incluir malware para aceder a dados no dispositivo, provocar danos "
+"financeiros ou afectar o dispositivo."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Esta actualização do Maemo requer o Nokia PC Suite no seu PC para "
+"instalação.\n"
+"Ligue o dispositivo ao PC, via USB e abra o Nokia PC Suite. A aplicação guiá-"
+"lo-á durante o resto da actualização do Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "falha ao actualizar"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Para actualizar o seu dispositivo com esta versão do sistema operativo, deve "
+"utilizar o Nokia PC Suite no seu PC.\n"
+"Ligue o dispositivo ao PC através de um cabo USB e inicie a aplicação."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Todas as aplicações serão fechadas e todas as funções serão desactivadas "
+"(incluindo chamadas de emergência).\n"
+"O dispositivo será reiniciado.\n"
+"Não utilize o dispositivo neste momento.\n"
+"Recomenda-se que faça uma cópia de segurança."
+
+msgid "ai_ia_restore"
+msgstr ""
+"A cópia de segurança lista estas aplicações.\n"
+"Seleccione aplicações para descarregar e instalar."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(sem aplicações)"
+
+msgid "ai_ia_storage"
+msgstr "Memória necessária: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Introduza primeiro o nome do catálogo"
+
+msgid "ai_ib_enter_text"
+msgstr "Introduza o texto a localizar"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Introduza primeiro o endereço da Web"
+
+msgid "ai_ib_no_matches"
+msgstr "Não foram encontrados resultados"
+
+msgid "ai_ib_no_repositories"
+msgstr "Nenhum catálogo em utilização"
+
+msgid "ai_ib_search_complete"
+msgstr "Pesquisa concluída"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Não foi possível cancelar.\n"
+"Aguarde, por favor."
+
+msgid "ai_ib_unable_edit"
+msgstr "Não foi possível editar o catálogo"
+
+msgid "ai_li_install"
+msgstr "Descarregar"
+
+msgid "ai_li_no_applications_available"
+msgstr "(aplicações indisponíveis)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(nenhuma aplicação instalada)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(actualizações indisponíveis)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Registo"
+
+msgid "ai_li_uninstall"
+msgstr "Desinstalar"
+
+msgid "ai_li_update"
+msgstr "Actualizar"
+
+msgid "ai_me_details"
+msgstr "Detalhes"
+
+msgid "ai_me_package_install_file"
+msgstr "Instalar a partir do ficheiro"
+
+msgid "ai_me_refresh"
+msgstr "Actualizar"
+
+msgid "ai_me_search"
+msgstr "Pesquisar"
+
+msgid "ai_me_settings"
+msgstr "Definições"
+
+msgid "ai_me_tools_log"
+msgstr "Registo"
+
+msgid "ai_me_tools_repository"
+msgstr "Catálogos de aplicações"
+
+msgid "ai_me_tools_restore"
+msgstr "Restaurar as aplicações"
+
+msgid "ai_me_update_all"
+msgstr "Actualizar tudo"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Falha ao descarregar '%s'. Tentar novamente?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"A aplicação que está prestes a instalar não é fornecida pela Nokia. As "
+"aplicações provenientes de fontes não fidedignas podem conter malware que "
+"pode causar danos a nível financeiro, aceder a dados armazenados no "
+"dispositivo ou danificar o dispositivo de outra forma. A aplicação também "
+"pode estar sujeita a direitos de terceiros e termos de licenciamento.\n"
+"O utilizador será responsável pela instalação."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Algumas aplicações que está prestes a instalar não são fornecidas pela "
+"Nokia. As aplicações provenientes de fontes não seguras podem conter malware "
+"que pode causar danos a nível financeiro, acesso a dados armazenados no "
+"dispositivo ou danificar o dispositivo de outra forma. A aplicação também "
+"pode estar sujeita a direitos e termos de licença de terceiros.\n"
+"A instalação será efectuada sob a sua responsabilidade."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Eliminar catálogo?\n"
+"Os pacotes de aplicações oferecidos por este catálogo deixarão de estar "
+"disponíveis para instalação e actualizações."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Pronto para instalar todas as actualizações"
+
+msgid "ai_ni_all_installed"
+msgstr "Todas as aplicações já estão instaladas"
+
+msgid "ai_ni_bd_details"
+msgstr "Detalhes"
+
+msgid "ai_ni_continue_install"
+msgstr "Continuar a instalação?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Sistema operativo actualizado com êxito. O dispositivo será reiniciado. "
+"Aguarde já que a interrupção da actualização poderá danificar o dispositivo."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Sistema operativo actualizado com êxito. O dispositivo será reiniciado. "
+"Aguarde já que a interrupção da actualização poderá danificar o dispositivo."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Sem bateria suficiente para instalar a actualização do Maemo.\n"
+"Inicie o carregamento e tente novamente."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Não foi possível instalar.\n"
+"O catálogo é incompatível com o sistema operativo actual."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Falha ao descarregar '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Não foi possível descarregar '%s.'\n"
+"Pacote de aplicação não encontrado."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Não foi possível instalar '%s'.\n"
+"Conflito de pacotes de aplicação."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Não foi possível instalar '%s'.\n"
+"Ficheiro de instalação danificado."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Não foi possível instalar '%s'.\n"
+"Pacote de aplicação incompatível."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Não foi possível instalar '%s'.\n"
+"Alguns pacotes de aplicação necessários para a instalação estão em falta."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Não foi possível instalar '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Não foi possível instalar '%s'.\n"
+"O pacote de aplicação é incompatível com o software actual."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' está aberta.\n"
+"Feche a aplicação e tente novamente."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Não foi possível desinstalar '%s'.\n"
+"Alguns pacotes de aplicação são necessários a outras aplicações."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Não foi possível desinstalar '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Não foi possível actualizar '%s'.\n"
+"Conflito de pacotes de aplicação."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Não foi possível actualizar '%s'.\n"
+"Ficheiro de actualização danificado."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Não foi possível actualizar '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Não foi possível actualizar '%s'.\n"
+"Pacote de aplicação incompatível."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Não foi possível actualizar '%s'.\n"
+"Alguns pacotes de aplicação necessários\n"
+"à actualização estão em falta."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "A concluir a instalação da actualização"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "A instalação de '%s' foi concluída. Iniciar aplicação?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Não há espaço suficiente na memória disponível para aplicações. Desinstale "
+"algumas aplicações para continuar a instalação."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d aplicação instalada com êxito"
+msgstr[1] "%d aplicações instaladas com êxito"
+
+msgid "ai_ni_operation_failed"
+msgstr "Falha da operação"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Operação a decorrer.\n"
+"Por favor, aguarde."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' já instalado"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Actualizações de software instaladas com êxito"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Sistema operativo actualizado com êxito"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Não foi possível eliminar o catálogo"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' desinstalada com êxito"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Não foi possível actualizar a lista de aplicações.\n"
+"Não foi possível aceder aos catálogos.\n"
+"Verifique a ligação à rede.\n"
+"Tentar novamente?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Lista de aplicações parcialmente actualizada.\n"
+"Alguns catálogos indisponíveis.\n"
+"Verifique os detalhes do catálogo."
+
+msgid "ai_ni_updates_restart"
+msgstr ""
+"Actualizações de software correctamente instaladas. O dispositivo será "
+"reiniciado."
+
+msgid "ai_nw_checking_updates"
+msgstr "A procurar actualizações, aguarde por favor"
+
+msgid "ai_nw_connecting"
+msgstr "A ligar"
+
+msgid "ai_nw_downloading"
+msgstr "A descarregar %s"
+
+msgid "ai_nw_installing"
+msgstr "A instalar '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "A preparar para a instalação, aguarde por favor"
+
+msgid "ai_nw_searching"
+msgstr "A pesquisar"
+
+msgid "ai_nw_uninstalling"
+msgstr "A desinstalar '%s'"
+
+msgid "ai_nw_updating"
+msgstr "A actualizar '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "A carregar"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Novas edições de software"
+
+msgid "ai_sb_app_push_link"
+msgstr "Descarregar"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ignorar"
+
+msgid "ai_sb_update_am"
+msgstr "Continuar"
+
+msgid "ai_sb_update_description"
+msgstr "Novas actualizações de software"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Software Ovi (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Actualização do Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Software de terceiros (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Adicionar catálogo"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Componentes:"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distribuição:"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Nome do catálogo:"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Endereço da Web:"
+
+msgid "ai_ti_confirm_install"
+msgstr "Instalar"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Desinstalar"
+
+msgid "ai_ti_confirm_update"
+msgstr "Actualizar"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Compreendi e concordo"
+
+msgid "ai_ti_details"
+msgstr "Detalhes da aplicação"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Resumo"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Dependências"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Descrição"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "A instalar"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problemas"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "A desinstalar"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "A actualizar"
+
+msgid "ai_ti_edit_repository"
+msgstr "Detalhes do catálogo"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Concordo"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Catálogos falhados"
+
+msgid "ai_ti_install_apps"
+msgstr "Instalar aplicações"
+
+msgid "ai_ti_license_agreement"
+msgstr "Acordo de licença"
+
+msgid "ai_ti_log"
+msgstr "Registo"
+
+msgid "ai_ti_new_repository"
+msgstr "Novo catálogo"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Actualização do Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Catálogos"
+
+msgid "ai_ti_save_log"
+msgstr "Guardar registo"
+
+msgid "ai_ti_search"
+msgstr "Pesquisar aplicações"
+
+msgid "ai_ti_select_package"
+msgstr "Seleccionar aplicação"
+
+msgid "ai_va_details_available_version"
+msgstr "Versão disponível:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Catálogo:"
+
+msgid "ai_va_details_download_size"
+msgstr "Tamanho da transferência:"
+
+msgid "ai_va_details_install_frees"
+msgstr "A instalação de '%1$s' liberta %2$s de memória do dispositivo"
+
+msgid "ai_va_details_install_requires"
+msgstr "A instalação de '%1$s' necessita de %2$s de memória do dispositivo"
+
+msgid "ai_va_details_installed_version"
+msgstr "Versão instalada:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Tamanho:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Incompleto"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Incompleto e não pode ser actualizado"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Incompleto mas pode ser actualizado"
+
+msgid "ai_va_details_status_installable"
+msgstr "Pode ser instalado"
+
+msgid "ai_va_details_status_installed"
+msgstr "Instalado"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Indisponível"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Não pode ser instalado"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Actualização disponível mas não pode ser instalada"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Pode ser actualizado"
+
+msgid "ai_va_details_unable_install"
+msgstr "Não é possível instalar '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Não é possível desinstalar '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Não é possível actualizar '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "A desinstalação de '%1$s' liberta %2$s de memória do dispositivo"
+
+msgid "ai_va_details_update_frees"
+msgstr "A actualização de '%1$s' liberta %2$s de memória do dispositivo"
+
+msgid "ai_va_details_update_requires"
+msgstr "A actualização de '%1$s' necessita de %2$s de memória do dispositivo"
+
+msgid "ai_va_search_name"
+msgstr "Nome da aplicação"
+
+msgid "ai_va_search_name_description"
+msgstr "Nome e descrição da aplicação"
+
+msgid "ai_va_sort_name"
+msgstr "Nome"
+
+msgid "ai_va_sort_size"
+msgstr "Tamanho"
+
+msgid "apma_fi_by_provider"
+msgstr "por %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Novas versões"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Novas actualizações"

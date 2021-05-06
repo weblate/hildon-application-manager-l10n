@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Programhanteraren"
+
+msgid "ai_ap_name"
+msgstr "Programhant."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Information"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Lägg till"
+
+msgid "ai_bd_confirm_details"
+msgstr "Information"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Fortsätt"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Avinstallera"
+
+msgid "ai_bd_create_backup"
+msgstr "Skapa kopia"
+
+msgid "ai_bd_license_ok"
+msgstr "Godkänn"
+
+msgid "ai_bd_log_clear"
+msgstr "Töm"
+
+msgid "ai_bd_log_save_as"
+msgstr "Spara som"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Spara"
+
+msgid "ai_bd_repository_delete"
+msgstr "Ta bort"
+
+msgid "ai_bd_repository_new"
+msgstr "Ny"
+
+msgid "ai_bd_search_ok"
+msgstr "Sök"
+
+msgid "ai_category_all"
+msgstr "Alla"
+
+msgid "ai_category_desktop"
+msgstr "Skrivbord"
+
+msgid "ai_category_development"
+msgstr "Utveckling"
+
+msgid "ai_category_education"
+msgstr "Utbildning"
+
+msgid "ai_category_games"
+msgstr "Spel"
+
+msgid "ai_category_graphics"
+msgstr "Grafik"
+
+msgid "ai_category_multimedia"
+msgstr "Multimedia"
+
+msgid "ai_category_navigation"
+msgstr "Position och navigering"
+
+msgid "ai_category_network"
+msgstr " Nätverk"
+
+msgid "ai_category_office"
+msgstr "Kontor"
+
+msgid "ai_category_other"
+msgstr "Övriga"
+
+msgid "ai_category_science"
+msgstr "Vetenskap"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Dela insticksprogram"
+
+msgid "ai_category_system"
+msgstr "System"
+
+msgid "ai_category_utilities"
+msgstr "Program"
+
+msgid "ai_cb_restarting_device"
+msgstr "Enheten startas om"
+
+msgid "ai_fi_details_category"
+msgstr "Kategori:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Underhållsansvarig:"
+
+msgid "ai_fi_details_package"
+msgstr "Program:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Konflikt med programpaket:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Programpaket att installera:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Programpaket som saknas:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Krävs av programpaket:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Programpaket att ta bort:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Programpaket att uppdatera:"
+
+msgid "ai_fi_details_status"
+msgstr "Status:"
+
+msgid "ai_fi_details_summary"
+msgstr "Sammanfattning:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Komponenter"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Inaktiverad"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distribution"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Katalognamn"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Webbadress"
+
+msgid "ai_fi_search_area"
+msgstr "Sök område"
+
+msgid "ai_fi_search_words"
+msgstr "Sök ord"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Vill du lägga till en ny katalog?\n"
+"%s"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Katalogen är installerad men inaktiverad.\n"
+"Aktivera nu?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Om du vill installera från den här källan lägger du till dess katalog."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Programvaran som installeras från den här katalogen tillhandahålls inte från "
+"Nokia och kan innehålla skadlig programvara som kommer åt data som lagrats "
+"på enheten, orsakar ekonomisk skada eller skadar enheten."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"För installation av den här Maemo-uppdateringen krävs Nokia PC Suite på "
+"datorn.\n"
+"Anslut enheten till datorn via USB-kabel och öppna Nokia PC Suite. "
+"Programmet vägleder dig genom resten av Maemo-uppdateringen."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "uppdaterades inte"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"För att uppdatera enheten till den här versionen av operativsystemet måste "
+"du använda Nokia PC Suite på datorn.\n"
+"Anslut enheten till datorn via en USB-kabel och starta programmet."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Alla program stängs under installationen och alla funktioner inaktiveras "
+"(inklusive nödsamtal).\n"
+"Enheten startas sedan om.\n"
+"Använd inte enheten under tiden.\n"
+"Säkerhetskopiering rekommenderas."
+
+msgid "ai_ia_restore"
+msgstr ""
+"I säkerhetskopian anges följande program.\n"
+"Välj program att hämta och installera."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(inga program)"
+
+msgid "ai_ia_storage"
+msgstr "Minne som krävs: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Ange katalognamn först"
+
+msgid "ai_ib_enter_text"
+msgstr "Ange den text som ska sökas"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Ange webbadress först"
+
+msgid "ai_ib_no_matches"
+msgstr "Det finns inga matchningar"
+
+msgid "ai_ib_no_repositories"
+msgstr "Inga kataloger används"
+
+msgid "ai_ib_search_complete"
+msgstr "Sökningen är klar"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Det gick inte att avbryta.\n"
+"Vänta."
+
+msgid "ai_ib_unable_edit"
+msgstr "Det gick inte att redigera katalogen"
+
+msgid "ai_li_install"
+msgstr "Hämta"
+
+msgid "ai_li_no_applications_available"
+msgstr "(inga program tillgängliga)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(inga program installerade)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(inga uppdateringar tillgängliga)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Logg"
+
+msgid "ai_li_uninstall"
+msgstr "Avinstallera"
+
+msgid "ai_li_update"
+msgstr "Uppdatera"
+
+msgid "ai_me_details"
+msgstr "Information"
+
+msgid "ai_me_package_install_file"
+msgstr "Installera från fil"
+
+msgid "ai_me_refresh"
+msgstr "Uppdatera"
+
+msgid "ai_me_search"
+msgstr "Sök"
+
+msgid "ai_me_settings"
+msgstr "Inställningar"
+
+msgid "ai_me_tools_log"
+msgstr "Logg"
+
+msgid "ai_me_tools_repository"
+msgstr "Programkataloger"
+
+msgid "ai_me_tools_restore"
+msgstr "Återställ program"
+
+msgid "ai_me_update_all"
+msgstr "Uppdatera alla"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Hämtning av '%s' misslyckades. Vill du försöka igen?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Program som du installerar kommer inte från Nokia. Program från ej "
+"tillförlitliga källor kan innehålla skadlig programvara som kommer åt data "
+"som lagrats på enheten, orsakar ekonomisk skada eller skadar enheten. "
+"Programvaran kan även omfattas av tredje parts rättigheter och "
+"licensvillkor.\n"
+"Installationen sker på egen risk."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Vissa av programmen som du installerar kommer inte från Nokia. Program från "
+"ej tillförlitliga källor kan innehålla skadlig programvara som kommer åt "
+"data som lagrats på enheten, orsakar ekonomisk skada eller skadar enheten. "
+"Programvarorna kan även omfattas av tredje parts rättigheter och "
+"licensvillkor.\n"
+"Installationen sker på egen risk."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Vill du ta bort katalog?\n"
+"Programpaketet som erbjuds genom den här katalogen kommer inte längre vara "
+"tillgänglig för installation och uppgraderingar."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Klar att installera alla uppdateringar"
+
+msgid "ai_ni_all_installed"
+msgstr "Alla program är redan installerade"
+
+msgid "ai_ni_bd_details"
+msgstr "Information"
+
+msgid "ai_ni_continue_install"
+msgstr "Vill du fortsätta med installationen?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Operativsystemet har uppdaterats. Enheten startas om. Störningar kan orsaka "
+"skador så vänta till att omstarten har slutförts."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Operativsystemet har uppdaterats. Enheten startas om. Störningar kan orsaka "
+"skador så vänta till att omstarten har slutförts."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Det finns inte tillräckligt med batteriladdning för att installera "
+"uppdateringen till Maemo.\n"
+"Börja ladda batteriet och försök igen."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Det gick inte att installera.\n"
+"Katalogen är inkompatibel med nuvarande operativsystem."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Hämtning av %s misslyckades"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Det gick inte att hämta %s.\n"
+"Programpaketet hittades inte."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Det gick inte att installera %s.\n"
+"Konflikt mellan programpaket."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Det gick inte att installera %s.\n"
+"Installationsfilen är skadad."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Det gick inte att installera %s.\n"
+"Inkompatibelt programpaket."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Det gick inte att installera %s.\n"
+"Vissa paket som krävs för installationen saknas."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Det gick inte att installera %s"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Det gick inte att installera %s.\n"
+"Programpaketet är inkompatibelt med nuvarande operativsystem."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"%s är öppet.\n"
+"Stäng programmet och försök igen."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Det gick inte att avinstallera %s.\n"
+"Vissa programpaket krävs av andra program."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Det gick inte att avinstallera %s"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Det gick inte att uppdatera %s.\n"
+"Konflikt mellan programpaket."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Det gick inte att uppdatera %s.\n"
+"Uppdateringsfilen är skadad."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Det gick inte att uppdatera %s"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Det gick inte att uppdatera %s.\n"
+"Inkompatibelt programpaket."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Det gick inte att uppdatera %s.\n"
+"Vissa programpaket som krävs\n"
+"för uppdateringen saknas."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Slutför installationen av uppdateringen"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "%s har installerats. Starta programmet?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Utrymmesbrist i programinstallationsminnet. Frigör utrymme för "
+"installationen genom att avinstallera några program."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d program har installerats"
+msgstr[1] "%d program har installerats"
+
+msgid "ai_ni_operation_failed"
+msgstr "Åtgärden misslyckades"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Åtgärden pågår.\n"
+"Vänta."
+
+msgid "ai_ni_package_installed"
+msgstr "%s är redan installerat"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Programvaruuppdateringar har installerats"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Operativsystemet har uppdaterats"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Det gick inte att ta bort katalogen"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "%s har avinstallerats"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Det gick inte att uppdatera listan.\n"
+"Det gick inte att komma åt katalogerna.\n"
+"Kontrollera nätverksanslutningen.\n"
+"Vill du försöka igen?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Programlistan är delvis uppdaterad.\n"
+"Vissa kataloger är inte tillgängliga.\n"
+"Kontrollera kataloginformationen."
+
+msgid "ai_ni_updates_restart"
+msgstr "Programvaruuppdateringar har installerats. Enheten startas om."
+
+msgid "ai_nw_checking_updates"
+msgstr "Söker efter uppdateringar. Vänta."
+
+msgid "ai_nw_connecting"
+msgstr "Ansluter"
+
+msgid "ai_nw_downloading"
+msgstr "Hämtar %s"
+
+msgid "ai_nw_installing"
+msgstr "Installerar %s"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Förbereder installation. Vänta."
+
+msgid "ai_nw_searching"
+msgstr "Söker"
+
+msgid "ai_nw_uninstalling"
+msgstr "Avinstallerar %s"
+
+msgid "ai_nw_updating"
+msgstr "Uppdaterar %s %s"
+
+msgid "ai_pb_progress"
+msgstr "Hämtar"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Nya programvaruversioner"
+
+msgid "ai_sb_app_push_link"
+msgstr "Hämta"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ignorera"
+
+msgid "ai_sb_update_am"
+msgstr "Fortsätt"
+
+msgid "ai_sb_update_description"
+msgstr "Nya uppdateringar"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi-programvara (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Uppdatering till Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Tredjepartsprogramvara (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Lägg till katalog"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Komponenter"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distribution"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Katalognamn"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Webbadress"
+
+msgid "ai_ti_confirm_install"
+msgstr "Installera"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Avinstallera"
+
+msgid "ai_ti_confirm_update"
+msgstr "Uppdatera"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Jag förstår och godkänner"
+
+msgid "ai_ti_details"
+msgstr "Programinformation"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Sammanfattning"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Beroenden"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Beskrivning"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Installerar"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problem"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Avinstallerar"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Uppdaterar"
+
+msgid "ai_ti_edit_repository"
+msgstr "Kataloginformation"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Godkänner"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Kataloger misslyckades"
+
+msgid "ai_ti_install_apps"
+msgstr "Installera program"
+
+msgid "ai_ti_license_agreement"
+msgstr "Licensavtal"
+
+msgid "ai_ti_log"
+msgstr "Logg"
+
+msgid "ai_ti_new_repository"
+msgstr "Ny katalog"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Uppdatering till Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Kataloger"
+
+msgid "ai_ti_save_log"
+msgstr "Spara logg"
+
+msgid "ai_ti_search"
+msgstr "Sök efter program"
+
+msgid "ai_ti_select_package"
+msgstr "Välj ett program"
+
+msgid "ai_va_details_available_version"
+msgstr "Tillgänglig version:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Katalog:"
+
+msgid "ai_va_details_download_size"
+msgstr "Storlek på hämtningsbar fil:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Installationen av %1$s frigör %2$s enhetsminne"
+
+msgid "ai_va_details_install_requires"
+msgstr "Installationen av %1$s kräver %2$s enhetsminne"
+
+msgid "ai_va_details_installed_version"
+msgstr "Installerad version:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Storlek:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Brutet"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Brutet och inte uppdaterbart"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Brutet men uppdaterbart"
+
+msgid "ai_va_details_status_installable"
+msgstr "Installerbart"
+
+msgid "ai_va_details_status_installed"
+msgstr "Installerat"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Ej installerbart"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Uppdatering finns men kan inte installeras"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Uppdaterbart"
+
+msgid "ai_va_details_unable_install"
+msgstr "Det gick inte att installera %s"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Det gick inte att avinstallera %s"
+
+msgid "ai_va_details_unable_update"
+msgstr "Det gick inte att uppdatera %s"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Avinstallationen av %1$s frigör %2$s enhetsminne"
+
+msgid "ai_va_details_update_frees"
+msgstr "Uppdateringen av %1$s frigör %2$s enhetsminne"
+
+msgid "ai_va_details_update_requires"
+msgstr "Uppdateringen av %1$s kräver %2$s enhetsminne"
+
+msgid "ai_va_search_name"
+msgstr "Programnamn"
+
+msgid "ai_va_search_name_description"
+msgstr "Programnamn och -beskrivning"
+
+msgid "ai_va_sort_name"
+msgstr "Namn"
+
+msgid "ai_va_sort_size"
+msgstr "Storlek"
+
+msgid "apma_fi_by_provider"
+msgstr "av %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Nya släpp"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Nya uppdateringar"

@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Správce aplikací"
+
+msgid "ai_ap_name"
+msgstr "Správce apl."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Podrobnosti"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Přidat"
+
+msgid "ai_bd_confirm_details"
+msgstr "Podrobnosti"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Pokračovat"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Odinstalovat"
+
+msgid "ai_bd_create_backup"
+msgstr "Zálohovat"
+
+msgid "ai_bd_license_ok"
+msgstr "Přijmout"
+
+msgid "ai_bd_log_clear"
+msgstr "Vymazat"
+
+msgid "ai_bd_log_save_as"
+msgstr "Uložit jako"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Uložit"
+
+msgid "ai_bd_repository_delete"
+msgstr "Odstranit"
+
+msgid "ai_bd_repository_new"
+msgstr "Nový"
+
+msgid "ai_bd_search_ok"
+msgstr "Hledat"
+
+msgid "ai_category_all"
+msgstr "Všechny"
+
+msgid "ai_category_desktop"
+msgstr "Plocha"
+
+msgid "ai_category_development"
+msgstr "Vývoj"
+
+msgid "ai_category_education"
+msgstr "Vzdělávání"
+
+msgid "ai_category_games"
+msgstr "Hry"
+
+msgid "ai_category_graphics"
+msgstr "Grafika"
+
+msgid "ai_category_multimedia"
+msgstr "Multimédia"
+
+msgid "ai_category_navigation"
+msgstr "Poloha a navigace"
+
+msgid "ai_category_network"
+msgstr " Síť"
+
+msgid "ai_category_office"
+msgstr "Kancelář"
+
+msgid "ai_category_other"
+msgstr "Ostatní"
+
+msgid "ai_category_science"
+msgstr "Věda"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Sdílení modulů plug-in"
+
+msgid "ai_category_system"
+msgstr "Systém"
+
+msgid "ai_category_utilities"
+msgstr "Pomůcky"
+
+msgid "ai_cb_restarting_device"
+msgstr "Restart přístroje"
+
+msgid "ai_fi_details_category"
+msgstr "Kategorie:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Správce:"
+
+msgid "ai_fi_details_package"
+msgstr "Aplikace:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Konfliktní balíčky:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Balíčky k instalaci:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Chybějící balíčky:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Vyžadováno balíčky:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Balíčky k odstranění:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Balíčky k aktualizaci:"
+
+msgid "ai_fi_details_status"
+msgstr "Stav:"
+
+msgid "ai_fi_details_summary"
+msgstr "Shrnutí:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Komponenty"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Zakázán"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distribuce"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Název katalogu"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Webová adresa"
+
+msgid "ai_fi_search_area"
+msgstr "Prohledat"
+
+msgid "ai_fi_search_words"
+msgstr "Hledaná slova"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Přidat nový katalog?\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Katalog je již nainstalován, ale není povolen.\n"
+"Povolit?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Chcete-li provést instalaci z tohoto zdroje, přidejte jeho katalog."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Software nainstalovaný z tohoto katalogu neposkytuje společnost Nokia. Může "
+"obsahovat škodlivý software, který může získat přístup k datům uloženým v "
+"přístroji a způsobit finanční škody nebo poškození přístroje."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"K instalaci této aktualizace Maemo je v počítači vyžadována instalovaná "
+"aplikace Nokia PC Suite.\n"
+"Připojte zařízení k počítači pomocí kabelu USB a otevřete aplikaci Nokia PC "
+"Suite. Ta vás provede zbývajícím procesem aktualizace Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "obnovení se nezdařilo"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Pokud chcete zařízení aktualizovat na tuto verzi operačního systému, musíte "
+"použít aplikaci Nokia PC Suite ve svém počítači.\n"
+"Připojte zařízení k počítači pomocí kabelu USB a spusťte aplikaci."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Po instalaci se přístroj restartuje. Během instalace a restartování budou "
+"všechny aplikace uzavřeny a všechny funkce vypnuty (včetně funkce tísňového "
+"volání).\n"
+"V této době přístroj nepoužívejte.\n"
+"Doporučujeme vytvořit si zálohu."
+
+msgid "ai_ia_restore"
+msgstr ""
+"Záloha zahrnuje tyto aplikace.\n"
+"Vyberte aplikace, které chcete stáhnout a nainstalovat."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(žádné aplikace)"
+
+msgid "ai_ia_storage"
+msgstr "Požadovaná paměť: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Nejprve vložte název katalogu"
+
+msgid "ai_ib_enter_text"
+msgstr "Vložte hledaný text"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Nejprve vložte webovou adresu"
+
+msgid "ai_ib_no_matches"
+msgstr "Nenalezeny žádné shody"
+
+msgid "ai_ib_no_repositories"
+msgstr "Není používán žádný katalog"
+
+msgid "ai_ib_search_complete"
+msgstr "Hledání dokončeno"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Nelze zrušit.\n"
+"Prosím čekejte."
+
+msgid "ai_ib_unable_edit"
+msgstr "Katalog nelze upravit"
+
+msgid "ai_li_install"
+msgstr "Stáhnout"
+
+msgid "ai_li_no_applications_available"
+msgstr "(žádné dostupné aplikace)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(nejsou nainstalovány žádné aplikace)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(žádné dostupné aktualizace)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Log"
+
+msgid "ai_li_uninstall"
+msgstr "Odinstalovat"
+
+msgid "ai_li_update"
+msgstr "Aktualizovat"
+
+msgid "ai_me_details"
+msgstr "Podrobnosti"
+
+msgid "ai_me_package_install_file"
+msgstr "Nainstalovat ze souboru"
+
+msgid "ai_me_refresh"
+msgstr "Obnovit"
+
+msgid "ai_me_search"
+msgstr "Hledat"
+
+msgid "ai_me_settings"
+msgstr "Nastavení"
+
+msgid "ai_me_tools_log"
+msgstr "Logovací soubor"
+
+msgid "ai_me_tools_repository"
+msgstr "Katalogy aplikací"
+
+msgid "ai_me_tools_restore"
+msgstr "Obnovit aplikace"
+
+msgid "ai_me_update_all"
+msgstr "Aktualizovat vše"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Stahování '%s' se nezdařilo. Zkusit znovu?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Aplikace, kterou se chystáte nainstalovat, není poskytována společností "
+"Nokia. Aplikace z nedůvěryhodných zdrojů mohou obsahovat škodlivý software, "
+"který může způsobit finanční škody, získat přístup k datům uloženým v "
+"přístroji nebo jinak přístroj poškodit. Aplikace také může být předmětem "
+"práv a licenčních podmínek třetích stran.\n"
+"Instalace bude provedena na vaše riziko."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Některé aplikace, které se chystáte nainstalovat, nejsou poskytovány "
+"společností Nokia. Aplikace z nedůvěryhodných zdrojů mohou obsahovat "
+"škodlivý software, který může způsobit finanční škody, získat přístup k "
+"datům uloženým v přístroji nebo jinak přístroj poškodit. Aplikace také může "
+"být předmětem práv a licenčních podmínek třetích stran.\n"
+"Instalace bude provedena na vaše riziko."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Odstranit katalog?\n"
+"Balíčky aplikací nabízené tímto katalogem již nebudou dostupné pro instalaci "
+"a aktualizace."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Připraven nainstalovat všechny aktualizace"
+
+msgid "ai_ni_all_installed"
+msgstr "Všechny aplikace již nainstalovány"
+
+msgid "ai_ni_bd_details"
+msgstr "Podrobnosti"
+
+msgid "ai_ni_continue_install"
+msgstr "Pokračovat v instalaci?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Operační systém úspěšně aktualizován. Proběhne restart přístroje. Prosím "
+"čekejte, protože přerušení by mohlo přístroj poškodit."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Operační systém úspěšně aktualizován. Proběhne restart přístroje. Prosím "
+"čekejte, protože přerušení by mohlo přístroj poškodit."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Nelze provést aktualizaci Maemo, baterie je téměř vybitá.\n"
+"Připojte nabíječku a spusťte aktualizaci znovu."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Nelze nainstalovat.\n"
+"Katalog není kompatibilní s aktuálním operačním systémem."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Stahování '%s' se nezdařilo"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Nelze stáhnout '%s'.\n"
+"Balíček aplikace nenalezen."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Nelze nainstalovat '%s'.\n"
+"Konfliktní balíčky aplikací."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Nelze nainstalovat '%s'.\n"
+"Instalační soubor je poškozen."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Nelze nainstalovat '%s'.\n"
+"Nekompatibilní balíček."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Nelze nainstalovat '%s'.\n"
+"Některé balíčky potřebné pro instalaci chybí."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Nelze nainstalovat '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Nelze nainstalovat „%s“.\n"
+"Balíček není kompatibilní s operačním systémem."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' je otevřená.\n"
+"Zavřete aplikaci a opakujte akci."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Nelze odinstalovat '%s'.\n"
+"Některé balíčky jsou využívány jinými aplikacemi."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Nelze odinstalovat '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Nelze aktualizovat '%s'.\n"
+"Konfliktní balíčky aplikací."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Nelze aktualizovat '%s'.\n"
+"Aktualizační soubor poškozen."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Nelze aktualizovat '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Nelze aktualizovat '%s'.\n"
+"Nekompatibilní balíček."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Nelze aktualizovat '%s'.\n"
+"Některé balíčky potřebné\n"
+"pro aktualizaci chybí."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Dokončení instalace aktualizace"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' úspěšně nainstalována. Spustit aplikaci?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Nedostatek místa v paměti pro instalaci aplikace. Odinstalujte některé "
+"aplikace, abyste uvolnili místo pro tuto instalaci."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d aplikace byla úspěšně nainstalována"
+msgstr[1] "%d aplikace byly úspěšně nainstalovány"
+msgstr[2] "%d aplikací bylo úspěšně nainstalováno"
+
+msgid "ai_ni_operation_failed"
+msgstr "Operace se nezdařila"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Operace probíhá.\n"
+"Prosím čekejte."
+
+msgid "ai_ni_package_installed"
+msgstr "Aplikace '%s' je již nainstalována"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Aktualizace softwaru úspěšně nainstalována"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Operační systém úspěšně aktualizován"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Katalog nelze odstranit"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "Aplikace ‚%s‘ byla úspěšně odinstalována"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Nelze obnovit seznam aplikací.\n"
+"Nelze získat přístup do katalogů.\n"
+"Zkontrolujte síťové připojení.\n"
+"Zkusit znovu?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Seznam aplikací byl částečně obnoven.\n"
+"Některé katalogy nejsou dostupné.\n"
+"Zkontrolujte podrobnosti katalogů."
+
+msgid "ai_ni_updates_restart"
+msgstr "Aktualizace softwaru úspěšně nainstalována. Proběhne restart zařízení."
+
+msgid "ai_nw_checking_updates"
+msgstr "Kontrola aktualizací, prosím čekejte"
+
+msgid "ai_nw_connecting"
+msgstr "Připojování"
+
+msgid "ai_nw_downloading"
+msgstr "Stahování %s"
+
+msgid "ai_nw_installing"
+msgstr "Instalace '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Příprava instalace, prosím čekejte"
+
+msgid "ai_nw_searching"
+msgstr "Hledání"
+
+msgid "ai_nw_uninstalling"
+msgstr "Odinstalace '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Aktualizace '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Načítání"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Nová vydání softwaru"
+
+msgid "ai_sb_app_push_link"
+msgstr "Stáhnout"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ignorovat"
+
+msgid "ai_sb_update_am"
+msgstr "Pokračovat"
+
+msgid "ai_sb_update_description"
+msgstr "Nové aktualizace softwaru"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Software Ovi (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Aktualizace Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Software třetí strany (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Přidat katalog"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Komponenty"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distribuce"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Název katalogu"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Webová adresa"
+
+msgid "ai_ti_confirm_install"
+msgstr "Nainstalovat"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Odinstalovat"
+
+msgid "ai_ti_confirm_update"
+msgstr "Aktualizace"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Rozumím a souhlasím"
+
+msgid "ai_ti_details"
+msgstr "Podrobnosti aplikace"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Shrnutí"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Závislosti"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Popis"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Instalace"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problémy"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Odinstalace"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Aktualizace"
+
+msgid "ai_ti_edit_repository"
+msgstr "Podrobnosti katalogu"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Souhlasím"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Poškozené katalogy"
+
+msgid "ai_ti_install_apps"
+msgstr "Nainstalovat aplikace"
+
+msgid "ai_ti_license_agreement"
+msgstr "Licenční smlouva"
+
+msgid "ai_ti_log"
+msgstr "Logovací soubor"
+
+msgid "ai_ti_new_repository"
+msgstr "Nový katalog"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Aktualizovat Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Katalogy"
+
+msgid "ai_ti_save_log"
+msgstr "Uložit logovací soubor"
+
+msgid "ai_ti_search"
+msgstr "Hledat aplikace"
+
+msgid "ai_ti_select_package"
+msgstr "Zvolte aplikaci"
+
+msgid "ai_va_details_available_version"
+msgstr "Dostupná verze:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Katalog:"
+
+msgid "ai_va_details_download_size"
+msgstr "Velikost pro stažení:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Instalace '%1$s' uvolní %2$s paměti přístroje"
+
+msgid "ai_va_details_install_requires"
+msgstr "Instalace '%1$s' vyžaduje %2$s paměti přístroje"
+
+msgid "ai_va_details_installed_version"
+msgstr "Současná verze:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Velikost:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Porušená"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Porušená, nelze aktualizovat"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Porušená, lze aktualizovat"
+
+msgid "ai_va_details_status_installable"
+msgstr "Lze nainstalovat"
+
+msgid "ai_va_details_status_installed"
+msgstr "Nainstalovaná"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Není dostupná"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Nelze nainstalovat"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Aktualizace dostupná ale nelze nainstalovat"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Lze aktualizovat"
+
+msgid "ai_va_details_unable_install"
+msgstr "Nelze nainstalovat '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Nelze odinstalovat '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Nelze aktualizovat '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Odinstalace '%1$s' uvolní %2$s paměti přístroje"
+
+msgid "ai_va_details_update_frees"
+msgstr "Aktualizace '%1$s' uvolní %2$s paměti přístroje"
+
+msgid "ai_va_details_update_requires"
+msgstr "Aktualizace '%1$s' vyžaduje %2$s paměti přístroje"
+
+msgid "ai_va_search_name"
+msgstr "Název aplikace"
+
+msgid "ai_va_search_name_description"
+msgstr "Název a popis aplikace"
+
+msgid "ai_va_sort_name"
+msgstr "Název"
+
+msgid "ai_va_sort_size"
+msgstr "Velikost"
+
+msgid "apma_fi_by_provider"
+msgstr "%s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Nová vydání"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Nové aktualizace"

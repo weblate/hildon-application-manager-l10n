@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Sovellusten hallinta"
+
+msgid "ai_ap_name"
+msgstr "Sov. hallinta"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Tiedot"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Lisää"
+
+msgid "ai_bd_confirm_details"
+msgstr "Tiedot"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Jatka"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Poista"
+
+msgid "ai_bd_create_backup"
+msgstr "Varmuuskopioi"
+
+msgid "ai_bd_license_ok"
+msgstr "Hyväksy"
+
+msgid "ai_bd_log_clear"
+msgstr "Tyhjennä"
+
+msgid "ai_bd_log_save_as"
+msgstr "Tallenna nim."
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Tallenna"
+
+msgid "ai_bd_repository_delete"
+msgstr "Poista"
+
+msgid "ai_bd_repository_new"
+msgstr "Uusi"
+
+msgid "ai_bd_search_ok"
+msgstr "Etsi"
+
+msgid "ai_category_all"
+msgstr "Kaikki"
+
+msgid "ai_category_desktop"
+msgstr "Työpöytä"
+
+msgid "ai_category_development"
+msgstr "Kehitys"
+
+msgid "ai_category_education"
+msgstr "Koulutus"
+
+msgid "ai_category_games"
+msgstr "Pelit"
+
+msgid "ai_category_graphics"
+msgstr "Grafiikka"
+
+msgid "ai_category_multimedia"
+msgstr "Multimedia"
+
+msgid "ai_category_navigation"
+msgstr "Sijainti ja siirtyminen"
+
+msgid "ai_category_network"
+msgstr " Verkko"
+
+msgid "ai_category_office"
+msgstr "Toimisto"
+
+msgid "ai_category_other"
+msgstr "Muut"
+
+msgid "ai_category_science"
+msgstr "Tiede"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Jakamislaajennukset"
+
+msgid "ai_category_system"
+msgstr "Järjestelmä"
+
+msgid "ai_category_utilities"
+msgstr "Apuohjelmat"
+
+msgid "ai_cb_restarting_device"
+msgstr "Laitetta käynnistetään uudelleen"
+
+msgid "ai_fi_details_category"
+msgstr "Luokka:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Ylläpitäjä:"
+
+msgid "ai_fi_details_package"
+msgstr "Sovellus:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Ristiriita sovelluspakkauksien kanssa:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Asennettavat sovelluspakkaukset:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Puuttuvat sovelluspakkaukset:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Riippuvaiset sovelluspakkaukset:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Poistettavat sovelluspakkaukset:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Päivitettävät sovelluspakkaukset:"
+
+msgid "ai_fi_details_status"
+msgstr "Tila:"
+
+msgid "ai_fi_details_summary"
+msgstr "Yhteenveto:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Komponentit"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Ei käytössä"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Jakelu"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Luettelon nimi"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Web-osoite"
+
+msgid "ai_fi_search_area"
+msgstr "Hakualue"
+
+msgid "ai_fi_search_words"
+msgstr "Etsi sanoja"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Lisätäänkö uusi luettelo?\n"
+"%s"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Luettelo on jo asennettu, mutta ei käytössä.\n"
+"Otetaanko käyttöön nyt?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Jos haluat asentaa tästä lähteestä, lisää sen luettelo."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Tästä luettelosta asennettavat ohjelmat eivät ole Nokian toimittamia ja ne "
+"voivat sisältää haittaohjelmia, jotka käyttävät laitteeseen tallennettuja "
+"tietoja, aiheuttavat taloudellisia vahinkoja tai vahingoittavat laitetta."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Maemo-päivityksen asentamista varten tietokoneessa on oltava Nokia PC "
+"Suite.\n"
+"Liitä laite tietokoneeseen USB-kaapelilla ja avaa Nokia PC Suite. Sovellus "
+"ohjaa Maemo-päivityksen suorittamista."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "ei päivittynyt"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Päivitä käyttöjärjestelmän tämä versio tietokoneessa olevalla Nokia PC Suite "
+"-ohjelmistolla.\n"
+"Liitä laite tietokoneeseen USB-kaapelilla ja käynnistä sovellus."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Kaikki sovellukset suljetaan latauksen aikana ja toiminnot poistetaan "
+"käytöstä (myöskään hätäpuheluja ei voi soittaa).\n"
+"Laite käynnistyy uudelleen.\n"
+"Älä käytä laitetta tänä aikana.\n"
+"Varmuuskopion luominen on suositeltavaa."
+
+msgid "ai_ia_restore"
+msgstr ""
+"Varmuuskopiossa on nämä sovellukset.\n"
+"Valitse ladattavat ja asennettavat sovellukset."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(ei sovelluksia)"
+
+msgid "ai_ia_storage"
+msgstr "Tarvitaan muistia: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Kirjoita ensin luettelon nimi"
+
+msgid "ai_ib_enter_text"
+msgstr "Kirjoita etsittävä teksti"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Kirjoita ensin Web-osoite"
+
+msgid "ai_ib_no_matches"
+msgstr "Ei osumia"
+
+msgid "ai_ib_no_repositories"
+msgstr "Ei luetteloita käytössä"
+
+msgid "ai_ib_search_complete"
+msgstr "Etsintä valmis"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Ei voi peruuttaa.\n"
+"Odota."
+
+msgid "ai_ib_unable_edit"
+msgstr "Luetteloa ei voi muokata"
+
+msgid "ai_li_install"
+msgstr "Lataa"
+
+msgid "ai_li_no_applications_available"
+msgstr "(ei sovelluksia käytettävissä)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(ei asennettuja sovelluksia)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(ei päivityksiä käytettävissä)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Loki"
+
+msgid "ai_li_uninstall"
+msgstr "Poista"
+
+msgid "ai_li_update"
+msgstr "Päivitä"
+
+msgid "ai_me_details"
+msgstr "Tiedot"
+
+msgid "ai_me_package_install_file"
+msgstr "Asenna tiedostosta"
+
+msgid "ai_me_refresh"
+msgstr "Päivitä luettelo"
+
+msgid "ai_me_search"
+msgstr "Etsi"
+
+msgid "ai_me_settings"
+msgstr "Asetukset"
+
+msgid "ai_me_tools_log"
+msgstr "Loki"
+
+msgid "ai_me_tools_repository"
+msgstr "Sovellusluettelot"
+
+msgid "ai_me_tools_restore"
+msgstr "Palauta sovellukset"
+
+msgid "ai_me_update_all"
+msgstr "Päivitä kaikki"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Kohteen %s lataaminen epäonnistui. Yritetäänkö uudelleen?"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Olet asentamassa sovellusta, joka ei ole Nokian toimittama. Ei-luotettujen "
+"lähteiden sovelluksissa voi olla haittaohjelmia, jotka aiheuttavat "
+"taloudellisia vahinkoja, käyttävät laitteeseen tallennettuja tietoja tai "
+"vahingoittavat laitetta muutoin. Sovellusta voivat koskea muun valmistajan "
+"oikeudet ja käyttöoikeussopimukset.\n"
+"Sovelluksen asentaminen tapahtuu käyttäjän omalla vastuulla."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Olet asentamassa sovelluksia, jotka eivät ole Nokian toimittamia. Ei-"
+"luotettujen lähteiden sovelluksissa voi olla haittaohjelmia, jotka "
+"aiheuttavat taloudellisia vahinkoja, käyttävät laitteeseen tallennettuja "
+"tietoja tai vahingoittavat laitetta muutoin. Sovelluksia voivat koskea muun "
+"valmistajan oikeudet ja käyttöoikeussopimukset.\n"
+"Sovellusten asentaminen tapahtuu käyttäjän omalla vastuulla."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Poistetaanko luettelo?\n"
+"Tämän luettelon sovelluspaketteja ei voi enää asentaa eikä päivittää."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Valmiina asentamaan kaikki päivitykset"
+
+msgid "ai_ni_all_installed"
+msgstr "Kaikki sovellukset on jo asennettu"
+
+msgid "ai_ni_bd_details"
+msgstr "Tiedot"
+
+msgid "ai_ni_continue_install"
+msgstr "Jatketaanko asennusta?"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Käyttöjärjestelmä päivitetty. Laite käynnistyy uudelleen. Älä keskeytä "
+"käynnistymistä, koska laite voi vahingoittua."
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Käyttöjärjestelmä päivitetty. Laite käynnistyy uudelleen. Älä keskeytä "
+"käynnistymistä, koska laite voi vahingoittua."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Akkuvirta ei riitä Maemo-päivityksen asentamiseen.\n"
+"Liitä laite laturiin ja yritä uudelleen."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Asentaminen ei onnistu.\n"
+"Luettelo ei ole yhteensopiva nykyisen käyttöjärjestelmän kanssa."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Kohteen %s lataaminen epäonnistui"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Kohteen %s lataaminen ei onnistu.\n"
+"Sovelluspakkausta ei löydy."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Kohteen %s asentaminen ei onnistu.\n"
+"Ristiriitaiset sovelluspakkaukset."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Kohteen %s asentaminen ei onnistu.\n"
+"Asennustiedosto viallinen."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Kohteen %s asentaminen ei onnistu.\n"
+"Yhteensopimaton sovelluspakkaus."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Kohteen %s asentaminen ei onnistu.\n"
+"Osa asennuksessa tarvittavista sovelluspakkauksista puuttuu."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Kohdetta %s ei voi asentaa"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Kohteen %s asentaminen ei onnistu.\n"
+"Sovelluspaketti ei ole yhteensopiva nykyisen käyttöjärjestelmän kanssa."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"%s on auki.\n"
+"Sulje sovellus ja yritä uudelleen."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Kohteen %s asennuksen poisto ei onnistu.\n"
+"Muut sovellukset tarvitsevat osaa sovelluspakkauksista."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Kohteen %s asennusta ei voi poistaa"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Kohteen %s päivittäminen ei onnistu.\n"
+"Ristiriitaiset sovelluspakkaukset."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Kohteen %s päivittäminen ei onnistu.\n"
+"Päivitystiedosto on viallinen."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Kohdetta %s ei voi päivittää"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Kohteen %s päivittäminen ei onnistu.\n"
+"Yhteensopimaton sovelluspakkaus."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Kohteen %s päivittäminen ei onnistu.\n"
+"Osa päivityksessä tarvittavista\n"
+"sovelluspakkauksista puuttuu."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Päivityksen asennus viimeistellään"
+
+msgid "ai_ni_install_successful_launch"
+msgstr ""
+"Kohteen %s asentaminen onnistui.\n"
+"Käynnistetäänkö sovellus?"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Sovelluksen asennusmuistissa ei ole tilaa asentamiseen. Vapauta tilaa "
+"asennusta varten poistamalla muita asennuksia."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d sovelluksen asennus onnistui"
+msgstr[1] "%d sovelluksen asennus onnistui"
+
+msgid "ai_ni_operation_failed"
+msgstr "Toiminto ei onnistunut"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Toiminto on käynnissä.\n"
+"Odota."
+
+msgid "ai_ni_package_installed"
+msgstr "%s on jo asennettu"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Ohjelmistopäivitysten asentaminen onnistui"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Käyttöjärjestelmä päivitetty"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Luetteloa ei voi poistaa"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "%s poistettu onnistuneesti"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Sovellusluettelon päivittäminen ei onnistu.\n"
+"Luetteloita ei voi käyttää.\n"
+"Tarkista verkkoyhteys.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Sovellusluettelo osittain päivitetty.\n"
+"Joitakin luetteloita ei voi käyttää.\n"
+"Tarkista luettelotiedot."
+
+msgid "ai_ni_updates_restart"
+msgstr ""
+"Ohjelmistopäivitysten asentaminen onnistui. Laite käynnistyy uudelleen."
+
+msgid "ai_nw_checking_updates"
+msgstr "Päivityksiä tarkistetaan. Odota."
+
+msgid "ai_nw_connecting"
+msgstr "Yhdistetään"
+
+msgid "ai_nw_downloading"
+msgstr "Ladataan %s"
+
+msgid "ai_nw_installing"
+msgstr "Asennetaan %s"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Asennusta valmistellaan. Odota."
+
+msgid "ai_nw_searching"
+msgstr "Etsitään"
+
+msgid "ai_nw_uninstalling"
+msgstr "Poistetaan %s"
+
+msgid "ai_nw_updating"
+msgstr "Päivitetään %s %s"
+
+msgid "ai_pb_progress"
+msgstr "Ladataan"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Uudet ohjelmistoversiot"
+
+msgid "ai_sb_app_push_link"
+msgstr "Lataa"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ohita"
+
+msgid "ai_sb_update_am"
+msgstr "Jatka"
+
+msgid "ai_sb_update_description"
+msgstr "Uudet ohjelmistopäivitykset"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi-ohjelmisto (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo-päivitys"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Muun valmistajan ohjelm. (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Lisää luettelo"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Komponentit"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Jakelu"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Luettelon nimi"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Web-osoite"
+
+msgid "ai_ti_confirm_install"
+msgstr "Asenna"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Poista"
+
+msgid "ai_ti_confirm_update"
+msgstr "Päivitä"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Ymmärrän ja hyväksyn"
+
+msgid "ai_ti_details"
+msgstr "Sovelluksen tiedot"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Yhteenveto"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Riippuvuudet"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Kuvaus"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Asentaminen"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Ongelmat"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Poistaminen"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Päivittäminen"
+
+msgid "ai_ti_edit_repository"
+msgstr "Luettelon tiedot"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Hyväksyn"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Virheelliset luettelot"
+
+msgid "ai_ti_install_apps"
+msgstr "Asenna sovelluksia"
+
+msgid "ai_ti_license_agreement"
+msgstr "Lisenssisopimus"
+
+msgid "ai_ti_log"
+msgstr "Loki"
+
+msgid "ai_ti_new_repository"
+msgstr "Uusi luettelo"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo-päivitys"
+
+msgid "ai_ti_repository"
+msgstr "Luettelot"
+
+msgid "ai_ti_save_log"
+msgstr "Tallenna loki"
+
+msgid "ai_ti_search"
+msgstr "Etsi sovelluksia"
+
+msgid "ai_ti_select_package"
+msgstr "Valitse sovellus"
+
+msgid "ai_va_details_available_version"
+msgstr "Versio käytettävissä:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Luettelo:"
+
+msgid "ai_va_details_download_size"
+msgstr "Latauskoko:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Kohteen %1$s asentaminen vapauttaa %2$s laitteen muistista"
+
+msgid "ai_va_details_install_requires"
+msgstr "Kohteen %1$s asentamiseen tarvitaan %2$s laitteen muistista"
+
+msgid "ai_va_details_installed_version"
+msgstr "Asennettu versio:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Koko:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Viallinen"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Viallinen, ei voi päivittää"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Viallinen, mutta päivitettävissä"
+
+msgid "ai_va_details_status_installable"
+msgstr "Asennettavissa"
+
+msgid "ai_va_details_status_installed"
+msgstr "Asennettu"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Ei voi asentaa"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Päivitys saatavana, mutta ei voi asentaa"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Päivitettävissä"
+
+msgid "ai_va_details_unable_install"
+msgstr "Kohdetta %s ei voi asentaa"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Kohteen %s asennusta ei voi poistaa"
+
+msgid "ai_va_details_unable_update"
+msgstr "Kohdetta %s ei voi päivittää"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Kohteen %1$s asennuksen poistaminen vapauttaa %2$s laitteen muistista"
+
+msgid "ai_va_details_update_frees"
+msgstr "Kohteen %1$s päivittäminen vapauttaa %2$s laitteen muistista"
+
+msgid "ai_va_details_update_requires"
+msgstr "Kohteen %1$s päivittämiseen tarvitaan %2$s laitteen muistista"
+
+msgid "ai_va_search_name"
+msgstr "Sovelluksen nimi"
+
+msgid "ai_va_search_name_description"
+msgstr "Sovelluksen nimi ja kuvaus"
+
+msgid "ai_va_sort_name"
+msgstr "Nimi"
+
+msgid "ai_va_sort_size"
+msgstr "Koko"
+
+msgid "apma_fi_by_provider"
+msgstr "%s asti"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Uudet ohjelmistot"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Uudet päivitykset"

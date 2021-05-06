@@ -1,0 +1,119 @@
+Source: hildon-application-manager-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: hildon-application-manager-l10n-mr0
+Section: misc
+Architecture: all
+Provides: hildon-application-manager-l10n-mr
+Depends: hildon-application-manager-l10n-ruru, hildon-application-manager-l10n-frfr, hildon-application-manager-l10n-frca, hildon-application-manager-l10n-dadk, hildon-application-manager-l10n-itit, hildon-application-manager-l10n-svse, hildon-application-manager-l10n-nono, hildon-application-manager-l10n-fifi, hildon-application-manager-l10n-nlnl, hildon-application-manager-l10n-enus, hildon-application-manager-l10n-dede, hildon-application-manager-l10n-esmx, hildon-application-manager-l10n-eses, hildon-application-manager-l10n-cscz, hildon-application-manager-l10n-ptpt, hildon-application-manager-l10n-engb, hildon-application-manager-l10n-plpl
+Description: hildon-application-manager marketing release package
+ This is a metapackage for hildon-application-manager to pull all the l10n packages.
+ Application developers of hildon-application-manager should depend on
+ "hildon-application-manager-l10n-mr0 | hildon-application-manager-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: hildon-application-manager-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (cs_CZ)
+ Language files for cs_CZ hildon-application-manager.
+
+Package: hildon-application-manager-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (da_DK)
+ Language files for da_DK hildon-application-manager.
+
+Package: hildon-application-manager-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (de_DE)
+ Language files for de_DE hildon-application-manager.
+
+Package: hildon-application-manager-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (en_GB)
+ Language files for en_GB hildon-application-manager.
+
+Package: hildon-application-manager-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (en_US)
+ Language files for en_US hildon-application-manager.
+
+Package: hildon-application-manager-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (es_ES)
+ Language files for es_ES hildon-application-manager.
+
+Package: hildon-application-manager-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (es_MX)
+ Language files for es_MX hildon-application-manager.
+
+Package: hildon-application-manager-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (fi_FI)
+ Language files for fi_FI hildon-application-manager.
+
+Package: hildon-application-manager-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (fr_CA)
+ Language files for fr_CA hildon-application-manager.
+
+Package: hildon-application-manager-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (fr_FR)
+ Language files for fr_FR hildon-application-manager.
+
+Package: hildon-application-manager-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (it_IT)
+ Language files for it_IT hildon-application-manager.
+
+Package: hildon-application-manager-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (nl_NL)
+ Language files for nl_NL hildon-application-manager.
+
+Package: hildon-application-manager-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (no_NO)
+ Language files for no_NO hildon-application-manager.
+
+Package: hildon-application-manager-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (pl_PL)
+ Language files for pl_PL hildon-application-manager.
+
+Package: hildon-application-manager-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (pt_PT)
+ Language files for pt_PT hildon-application-manager.
+
+Package: hildon-application-manager-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (ru_RU)
+ Language files for ru_RU hildon-application-manager.
+
+Package: hildon-application-manager-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for hildon-application-manager (sv_SE)
+ Language files for sv_SE hildon-application-manager.
