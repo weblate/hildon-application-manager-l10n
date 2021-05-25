@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20091109114414\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-04-27 23:40+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "مدير البرامج"
+
+msgid "ai_ap_name"
+msgstr "مدير البرامج"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "تفاصيل"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "إضافة"
+
+msgid "ai_bd_confirm_details"
+msgstr "تفاصيل"
+
+msgid "ai_bd_confirm_ok"
+msgstr "استمر"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "إلغاء التنصيب"
+
+msgid "ai_bd_create_backup"
+msgstr "انشاء نسخة احتياطية"
+
+msgid "ai_bd_license_ok"
+msgstr "قبول"
+
+msgid "ai_bd_log_clear"
+msgstr "مسح"
+
+msgid "ai_bd_log_save_as"
+msgstr "حفظ كـ"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "حفظ"
+
+msgid "ai_bd_repository_delete"
+msgstr "حذف"
+
+msgid "ai_bd_repository_new"
+msgstr "جديد"
+
+msgid "ai_bd_search_ok"
+msgstr "بحث"
+
+msgid "ai_category_all"
+msgstr "الكل"
+
+msgid "ai_category_desktop"
+msgstr "سطح المكتب"
+
+msgid "ai_category_development"
+msgstr "التطوير"
+
+msgid "ai_category_education"
+msgstr "تعليمي"
+
+msgid "ai_category_games"
+msgstr "الألعاب"
+
+msgid "ai_category_graphics"
+msgstr "الصور"
+
+msgid "ai_category_multimedia"
+msgstr "الوسائط المتعدد"
+
+msgid "ai_category_navigation"
+msgstr "الأماكن والملاحة"
+
+msgid "ai_category_network"
+msgstr "إنترنت وشبكات"
+
+msgid "ai_category_office"
+msgstr "المكتب"
+
+msgid "ai_category_other"
+msgstr "غير ذلك"
+
+msgid "ai_category_science"
+msgstr "علوم"
+
+msgid "ai_category_sharing_plugins"
+msgstr "plug-ins مشاركة"
+
+msgid "ai_category_system"
+msgstr "النظام"
+
+msgid "ai_category_utilities"
+msgstr "الأدوات"
+
+msgid "ai_cb_restarting_device"
+msgstr "إعادة تشغيل الجهاز"
+
+msgid "ai_fi_details_category"
+msgstr "الفئة:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "المسؤول:"
+
+msgid "ai_fi_details_package"
+msgstr "التطبيق:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "يتعارض مع الملفات التالية:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "الملفات التي سيتم تثبيتها:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "ينقص الملفات التالية:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "يحتاج للملفات التالية:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "الملفات التي سيتم إزالتها:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "الملفات التي سيتم تحديثها:"
+
+msgid "ai_fi_details_status"
+msgstr "الحالة:"
+
+msgid "ai_fi_details_summary"
+msgstr "الملخص:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "المكونات"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "معطل"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "التوزيعة"
+
+msgid "ai_fi_new_repository_name"
+msgstr "إسم الكتالوج"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "العنوان"
+
+msgid "ai_fi_search_area"
+msgstr "مكان البحث"
+
+msgid "ai_fi_search_words"
+msgstr "البحث عن"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"إضافة كتالوج جديد؟\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"الكتالوج موجود فعلياً لكنه معطل.\n"
+"هل تريد تفعيله الآن؟"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "للتثبيت من هذا المصدر, يجب إضافة الكتالوج الخاص به."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خللاً في النظام."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"تحديث الميمو المطلوب يتطلب برنامج التحديث عبر نوكيا المتوفر على جهازك لتحميل.\n"
+"وقتح برنامج تحديث نوكيا ، البرنامج سوف يوفر لك التحديث الخاص بالميمو USB قم بتوصيل الجهاز بالكمبيوتر عبر ."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "فشلت عملية التحديث"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"لتحديث الجهاز إلى هذا الأصدار  من النظام يجب أستخدام برنامج تحديث نوكيا الموجود في الكمبيوتر.\n"
+" وشغل البرنامج USB قم بتوصيل الجهاز بالكمبيوتر عبر."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"ستغلق جميع التطبيقات أثناء التثبيت ، وسيتم تعطيل سائر الصلاحيات ، بما في ذلك إجراء مكالمات الطوارئ.\n"
+"ثم سيعاد تشغيل الجهاز.\n"
+"/من المستحسن انشاء نسخة احتياطية قبل العملية."
+
+msgid "ai_ia_restore"
+msgstr ""
+"تحتوي النسخة الإحتياطية على هذه التطبيقات.\n"
+"ختر التطبيقات المراد تثبيتهاl."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(لا يوجد تطبيقات)"
+
+msgid "ai_ia_storage"
+msgstr "الذاكرة المطلوبة: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "أكتب اسم الكتالوج أولاً"
+
+msgid "ai_ib_enter_text"
+msgstr "أكتب النص المراد البحث عنه"
+
+msgid "ai_ib_enter_web_address"
+msgstr "ضع عنوان أولاً"
+
+msgid "ai_ib_no_matches"
+msgstr "لم يتم العثور على تطابق"
+
+msgid "ai_ib_no_repositories"
+msgstr "لا يوجد كتالوجات قيد الإستخدام"
+
+msgid "ai_ib_search_complete"
+msgstr "انتهى البحث"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"لا يمكن الإلغاء.\n"
+"الرجاء الإنتظار."
+
+msgid "ai_li_install"
+msgstr "تحميل"
+
+msgid "ai_li_no_applications_available"
+msgstr "(لا يوجد تطبيقات)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(لا يوجد تطبيقات مثبتة)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(لا يتوفر أي تحديثات)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "السجل"
+
+msgid "ai_li_uninstall"
+msgstr "الحذف"
+
+msgid "ai_li_update"
+msgstr "تحديث"
+
+msgid "ai_me_details"
+msgstr "تفاصيل"
+
+msgid "ai_me_package_install_file"
+msgstr "الثبيت من الملف التالي"
+
+msgid "ai_me_refresh"
+msgstr "تحديث"
+
+msgid "ai_me_search"
+msgstr "البحث"
+
+msgid "ai_me_settings"
+msgstr "الإعدادات"
+
+msgid "ai_me_tools_log"
+msgstr "السجل"
+
+msgid "ai_me_tools_repository"
+msgstr "الكتالوجات"
+
+msgid "ai_me_tools_restore"
+msgstr "إعادة التطبيقات"
+
+msgid "ai_me_update_all"
+msgstr "تحديث الكل"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
+"التثبيت سيكون على مسؤوليتك."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
+"التثبيت سيكون على مسؤوليتك."
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"إزالة الكتالوج?\n"
+"لا يمكن تحديث التطبيقات المحملة من هذا الكتالوج بعد ازالته."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "جميع التحديثات جاهزة"
+
+msgid "ai_ni_all_installed"
+msgstr "جميع التطبيقات موجودة ومثبتة مسبقاً"
+
+msgid "ai_ni_bd_details"
+msgstr "التفاصيل"
+
+msgid "ai_ni_continue_install"
+msgstr "متابعة التثبيت؟"
+
+msgid "ai_ni_device_restart"
+msgstr "ثم تحديث النظام بنجاح. سيتم اعادة تشغيل الجهاز. الرجاء الإنتظار."
+
+msgid "ai_ni_device_restart_long"
+msgstr "ثم تحديث النظام بنجاح. سيتم اعادة تشغيل الجهاز. الرجاء الإنتظار."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"لا يوجد طاقة كافية لتحديث النظام.\n"
+"قم بتوصيل الجهاز بالشحن وحاول مرة اخرى."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"لا يمكن التثبيت.\n"
+"الكتالوج غير متوافق مع النظام."
+
+msgid "ai_ni_error_download_failed"
+msgstr "التحميل '%s' فشل"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"تعذر التحميل '%s'.\n"
+"بعض الملفات غير موجودة."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"تعذر التثبيت '%s'.\n"
+"يوجد ملفات تتعارض مع التثبيت."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"تعذر التثبيت '%s'.\n"
+"التطبيق معطوب."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"تعذر التثبيت '%s'.\n"
+"الملفات لا تتوافق مع النظام أو الإصدار الحالي."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"تعذر التثبيت '%s'.\n"
+"بعض الملفات المطلوبة لإتمام التثبيت ناقصة."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "تعذر التثبيت '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"تعذر التثبيت '%s'.\n"
+"الملفات لا تتوافق مع النظام أو الإصدار الحالي."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' مفتوح.\n"
+"أغلق التطبيق وحاول مرة اخرى."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"تعذر الحذف '%s'.\n"
+"بعض الملفات مطلوبة من تطبيق آخر."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "تعذر الحذف '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"تعذر التحديث '%s'.\n"
+"بعض الملفات غير متوافقة مع برامج موجودة حالياً."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"تعذر التحديث '%s'.\n"
+"ملف التحديث معطوب."
+
+msgid "ai_ni_error_update_failed"
+msgstr "تعذر التحديث '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"تعذر التجديث '%s'.\n"
+"الملفات لا تتوافق مع النظام أو الإصدار الحالي."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"تعذر التحديث '%s'.\n"
+"بعض الملفات المطلوبة\n"
+"للتحديث ناقصة."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "تم التحديث بنجاح"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' تثبت بنجاح. هل تريد فتحه؟"
+
+msgid "ai_ni_memory_shortage"
+msgstr "لا يتوفر مساحة كافية في المساحة المخصصة للتثبيت. قم بحذف بعض البرامج لتفريغ الذاكرة."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d تم تثبيت التطبيق بنجاح"
+msgstr[1] "%d تم تثبيت التطبيقات بنجاح"
+
+msgid "ai_ni_operation_failed"
+msgstr "فشلت العملية"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"العملية قيد التطبيق.\n"
+"الرجاء الإنتظار."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' مثبت فعلياً"
+
+msgid "ai_ni_software_update_installed"
+msgstr "ثم تثبيت التحديثات بنجاح"
+
+msgid "ai_ni_system_update_installed"
+msgstr "تم تثبيت النظام بنجاح"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "تعذر حذف الكتالوج"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' حذف بنجاح"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"غير قادر على تحديث الكتالوجات.\n"
+"تعذر الوصول للكتالوجات.\n"
+"تأكد من حالة الإتصال.\n"
+"حاول مرة اخرى؟"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"تم تحديث الكتالوجات جزئياً.\n"
+"بعض الكتالوجات غير متوفرة.\n"
+"تأكد من تفاصيل الكتالوج."
+
+msgid "ai_ni_updates_restart"
+msgstr "ثم تثبيت التحديثات بنجاح. سوف يعاد تشغيل الجهاز."
+
+msgid "ai_nw_checking_updates"
+msgstr "جاري البحث عن تحديثات, الرجاء الإنتظار"
+
+msgid "ai_nw_connecting"
+msgstr "جاري الإتصال"
+
+msgid "ai_nw_downloading"
+msgstr "جاري التحميل %s"
+
+msgid "ai_nw_installing"
+msgstr "جاري التثبيت '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "جاري التحضير للتثبيت, الرجاء الإنتظار"
+
+msgid "ai_nw_searching"
+msgstr "جاري البحث"
+
+msgid "ai_nw_uninstalling"
+msgstr "جاري الحذف '%s'"
+
+msgid "ai_nw_updating"
+msgstr "جاري التحديث '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "الرجاء الإنتظار"
+
+msgid "ai_sb_app_push_desc"
+msgstr "اصدارات جديدة"
+
+msgid "ai_sb_app_push_link"
+msgstr "تحميل"
+
+msgid "ai_sb_app_push_no"
+msgstr "تجاهل"
+
+msgid "ai_sb_update_am"
+msgstr "المتابعة"
+
+msgid "ai_sb_update_description"
+msgstr "يوحد تحديثات جديدة"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "أصدار نوكيا (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "تحديث نظام مايمو"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "تطبيقات ثانوية (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "إضافة كتالوج"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "المحتوى"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "التوزيعة"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "اسم الكتالوج"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "العنوان"
+
+msgid "ai_ti_confirm_install"
+msgstr "تثبيت"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "حذف"
+
+msgid "ai_ti_confirm_update"
+msgstr "تحديث"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "موافق"
+
+msgid "ai_ti_details"
+msgstr "تفاصيل التطبيق"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "ملخص"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "التبعيات"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "الوصف"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "التثبيت"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "المشاكل"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "جاري الحذف"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "جاري التحديث"
+
+msgid "ai_ti_edit_repository"
+msgstr "تفاصيل الكتالوج"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "موافق"
+
+msgid "ai_ti_failed_repositories"
+msgstr "الكتالوجات التي لم تعمل"
+
+msgid "ai_ti_install_apps"
+msgstr "جاري تثبيت التطبيقات"
+
+msgid "ai_ti_license_agreement"
+msgstr "اتفاقية الترخيص"
+
+msgid "ai_ti_log"
+msgstr "السجل"
+
+msgid "ai_ti_new_repository"
+msgstr "كتالوج جديد"
+
+msgid "ai_ti_operating_system_update"
+msgstr "تحديث ميمو"
+
+msgid "ai_ti_repository"
+msgstr "الكتالوجات"
+
+msgid "ai_ti_save_log"
+msgstr "حفظ السجل"
+
+msgid "ai_ti_search"
+msgstr "البحث عن التطبيقات"
+
+msgid "ai_ti_select_package"
+msgstr "اختيار التطبيقات"
+
+msgid "ai_va_details_available_version"
+msgstr "الإصدار المتوفرة:"
+
+msgid "ai_va_details_catalogue"
+msgstr "الكتالوج:"
+
+msgid "ai_va_details_download_size"
+msgstr "حجم التحميل:"
+
+msgid "ai_va_details_install_frees"
+msgstr "تثبيت '%1$s' يحتاج %2$s من ذاكرة الجهاز"
+
+msgid "ai_va_details_install_requires"
+msgstr "تثبيت '%1$s' يحتاج لـ %2$s من ذاكرة الجهاز"
+
+msgid "ai_va_details_installed_version"
+msgstr "الإصدار المثبتة:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "الحجم:"
+
+msgid "ai_va_details_status_broken"
+msgstr "معطوب"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "معطوب وغير قادر على التحديث"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "معطوب لكن قادر على التحديث"
+
+msgid "ai_va_details_status_installable"
+msgstr "ممكن تثبيته"
+
+msgid "ai_va_details_status_installed"
+msgstr "ثم تثبيته"
+
+msgid "ai_va_details_status_not_available"
+msgstr "غير متوفر"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "لا يمكن تثبيته"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "التحديث متوفر لكن تعذر تثبيته"
+
+msgid "ai_va_details_status_updateable"
+msgstr "قابل للتحديث"
+
+msgid "ai_va_details_unable_install"
+msgstr "تعذر تثبيت '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "تعذر حذف '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "تعذر تحديث '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "إزالة '%1$s' يفرغ %2$s من ذاكرة الجهاز"
+
+msgid "ai_va_details_update_frees"
+msgstr "تثبيت '%1$s' يفرغ %2$s من ذاكرة الجهاز"
+
+msgid "ai_va_details_update_requires"
+msgstr "تحديث '%1$s' يحتاج إلى %2$s من ذاكرة الجهاز"
+
+msgid "ai_va_search_name"
+msgstr "اسم التطبيق"
+
+msgid "ai_va_search_name_description"
+msgstr "اسم ووصف التطبيق"
+
+msgid "ai_va_sort_name"
+msgstr "الإسم"
+
+msgid "ai_va_sort_size"
+msgstr "الحجم"
+
+msgid "apma_fi_by_provider"
+msgstr "بواسطة %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "الإصدارات الجديدة"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "التحديثات جديدة"
+
