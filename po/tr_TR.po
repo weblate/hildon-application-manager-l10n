@@ -1,0 +1,958 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20091109114414\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.04.26 22:28+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Name of Application manager shown as application title
+msgid "ai_ap_application_installer"
+msgstr "Uygulama yöneticisi"
+
+# Name of the application shown in Application Menu.
+msgid "ai_ap_name"
+msgstr "Uyg. yöneticisi"
+
+# List item in the main view
+msgid "ai_li_uninstall"
+msgstr "Kaldır"
+
+# List item in the main view
+msgid "ai_li_repository"
+msgstr "Web kataloğu"
+
+# List item in the main view
+msgid "ai_li_install"
+msgstr "Yükle"
+
+# List item in the main view
+msgid "ai_li_update"
+msgstr "Güncelle"
+
+# Name of the category
+msgid "ai_category_all"
+msgstr "Tümü"
+
+# Name of the category
+msgid "ai_category_desktop"
+msgstr "Masaüstü"
+
+# Name of the category
+msgid "ai_category_development"
+msgstr "Geliştirme"
+
+# Name of the category
+msgid "ai_category_education"
+msgstr "Eğitim"
+
+# Name of the category
+msgid "ai_category_games"
+msgstr "Oyunlar"
+
+# Name of the category
+msgid "ai_category_graphics"
+msgstr "Grafikler"
+
+# Name of the category
+msgid "ai_category_internet"
+msgstr "Internet & ağ"
+
+# Name of the category
+msgid "ai_category_navigation"
+msgstr "Konum & navigasyon"
+
+# Name of the category
+msgid "ai_category_multimedia"
+msgstr "Multimedya"
+
+# Name of the category
+msgid "ai_category_network"
+msgstr "Ağ"
+
+# Name of the category
+msgid "ai_category_office"
+msgstr "Ofis"
+
+# Name of the category
+msgid "ai_category_other"
+msgstr "Diğer"
+
+# Name of the category
+msgid "ai_category_programming"
+msgstr "Programlama"
+
+# Name of the category
+msgid "ai_category_science"
+msgstr "Bilim"
+
+# Name of the category. Sharing is the application that allows the user to sent content to Nokia OVI or Flicker. At some point there can be new services to join and they are in this category.
+msgid "ai_category_sharing_plugins"
+msgstr "Paylaşım eklentileri"
+
+# Name of the category
+msgid "ai_category_system"
+msgstr "Sistem"
+
+# Name of the category
+msgid "ai_category_utilities"
+msgstr "Donatılar"
+
+# Informative text in the Packages-view if there are no applications available
+msgid "ai_li_no_applications_available"
+msgstr "(uygun uygulama yok)"
+
+# Informative text in the Update-view if there are no updates available
+msgid "ai_li_no_updates_available"
+msgstr "(uygun güncelleme yok)"
+
+# Informative text in the Uninstall-view if there are no applications installed by the user
+msgid "ai_li_no_installed_applications"
+msgstr "(kurulu uygulama yok)"
+
+# New Software Releases plugin title
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Yeni sürümler"
+
+# Application provided "by" %s (%s is the company that provides the application)
+msgid "apma_fi_by_provider"
+msgstr "%s tarafından"
+
+# New Software Updates plugin title
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Yeni güncellemeler"
+
+# Type of software update
+msgid "ai_sb_update_os"
+msgstr "Maemo güncellemesi"
+
+# Type of software update
+msgid "ai_sb_update_nokia_%d"
+msgstr "Nokia yazılımı (%d)"
+
+# Type of software update
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Üçüncü parti yazılım (%d)"
+
+# Sorting option in the menu. One of the two filtering options.
+msgid "ai_va_sort_name"
+msgstr "Adı"
+
+# Sorting option in the menu. One of the two filtering options.
+msgid "ai_va_sort_size"
+msgstr "Boyut"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_search"
+msgstr "Arama"
+
+# Application manager menu command, updates the package list in current view.
+msgid "ai_me_refresh"
+msgstr "Yenile"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_tools_repository"
+msgstr "Uygulama katalogları"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_tools_restore"
+msgstr "Uygulamaları geri yükle"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_tools_log"
+msgstr "Günlük"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_package_install_file"
+msgstr "Dosyadan kur"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_settings"
+msgstr "Ayarlar"
+
+# Application manager menu command, opens a dialog
+msgid "ai_me_update_all"
+msgstr "Hepsini güncelle"
+
+# Context sensitive menu command in application package lists, opens a dialog.
+msgid "ai_me_details"
+msgstr "Detaylar"
+
+# New Software Releases dialog title
+msgid "ai_sb_app_push_desc"
+msgstr "Yeni uygulama sürümleri"
+
+# (Button) If user is not interested about the new software s/he can hide the Status area icon & Status menu plug-in by tapping this command.
+msgid "ai_sb_app_push_no"
+msgstr "Yoksay"
+
+# (Button) Link to launch device related website in browser window.
+msgid "ai_sb_app_push_link"
+msgstr "Indir"
+
+# Web address
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+# New Software Updates dialog title
+msgid "ai_sb_update_description"
+msgstr "Yeni yazılım güncellemeleri"
+
+# Button: Link to launch Application Manager.
+msgid "ai_sb_update_am"
+msgstr "Devam et"
+
+# Confirm installation –dialog title
+msgid "ai_ti_confirm_install"
+msgstr "Kur"
+
+# Confirm update –dialog title
+msgid "ai_ti_confirm_update"
+msgstr "Güncelle"
+
+# Text in Confirm installation –dialog
+# First %s is the name of the package, second the version of the package and third the size of the package (needed to be downloaded)
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+# Text in Confirm update –dialog
+# First %s is the name of the package, second the version of the package and third the size of the package (needed to be downloaded)
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+# Dialog Button in Confirm installation / update –dialog
+msgid "ai_bd_confirm_details"
+msgstr "Detaylar"
+
+# Dialog Button in Confirm installation / update –dialog also used in case of uninstall.
+msgid "ai_bd_confirm_ok"
+msgstr "Devam et"
+
+# Text shown to the user when s/he has selected a non-Nokia package to be installed / updated. This text cannot be changed, it’s legal text.
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Kurmak üzere olduğunuz uygulama Nokia kaynaklı değildir. Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
+"Kurulum sizin sorumluluğunuzda olacaktır."
+
+# Text shown to the user when s/he has selected multiple non-Nokia packages to be installed / updated. This text cannot be changed, it’s legal text.
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Kurmak üzere olduğunuz uygulamalardan bazıları Nokia kaynaklı değildir. Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
+"Installation will be at your own risk."
+
+# Confirmation checkbox label.
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Anlıyor ve kabul ediyorum."
+
+# Confirm uninstallation –dialog title
+msgid "ai_ti_confirm_uninstall"
+msgstr "Kaldır"
+
+# Text in Confirm uninstallation –dialog
+# First %s is the name of the package, second the version of the package and third the size of the package (amount of flash freed from the device)
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+# Dialog Button in Confirm uninstall –dialog
+msgid "ai_bd_confirm_uninstall"
+msgstr "Kaldır"
+
+# Title in Installation-dialog
+msgid "ai_ti_install_apps"
+msgstr "Uygulama kur"
+
+# Informative text in Installation-dialog (restore version)
+msgid "ai_ia_restore"
+msgstr ""
+"Yedekte bu uygulamalar listeleniyor.\n"
+"İndirilip kurulsun mu?"
+
+# Title of Application details-dialog
+msgid "ai_ti_details"
+msgstr "Uygulama detayları"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_common"
+msgstr "Özet"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_package"
+msgstr "Uygulama:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_maintainer"
+msgstr "Sağlayıcı:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_status"
+msgstr "Durum:"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_installed"
+msgstr "Kurulu"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_installable"
+msgstr "Kurulabilir"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_updateable"
+msgstr "Güncellenebilir"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_broken"
+msgstr "Bozuk"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Bozuk fakat güncellenebilir"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Bozuk ve güncellenemez"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_not_updateable"
+msgstr "Güncelleme mevcut ama kurulamaz"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_not_available"
+msgstr "Uygun değil"
+
+# Value in Application details-dialog
+msgid "ai_va_details_status_not_installable"
+msgstr "Kurulabilir değil"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_category"
+msgstr "Kategori:"
+
+# Field item in Application details-dialog
+msgid "ai_va_details_installed_version"
+msgstr "Kurulu sürüm:"
+
+# Value in Application details-dialog
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+# Field item in Application details-dialog
+msgid "ai_va_details_size"
+msgstr "Boyut:"
+
+# Field item in Application details-dialog
+msgid "ai_va_details_available_version"
+msgstr "Mevcut sürüm:"
+
+# Field item in Application details-dialog
+msgid "ai_va_details_download_size"
+msgstr "İndirme boyutu:"
+
+# Field item in Application details-dialog.
+msgid "ai_va_details_catalogue"
+msgstr "Katalog:"
+
+# Content of the summary tap that guides the user to use Nokia Software Updater –application in PC by plugging the UBS cable between the device and the PC to handle the update, because the application manager is not able to do it.
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Bu uygulama güncellemesi kurulum için PCnizdeki Nokia güncelleme uygulamasına (NSU) ihtiyaç duyuyor. \n"
+"Connect device to PC via USB cable and open Nokia software update application. The application will guide you through the rest of the Maemo update."
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_description"
+msgstr "Açıklama"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_installing"
+msgstr "Kurulum"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_updating"
+msgstr "Güncelleme"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Kaldırma"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Bağımlılıklar"
+
+# Title in Notebook
+msgid "ai_ti_details_noteb_problems"
+msgstr "Sorunlar"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_summary"
+msgstr "Özet:"
+
+# Value in Application details-dialog, where first %s is the name of the package and second %s the size required shown in format detailed in chapter 4.1.3.
+msgid "ai_va_details_install_requires"
+msgstr "'%1$s' kurulumu %2$s cihaz belleğine ihtiyaç duyar"
+
+# Value in Application details-dialog, where first %s is the name of the package and second %s the size freed shown in format detailed in chapter 4.1.3.
+msgid "ai_va_details_install_frees"
+msgstr "'%1$s' kurulumu %2$s cihaz belleğini boşaltır"
+
+# Value in Application details-dialog, where first %s is the name of the package and second %s the size required shown in format detailed in chapter 4.1.3.
+msgid "ai_va_details_update_requires"
+msgstr "'%1$s' güncellemesi %2$s cihaz belleğine ihtiyaç duyar"
+
+# Value in Application details-dialog, where first %s is the name of the package and second %s the size freed shown in format detailed in chapter 4.1.3.
+msgid "ai_va_details_update_frees"
+msgstr "'%1$s' güncellemesi %2$s cihaz belleğini boşaltır"
+
+# Value in Application details-dialog, where first %s is the name of the package and second %s the freed size shown in format detailed in chapter 4.1.3.
+msgid "ai_va_details_uninstall_frees"
+msgstr "'%1$s' kaldırılması %2$s cihaz belleğini boşaltır"
+
+# Value in Application details-dialog
+msgid "ai_va_details_unable_install"
+msgstr "'%s' kurulamıyor"
+
+# Value in Application details-dialog
+msgid "ai_va_details_unable_update"
+msgstr "'%s' güncellenemiyor"
+
+# Value in Application details-dialog
+msgid "ai_va_details_unable_uninstall"
+msgstr "'%s' kaldırılamıyor"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_packages_install"
+msgstr "Kurulacak uygulama paketleri:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_packages_update"
+msgstr "Güncellenecek uygulama paketleri:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Kaldırılacak uygulama paketleri:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_packages_missing"
+msgstr "Kayıp uygulama paketleri:"
+
+# Field item in Application details-dialog
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Çakıştığı uygulama paketleri:"
+
+# Field item shown in Application details-dialog if the package cannot be uninstalled because other packages need it.
+msgid "ai_fi_details_packages_needing"
+msgstr "İhtiyaç duyan uygulama paketleri:"
+
+# Title of Catalogue-dialog
+msgid "ai_ti_repository"
+msgstr "Kataloglar"
+
+# Dialog button in Catalogue-dialog
+msgid "ai_bd_repository_new"
+msgstr "Yeni"
+
+# A note to be added after the name of catalogue.
+msgid "ai_ia_failed_catalogue"
+msgstr "yenileme başarısız"
+
+# Title of New catalogue –dialog
+msgid "ai_ti_new_repository"
+msgstr "Yeni katalog"
+
+# Field item in New catalogue –dialog
+msgid "ai_fi_new_repository_name"
+msgstr "Katalog adı"
+
+# Field item in New catalogue –dialog
+msgid "ai_fi_new_repository_web_address"
+msgstr "Web adresi"
+
+# Field item in New catalogue –dialog
+msgid "ai_fi_new_repository_distribution"
+msgstr "Dağıtım"
+
+# Field item in New catalogue –dialog
+msgid "ai_fi_new_repository_component"
+msgstr "Bileşenler"
+
+# Field item in New catalogue –dialog
+msgid "ai_fi_new_repository_disabled"
+msgstr "Etkisiz"
+
+# Dialog button in New catalogue –dialog
+msgid "ai_bd_new_repository_ok"
+msgstr "Kaydet"
+
+# Title of Catalogue details (editable)–dialog
+msgid "ai_ti_edit_repository"
+msgstr "Katalog detayları"
+
+# Field item in Catalogue details –dialog
+msgid "ai_ti_catalogue_details_name"
+msgstr "Katalog adı"
+
+# Field item in Catalogue details –dialog
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Web adresi"
+
+# Field item in Catalogue details –dialog
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Dağıtım"
+
+# Field item in Catalogue details –dialog
+msgid "ai_ti_catalogue_details_component"
+msgstr "Bileşenler"
+
+# Dialog button in Catalogue-dialog
+msgid "ai_bd_repository_delete"
+msgstr "Sil"
+
+# Title of Add catalogue –dialog
+msgid "ai_ti_add_catalogue"
+msgstr "Katalog ekle"
+
+# Informative text in Add catalogue –dialog, tells the user that s/he must add the mentioned catalogue in order to be able to install the application.
+msgid "ai_ia_add_catalogue_install"
+msgstr "Bu kaynaktan kurmak için, katalogunu ekleyin."
+
+# Informative text in Add catalogue –dialog, tells the user that Nokia takes no liability if the catalogue harms the device or causes financial harm.
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Bu katalogdan yapılacak yükleme Nokia tarafından sağlanmamaktadır ve cihazınıza zarar verebilir, verilerinize ulaşabilir, cihaza hasar verebilir veya mali zararlara sebep olabilir."
+
+# Informative text in Add catalogue –dialog, where %s is the name of the catalogue
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Yeni katalog ekle?\n"
+"'%s'"
+
+# Informative text in Add catalogue –dialog, when the catalogue is already installed but happens to be disabled
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Katalog zaten kurulu fakat etkisizleştirilmiş.\n"
+"Etkinleşsin mi?"
+
+# Dialog button in Add catalogue –dialog
+msgid "ai_bd_add_catalogue_details"
+msgstr "Detaylar"
+
+# Dialog button in Add catalogue –dialog
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Ekle"
+
+# Title of Search-dialog
+msgid "ai_ti_search"
+msgstr "Uygulama ara"
+
+# Field item in Search-dialog
+msgid "ai_fi_search_words"
+msgstr "Kelime ara"
+
+# Field item in Search-dialog
+msgid "ai_fi_search_area"
+msgstr "Arama yeri"
+
+# Value in Search-dialog
+msgid "ai_va_search_name"
+msgstr "Uygulama adı"
+
+# Value in Search-dialog
+msgid "ai_va_search_name_description"
+msgstr "Uygulama adı ve açıklaması"
+
+# "OK" button in Search-dialog
+msgid "ai_bd_search_ok"
+msgstr "Ara"
+
+# Title of Log-dialog
+msgid "ai_ti_log"
+msgstr "Günlük"
+
+# "Save as" button in Log-dialog
+msgid "ai_bd_log_save_as"
+msgstr "Farklı kaydet"
+
+# "Clear" button in Log-dialog
+msgid "ai_bd_log_clear"
+msgstr "Temizle"
+
+# Title of the Save log –dialog
+msgid "ai_ti_save_log"
+msgstr "Günlüğü kaydet"
+
+# Name stub for default new file name in the Save log –dialog
+msgid "ai_li_save_log_default_name"
+msgstr "Günlük"
+
+# Title of License agreement-dialog
+msgid "ai_ti_license_agreement"
+msgstr "Lisans anlaşması"
+
+# Confirmation checkbox
+msgid "ai_ti_eula_confirmation"
+msgstr "Kabul ediyorum"
+
+# "Accept" button in License agreement-dialog
+msgid "ai_bd_license_ok"
+msgstr "Kabul et"
+
+# Title of Failed catalogues -dialog
+msgid "ai_ti_failed_repositories"
+msgstr "Başarısız kataloglar"
+
+# Text in Confirm update –dialog
+msgid "ai_nc_update_all"
+msgstr "Tüm güncellemeler yüklemeye hazır"
+
+msgid "ai_nc_error_download_failed"
+msgstr "'%s' indirilmesi başarısız. Tekrar dene?"
+
+# Text in Confirm update all –dialog, where %s the total size of all packages (amount of flash needed from the device)
+msgid "ai_ia_storage"
+msgstr "Gereken hafıza: %s"
+
+# Confirm update –dialog title
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo güncellemesi"
+
+# NOTE: This is a legal text, please don’t change it for the English translation. Minor corrections are can be done.
+#
+# Dialog shown when user is going to install OS update. Includes information, instructions and suggestion about creating backup.
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Kurulum sırasında tüm uygulamalar kapatılacak ve tüm fonksiyonlar etkisizleşecektir (acil aramalar dahil).\n"
+"Ardından cihaz yeniden başlayacaktır.\n"
+"Bu sırada cihazı kullanmayın.\n"
+"Yedek almanız önerilir."
+
+# Dialog Button
+msgid "ai_bd_create_backup"
+msgstr "Yedekle"
+
+# This text is shown to the user, when s/he needs to re-flash the device with PC. The Application manager part should be translated like ai_ap_application_installer. The "Nokia software updater" is a name of an application and must be translated like the application is translated company wide. That application is first installed to the PC and after that the user can use the PC and that application to re-flash the device.
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Cihazınızı bu işletim sistemi sürümüne güncellemeniz için PCnizdeki Nokia güncelleme uygulamasını (NSU) kullanmalısınız.\n"
+"Cihazı USB kablosuyla PCnize bağlayın ve uygulamayı başlatın.\n"
+"Veri ve ayarlarınızı kaybetmemek için önce yedek almalısınız."
+
+# Title of the Select application –dialog
+msgid "ai_ti_select_package"
+msgstr "Uygulama seç"
+
+# Informational text in the Select application –dialog
+msgid "ai_ia_select_package_no_packages"
+msgstr "(uygulama  yok)"
+
+# Text shown in Connecting / Downloading -progress note when the application has requested a connection and is waiting for it.
+msgid "ai_nw_connecting"
+msgstr "Bağlanıyor"
+
+# Progress note shown to the user when the package is being downloaded from the repository, where %s is the download size shown in one of the formats detailed in the chapter 4.1.3. The %s is the name of the application being downloaded.
+msgid "ai_nw_downloading"
+msgstr "Yükleniyor %s"
+
+# Note shown to the user when the install process is on-going. The %s is the name of the application being installed.
+msgid "ai_nw_installing"
+msgstr "Kuruluyor '%s'"
+
+# Note shown to the user when the installing update process is on-going. The first %s is the name of the application being updated and the second %s is the version number.
+msgid "ai_nw_updating"
+msgstr "Güncelleniyor '%s' %s"
+
+# Note shown to the user when the uninstall process is on-going. The %s is the name of the application being uninstalled.
+msgid "ai_nw_uninstalling"
+msgstr "Kaldırılıyor '%s'"
+
+# Progress banner shown to the user during the search operation. The progress should be shown as animation.
+msgid "ai_nw_searching"
+msgstr "Aranıyor"
+
+# Progress banner shown when the action takes more than 2 seconds.
+msgid "ai_pb_progress"
+msgstr "Yükleniyor"
+
+# Note shown to the user during Application Manager is automatically checking for updates if the user has Application manager window open.
+msgid "ai_nw_checking_updates"
+msgstr "Güncellemeler denetleniyor, lütfen bekleyin"
+
+# Note shown to the user during Application Manager is automatically checking catalogues in the middle of installation process.
+msgid "ai_nw_preparing_installation"
+msgstr "Kuruluma hazırlanılıyor, lütfen bekleyin"
+
+# Information banner shown to the user when s/he tries to select ‘Install new applications’ or ‘Check for updates’ in Main view and there are no catalogues defined.
+msgid "ai_ib_no_repositories"
+msgstr "Kullanımda olan katalog yok"
+
+# Information banner shown to the user if s/he hasn’t entered any search words.
+msgid "ai_ib_enter_text"
+msgstr "Aranmasını istediğiniz metni yazın"
+
+# Information banner shown to the user when the search is completed.
+msgid "ai_ib_search_complete"
+msgstr "Arama tamamlandı"
+
+msgid "ai_ib_unable_edit"
+msgstr "Katalog düzenlenemiyor"
+
+# Information banner shown to the user if there aren’t any search results.
+msgid "ai_ib_no_matches"
+msgstr "Eşleşme bulunamadı"
+
+# Information banner shown to the user when s/he has selected an essential catalogue to be deleted.
+msgid "ai_ni_unable_remove_repository"
+msgstr "Katalog silinemiyor"
+
+# Information banner shown to the user if the catalogue name field has been left empty in New catalogue –dialog.
+msgid "ai_ib_enter_name"
+msgstr "Katalog adını girin"
+
+# Information banner shown to the user if the web address field has been left empty in New catalogue –dialog.
+msgid "ai_ib_enter_web_address"
+msgstr "Web adresini girin"
+
+# Information note shown to user after successful uninstall. %s is the name of the package.
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' başarıyla kaldırıldı"
+
+#  Information note shown to the user after successfully installing multiple packages. %d is the number of the applications installed.
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d uygulama başarıyla kuruldu"
+msgstr[1] "%d uygulama başarıyla kuruldu"
+
+# Information banner shown to the user when the update of multiple packages has been installed and the device needs to be restarted afterwards.
+msgid "ai_cb_restarting_device"
+msgstr "Cihaz yeniden başlatılıyor"
+
+# Information note shown, when all applications from the backup file are already installed and user tries to install them again.
+msgid "ai_ni_all_installed"
+msgstr "Tüm uygulamalar zaten kurulu"
+
+# Information note shown during system update process without restart option.
+msgid "ai_ni_system_update_installed"
+msgstr "İşletim sistemi başarıyla güncellendi"
+
+# Information note shown during system update process when restart is required.
+msgid "ai_ni_device_restart"
+msgstr "İşletim sistemi başarıyla güncellendi. Cihaz şimdi yeniden başlayacak. İşlemi bölmek cihaza zarar verebileceğinden lütfen bekleyin."
+
+msgid "ai_ni_device_restart_long"
+msgstr "İşletim sistemi başarıyla güncellendi. Cihaz şimdi yeniden başlayacak. İşlemi bölmek cihaza zarar verebileceğinden lütfen bekleyin."
+
+# Information note shown after software updates, when there is no need for rebooting.
+msgid "ai_ni_software_update_installed"
+msgstr "Yazılım güncellemeleri başarıyla kuruldu."
+
+# Information note shown after software updates, when there is need for restarting.
+msgid "ai_ni_updates_restart"
+msgstr "Yazılım güncellemeleri başarıyla kuruldu. Cihaz yeniden başlayacak."
+
+# Confirmation note shown to the user when s/he has selected a catalogue to be deleted from the list. If the user selects "Yes" the catalogue will be deleted.
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Katalog silinsin mi?\n"
+"Bu katalog tarafından sunulan uygulama paketleri kuruluma ve güncellemeye artık uygun olmayacak."
+
+# Information note and a question shown to user after successful installation. %s is the name of the package. If the user selects "Yes" the installed application will be launched.
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' başarıyla kuruldu. Uygulama başlasın mı?"
+
+# Updating the whole list of packages fails because network connection is not available
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Uygulama listesi yenilenemedi.\n"
+"Kataloglara erişilemiyor.\n"
+"Ağ bağlantınızı kontrol edin.\n"
+"Tekrar dene?"
+
+# Updating the list of packages fails partly, because e.g. one of the catalogues is not available, due to server problems or misconfiguration on device. But the list of packages can be partly refreshed.
+# The error message is shown in dialog with one button: "Details".
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Uygulama listesi kısmen yenilendi.\n"
+"Bazı kataloglar uygun değil.\n"
+"Katalog detaylarını kontrol edin."
+
+# The user will be asked if s/he still wants to continue installing process after the error message.
+msgid "ai_ni_continue_install"
+msgstr "Kuruluma devam et?"
+
+# Some error happens that is not covered by other error cases.
+msgid "ai_ni_operation_failed"
+msgstr "İşlem başarısız"
+
+# Downloading the package fails (e.g. connection is lost). The %s is the name of the package.
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' indirilmesi başarısız oldu"
+
+# The file is not found from the catalogue (e.g. the list of packages was old).
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"'%s' indirilemiyor.\n"
+"Uygulama paketi bulunamadı."
+
+# Dependencies cannot be satisfied when installing from file or from catalogue.
+# This error is shown in dialog with one button: "Details".
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"'%s' kurulamıyor.\n"
+"Kurulum için gerekli bazı uygulama paketleri kayıp."
+
+# The package conflicts with another package and it cannot be installed (e.g. another version of the package would be needed to satisfy dependencies).
+# This error is shown in dialog with one button: "Details".
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"'%s' kurulamıyor.\n"
+"Uygulama paketleri çakışıyor."
+
+# The maintainer script fails during install and the package gets broken.
+msgid "ai_ni_error_installation_failed"
+msgstr "'%s' kurulamıyor"
+
+# The package is incompatible because it is not a user package, but a system package, or it is otherwise incompatible with the device.
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"'%s' kurulamıyor.\n"
+"Uyumsuz uygulama paketi."
+
+# The installation file is corrupted.
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"'%s' kurulamıyor.\n"
+"Kurulum dosyası bozuk."
+
+# Button used in some error notifications
+msgid "ai_ni_bd_details"
+msgstr "Detaylar"
+
+# The package is created for older OS edition and it is not compatible with the current OS edition
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"'%s' kurulamıyor.\n"
+"Uygulama paketi mevcut işletim sistemiyle uyumsuz."
+
+# The user tries to cancel the operation (e.g. installation) at the moment when it cannot be done
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"İptal edilemiyor.\n"
+"Lütfen bekleyin."
+
+# The user tries to start installing via File Manager while Application Manager is already busy carrying out some other operation.
+msgid "ai_ni_operation_progress"
+msgstr ""
+"İşlem devam ediyor.\n"
+"Lütfen bekleyin."
+
+# There’s not enough space in the application install memory for installing the update. The application install memory should be translated like the memo_ti_application_memory. Some space needs to be removed before the user can install the update.
+msgid "ai_ni_memory_shortage"
+msgstr "Uygulama kurulum hafızasında yeterli alan kalmadı. Bazı uygulamaları kaldırarak bu kurulum için yer açın."
+
+# The user tries to single-click-install the same package.
+msgid "ai_ni_package_installed"
+msgstr "'%s' zaten kurulu"
+
+# The catalogue is created for older OS edition and it is not compatible with the current OS edition.
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Kurulamıyor.\n"
+"Katalog mevcut işletim sistemiyle uyumsuz."
+
+# Dependencies cannot be satisfied when updating from file or from catalogue.
+# This error is shown in dialog with one button: "Details".
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"'%s' güncellenemiyor.\n"
+"Güncelleme için gereken bazı\n"
+"uygulama paketleri kayıp."
+
+# The maintainer script fails during update and the package gets broken.
+msgid "ai_ni_error_update_failed"
+msgstr "'%s' güncellenemiyor"
+
+# The package is incompatible because it is not a user package. but a system package, or it is otherwise incompatible with the device.
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"'%s' güncellenemiyor.\n"
+"Uyumsuz uygulama paketi."
+
+# The update file is corrupted.
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"'%s' güncellenemiyor.\n"
+"Güncelleme dosyası bozuk."
+
+# The package conflicts with another package and it cannot be updated (e.g. another version of the package would be needed to satisfy dependencies)
+# This error is shown in dialog with one button: "Details".
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"'%s' güncellenemiyor.\n"
+"Uygulama paketleri çakışıyor."
+
+# There is not enough battery left on the device to install Maemo update. There has to be at least 50% of power left.
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Maemo güncellemesi için yeterli batarya gücü yok.\n"
+"Şarj etmeye başlayıp tekrar deneyin."
+
+# Software update has been cancelled due to battery ran out, and when the device will be restarted next time AM finalizes the update installation and tells user what is happening.
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Güncelleme kurulumu tamamlanıyor"
+
+# The maintainer script fails during uninstall and the package gets broken
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "'%s' kaldırılamıyor"
+
+# The application cannot be uninstalled because some packages are needed by other applications.
+# This error is shown in dialog with one button: "Details".
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"'%s' kaldırılamıyor.\n"
+"Bazı uygulama paketlerine diğer uygulamalar ihtiyaç duyuyor."
+
+# Application is still running when the user is trying to update or uninstall it or application is running when the user tries to install e.g. a plug-in for it. %s is the name of the application (e.g. Audio player)
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' açık.\n"
+"Uygulamayı kapatıp tekrar deneyin."
+
+# Dialog button in Catalogue-dialog
+msgid "ai_bd_repository_edit"
+msgstr "Düzenle"
+
+# Column header in the list of packages
+msgid "ai_li_version"
+msgstr "Versiyon"
+
+# Column header in the list of packages
+msgid "ai_li_size"
+msgstr "Boyut"
+
+# Toolbar button text in Packages-view
+msgid "ai_tb_install"
+msgstr "Kur"
+
+# Toolbar button text in Uninstall-view
+msgid "ai_tb_uninstall"
+msgstr "Kaldır"
+
+# Toolbar button text in Update-view
+msgid "ai_tb_update"
+msgstr "Güncelle"
+
+# Toolbar button text in Update-view
+msgid "ai_tb_update_all"
+msgstr "Hepsini güncelle"
+
+# Dialog button in Select application –dialog
+msgid "ai_bd_select_package"
+msgstr "Seç"
+
