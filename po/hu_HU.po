@@ -1,0 +1,693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20091109114414\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-02-24 00:05+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Alkalmazás kezelő"
+
+msgid "ai_ap_name"
+msgstr "Alk. kezelő"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Adatok"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Hozzáadás"
+
+msgid "ai_bd_confirm_details"
+msgstr "Adatok"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Folytatás"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Eltávolítás"
+
+msgid "ai_bd_create_backup"
+msgstr "Biztonsági mentés készítése"
+
+msgid "ai_bd_license_ok"
+msgstr "Elfogad"
+
+msgid "ai_bd_log_clear"
+msgstr "Tisztítás"
+
+msgid "ai_bd_log_save_as"
+msgstr "Mentés másként"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Mentés"
+
+msgid "ai_bd_repository_delete"
+msgstr "Törlés"
+
+msgid "ai_bd_repository_new"
+msgstr "Új"
+
+msgid "ai_bd_search_ok"
+msgstr "Keresés"
+
+msgid "ai_category_all"
+msgstr "Összes"
+
+msgid "ai_category_desktop"
+msgstr "Asztal"
+
+msgid "ai_category_development"
+msgstr "Fejlesztés"
+
+msgid "ai_category_education"
+msgstr "Oktatás"
+
+msgid "ai_category_games"
+msgstr "Játék"
+
+msgid "ai_category_graphics"
+msgstr "Grafika"
+
+msgid "ai_category_multimedia"
+msgstr "Multimédia"
+
+msgid "ai_category_navigation"
+msgstr "Hely és Navigáció"
+
+msgid "ai_category_network"
+msgstr "Hálózat"
+
+msgid "ai_category_office"
+msgstr "Iroda"
+
+msgid "ai_category_other"
+msgstr "Egyéb"
+
+msgid "ai_category_science"
+msgstr "Tudomány"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Megosztás beépülők"
+
+msgid "ai_category_system"
+msgstr "Rendszer"
+
+msgid "ai_category_utilities"
+msgstr "Segédprogramok"
+
+msgid "ai_cb_restarting_device"
+msgstr "Eszköz újraindítása"
+
+msgid "ai_fi_details_category"
+msgstr "Kategória:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Fenntartó:"
+
+msgid "ai_fi_details_package"
+msgstr "Alkalmazás:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Ütközés az alkalmazás csomagokkal:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Telepítendő alkalmazás csomagok:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Hiányzó alkalmazás csomagok:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Szükséges az alkalmazás csomagokhoz:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Eltávolítandó alkalmazás csomagok:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Frissítendő alkalmazás csomagok:"
+
+msgid "ai_fi_details_status"
+msgstr "Állapot:"
+
+msgid "ai_fi_details_summary"
+msgstr "Összegzés:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Komponensek"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Kikapcsolva"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Disztribúció"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Katalógus név"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Web elérés"
+
+msgid "ai_fi_search_area"
+msgstr "Terület keresése"
+
+msgid "ai_fi_search_words"
+msgstr "Szavak keresése"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Hozzáadod az új katalógust?\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Ez a katalógus már hozzá van adva, de ki van kapcsolva.\n"
+"Bekapcsolod most?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Katalógushoz adás, az ebből a forrásból való telepítéshez"
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Az ebből a katalógusból telepített alkalmazásokat nem a Nokia adta ki. A nem megbízható forrásból származó alkalmazások malware-t tartalmazhatnak, anyagi kárt okozhatnak, hozzáférhetnek az eszközön található adatokhoz vagy tönkre tehetik az eszközt."
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+"Ez a Maemo frissítés megköveteli a PC-ről frissítést Nokia Software Updater segítségével.\n"
+"Csatlakoztasd az eszközt a  PC-hez  USB kábellel és indítsd el a Nokia Software Updater alkalmazást. Az alkalmazás informál a továbbiakról."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "Frissítési hiba"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+"Az erre a verzióra frissítés megköveteli a PC-ről frissítést Nokia Software Updater segítségével.\n"
+"Csatlakoztasd az eszközt a  PC-hez  USB kábellel és indítsd el a Nokia Software Updater alkalmazást. Az alkalmazás informál a továbbiakról."
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Az összes alkalmazás be lesz zárva és az összes hívásfunkció kikapcsolásra kerül (beleértve a segélyhívást is).\n"
+"Utána a készülék újraindul.\n"
+"Ne használd a készüléket eközben.\n"
+"Biztonsági mentés készítése ajánlott."
+
+msgid "ai_ia_restore"
+msgstr ""
+"A biztonsági mentés ezeket az alkalmazásokat sorolja fel.\n"
+"Válaszd ki az alkalmazást a Letöltéshez és Telepítéshez."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(nincsenek alkalmazások)"
+
+msgid "ai_ia_storage"
+msgstr "Szükséges hely: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Előbb add meg a katalógus nevét"
+
+msgid "ai_ib_enter_text"
+msgstr "Írd be a keresendő szöveget!"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Előbb add meg a katalógus Web elérését"
+
+msgid "ai_ib_no_matches"
+msgstr "Nincs találat"
+
+msgid "ai_ib_no_repositories"
+msgstr "Nincs használt katalógus"
+
+msgid "ai_ib_search_complete"
+msgstr "Keresés kész"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Megszakítás sikertelen.\n"
+"Kérlek várj."
+
+msgid "ai_li_install"
+msgstr "Letöltés"
+
+msgid "ai_li_no_applications_available"
+msgstr "(nincs elérhető alkalmazás)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(nincs telepített alkalmazás)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(nincs elérhető frissítés)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Napló"
+
+msgid "ai_li_uninstall"
+msgstr "Eltávolítás"
+
+msgid "ai_li_update"
+msgstr "Frissítés"
+
+msgid "ai_me_details"
+msgstr "Adatok"
+
+msgid "ai_me_package_install_file"
+msgstr "Telepítés fájlból"
+
+msgid "ai_me_refresh"
+msgstr "Frissítés"
+
+msgid "ai_me_search"
+msgstr "Keresés"
+
+msgid "ai_me_settings"
+msgstr "Beállítások"
+
+msgid "ai_me_tools_log"
+msgstr "Napló"
+
+msgid "ai_me_tools_repository"
+msgstr "Katalógusok"
+
+msgid "ai_me_tools_restore"
+msgstr "Visszaállíás"
+
+msgid "ai_me_update_all"
+msgstr "Összes frissítése"
+
+msgid "ai_nc_install"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"A telepítendő alkalmazást nem a Nokia adta ki. A nem megbízható forrásból származó alkalmazások malware-t tartalmazhatnak, anyagi kárt okozhatnak, hozzáférhetnek az eszközön található adatokhoz vagy tönkre tehetik az eszközt. \n"
+"Csak saját felelősségre telepítsd!"
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+"Néhány telepíteni kívánt alkalmazást nem a Nokia adott ki. A nem megbízható forrásból származó alkalmazások malware-t tartalmazhatnak, anyagi kárt okozhatnak, hozzáférhetnek az eszközön található adatokhoz vagy tönkre tehetik az eszközt. \n"
+"Csak saját felelősségre telepítsd!"
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Törlöd a katalógust?\n"
+"Az ebben a katalógusban található alkalmazások ezek után nem lesznek telepíthetőek és frissíthetőek."
+
+msgid "ai_nc_uninstall"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update"
+msgstr ""
+"%s %s\n"
+"%s"
+
+msgid "ai_nc_update_all"
+msgstr "Az összes frissítés késszen áll a telepítéshez"
+
+msgid "ai_ni_all_installed"
+msgstr "Összes alkalmazás telepítve"
+
+msgid "ai_ni_bd_details"
+msgstr "Adatok"
+
+msgid "ai_ni_continue_install"
+msgstr "Folytatod a telepítést?"
+
+msgid "ai_ni_device_restart"
+msgstr "Az operációs rendszer sikeresen frissítve. A készülék újraindul. Kérlek várj míg a folyamat végbe megy."
+
+msgid "ai_ni_device_restart_long"
+msgstr "Az operációs rendszer sikeresen frissítve. A készülék újraindul. Kérlek várj míg a folyamat végbe megy."
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Nem elég az akku töltöttségi szint a Maemo frissítéshez.\n"
+"Csatlakoztasd a töltőt az eszközhöz és próbáld újra."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Nem telepíthető.\n"
+"A katalógus nem kompatibilis a jelenlegi operációs rendszerrel."
+
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' letöltése sikertelen"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"'%s' letöltése nem lehetséges.\n"
+"Az alkalmazás csomag nem található."
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"'%s' nem telepíthető.\n"
+"Ütköző alkalmazás csomagok."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"'%s' nem telepíthető.\n"
+"A telepítő fájl sérült."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"'%s' nem telepíthető.\n"
+"Nem kompatibilis alkalmazás csomag."
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"'%s' telepítése nem lehetséges.\n"
+"Néhány telepítéshez szükséges csomag nem található."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "'%s' nem telepíthető"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"'%s' nem telepíthető. \n"
+"Az alkalmazás csomag nem kompatibilis a jelenlegi operációs rendszerrel."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' jelenleg is fut.\n"
+"Zárd be az alkalmazást és próbáld újra."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"'%s' nem távolítható el.\n"
+"Néhány alkalmazás csomag szükséges más alkalmazáshoz."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "'%s' nem távolítható el"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"'%s' nem frissíthető.\n"
+"Ütköző alkalmazás csomagok."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"'%s' nem frissíthető.\n"
+"A frissítési fájl sérült."
+
+msgid "ai_ni_error_update_failed"
+msgstr "'%s' nem frissíthető"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"'%s' nem frissíthető.\n"
+"Nem kompatibilis alkalmazás csomag."
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"'%s' nem frissíthető.\n"
+"Néhány frissítéshez szükséges\n"
+"alkalmazás csomag hiányzik."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Frissítés telepítésének befejezése"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' sikeresen telepítve. Elindítod az alkalmazást?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Nincs elég hely az alkalmazás telepítéséhez. Távolíts el néhány telepített alkalmazást a hely felszabadítása érdekében."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "Az alkalmazás sikeresen telepítve"
+msgstr[1] "%d alkalmazás sikeresen telepítve"
+
+msgid "ai_ni_operation_failed"
+msgstr "Műveleti hiba"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Művelet folyamatban.\n"
+"Kérlek várj."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' már telepítve van"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Frissítések sikeresen telepítve"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Az operációs rendszer sikeresen frissítve"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Katalógus nem törölhető"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' sikeresen eltávolítva"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Nem lehetséges az alkalmazás lista frissítése.\n"
+"A katalógus elérése nem lehetséges.\n"
+"Ellenőrizd az internet kapcsolatot.\n"
+"Megpróbálod újra?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Alkalmazás lista részben frissítve.\n"
+"Néhány katalógus nem elérhető.\n"
+"Ellenőrizd a katalógusokat."
+
+msgid "ai_ni_updates_restart"
+msgstr "Frissítések sikeresen telepítve. Az eszköz újraindul."
+
+msgid "ai_nw_checking_updates"
+msgstr "Frissítések ellenőrzése, kérlek várj"
+
+msgid "ai_nw_connecting"
+msgstr "Csatlakozás"
+
+msgid "ai_nw_downloading"
+msgstr "Letöltés %s"
+
+msgid "ai_nw_installing"
+msgstr "Telepítés '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Telepítés előkészítése. Kérlek várj..."
+
+msgid "ai_nw_searching"
+msgstr "Keresés"
+
+msgid "ai_nw_uninstalling"
+msgstr "Eltávolítás '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Frissítés '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Betöltés"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Új szoftver kiadások"
+
+msgid "ai_sb_app_push_link"
+msgstr "Letöltés"
+
+msgid "ai_sb_app_push_no"
+msgstr "Kihagyás"
+
+msgid "ai_sb_update_am"
+msgstr "Folytatás"
+
+msgid "ai_sb_update_description"
+msgstr "Új szoftver frissítések"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Nokia szoftver (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo frissítés"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Harmadik féltől származó szoftver (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Katalógus hozzáadása"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Komponensek"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Disztribúció"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Katalógus név"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Web elérés"
+
+msgid "ai_ti_confirm_install"
+msgstr "Telepítés"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Eltávolítás"
+
+msgid "ai_ti_confirm_update"
+msgstr "Frissítés"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Megértettem és elfogadom"
+
+msgid "ai_ti_details"
+msgstr "Alkalmazás adatai"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Összegzés:"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Függőségek"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Leírás"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Telepítés"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problémák"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Eltávolítás"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Frissítés"
+
+msgid "ai_ti_edit_repository"
+msgstr "Katalógus adatok"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Elfogadom"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Sikertelen katalógusok"
+
+msgid "ai_ti_install_apps"
+msgstr "Alkalmazások telepítése"
+
+msgid "ai_ti_license_agreement"
+msgstr "Licensz megállapodás"
+
+msgid "ai_ti_log"
+msgstr "Napló"
+
+msgid "ai_ti_new_repository"
+msgstr "Új katalógus"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo frissítés"
+
+msgid "ai_ti_repository"
+msgstr "Katalógus"
+
+msgid "ai_ti_save_log"
+msgstr "Napló mentése"
+
+msgid "ai_ti_search"
+msgstr "Alkalmazások keresése"
+
+msgid "ai_ti_select_package"
+msgstr "Alkalmazás kiválasztása"
+
+msgid "ai_va_details_available_version"
+msgstr "Elérhető verzió:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Katalógus:"
+
+msgid "ai_va_details_download_size"
+msgstr "Letöltés méret:"
+
+msgid "ai_va_details_install_frees"
+msgstr "'%1$s' telepítése %2$s helyet szabadít fel"
+
+msgid "ai_va_details_install_requires"
+msgstr "'%1$s' telepítéséhez %2$s helyre van szükség"
+
+msgid "ai_va_details_installed_version"
+msgstr "Telepített verzió:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Méret:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Sérült"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Sérült és nem frissíthető"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Sérült, de frissíthető"
+
+msgid "ai_va_details_status_installable"
+msgstr "Telepíthető"
+
+msgid "ai_va_details_status_installed"
+msgstr "Telepítve"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Nem elérhető"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Nem telepíthető"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Frissítés elérhető, de nem telepíthető"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Frissíthető"
+
+msgid "ai_va_details_unable_install"
+msgstr "'%s' nem telepíthető"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "'%s' nem eltávolítható"
+
+msgid "ai_va_details_unable_update"
+msgstr "'%s' nem frissíthető"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "'%1$s' eltávolítása %2$s helyet szabadít fel"
+
+msgid "ai_va_details_update_frees"
+msgstr "'%1$s' frissítése %2$s helyet szabadít fel"
+
+msgid "ai_va_details_update_requires"
+msgstr "'%1$s' frissítéséhez %2$s helyre van szükség"
+
+msgid "ai_va_search_name"
+msgstr "Alkalmazás név"
+
+msgid "ai_va_search_name_description"
+msgstr "Alkalmatás név és leírás"
+
+msgid "ai_va_sort_name"
+msgstr "Név"
+
+msgid "ai_va_sort_size"
+msgstr "Méret"
+
+msgid "apma_fi_by_provider"
+msgstr "Készítette %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Új kiadások"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Új frissítések"
+
