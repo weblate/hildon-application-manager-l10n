@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20091109114414\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2009.04.26 22:28+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 13:33+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # Name of Application manager shown as application title
 msgid "ai_ap_application_installer"
@@ -73,7 +76,7 @@ msgstr "Multimedya"
 
 # Name of the category
 msgid "ai_category_network"
-msgstr "Ağ"
+msgstr " Ağ"
 
 # Name of the category
 msgid "ai_category_office"
@@ -251,7 +254,7 @@ msgstr ""
 
 # Confirmation checkbox label.
 msgid "ai_ti_confirmation_checkbox"
-msgstr "Anlıyor ve kabul ediyorum."
+msgstr "Anlıyorum ve kabul ediyorum"
 
 # Confirm uninstallation –dialog title
 msgid "ai_ti_confirm_uninstall"
@@ -276,7 +279,7 @@ msgstr "Uygulama kur"
 msgid "ai_ia_restore"
 msgstr ""
 "Yedekte bu uygulamalar listeleniyor.\n"
-"İndirilip kurulsun mu?"
+"İndirilecek ve kurulacak uygulamaları seçin."
 
 # Title of Application details-dialog
 msgid "ai_ti_details"
@@ -640,9 +643,9 @@ msgstr "Yedekle"
 # This text is shown to the user, when s/he needs to re-flash the device with PC. The Application manager part should be translated like ai_ap_application_installer. The "Nokia software updater" is a name of an application and must be translated like the application is translated company wide. That application is first installed to the PC and after that the user can use the PC and that application to re-flash the device.
 msgid "ai_ia_osupdate_pc"
 msgstr ""
-"Cihazınızı bu işletim sistemi sürümüne güncellemeniz için PCnizdeki Nokia güncelleme uygulamasını (NSU) kullanmalısınız.\n"
-"Cihazı USB kablosuyla PCnize bağlayın ve uygulamayı başlatın.\n"
-"Veri ve ayarlarınızı kaybetmemek için önce yedek almalısınız."
+"Aygıtınızı bu işletim sistemi sürümüne güncellemek için bilgisayarınızda "
+"Nokia PC Suite kullanmalısınız.\n"
+"Aygıtı bir USB kablosuyla bilgisayarınıza bağlayın ve uygulamayı başlatın."
 
 # Title of the Select application –dialog
 msgid "ai_ti_select_package"
@@ -650,7 +653,7 @@ msgstr "Uygulama seç"
 
 # Informational text in the Select application –dialog
 msgid "ai_ia_select_package_no_packages"
-msgstr "(uygulama  yok)"
+msgstr "(uygulama yok)"
 
 # Text shown in Connecting / Downloading -progress note when the application has requested a connection and is waiting for it.
 msgid "ai_nw_connecting"
@@ -750,7 +753,7 @@ msgstr "İşletim sistemi başarıyla güncellendi. Cihaz şimdi yeniden başlay
 
 # Information note shown after software updates, when there is no need for rebooting.
 msgid "ai_ni_software_update_installed"
-msgstr "Yazılım güncellemeleri başarıyla kuruldu."
+msgstr "Yazılım güncellemeleri başarıyla kuruldu"
 
 # Information note shown after software updates, when there is need for restarting.
 msgid "ai_ni_updates_restart"
@@ -955,4 +958,3 @@ msgstr "Hepsini güncelle"
 # Dialog button in Select application –dialog
 msgid "ai_bd_select_package"
 msgstr "Seç"
-
