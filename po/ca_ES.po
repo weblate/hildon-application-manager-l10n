@@ -1,0 +1,636 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2011-03-22 15:49+0000\n"
+"Last-Translator: Toni Hermoso Pulido <toniher@softcatala.cat>\n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Gestor d'aplicacions"
+
+msgid "ai_ap_name"
+msgstr "Gestor aps."
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Detalls"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Afegeix"
+
+msgid "ai_bd_confirm_details"
+msgstr "Detalls"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Continua"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Desinstal·la"
+
+msgid "ai_bd_create_backup"
+msgstr "Crea una còpia de seguretat"
+
+msgid "ai_bd_license_ok"
+msgstr "Accepta"
+
+msgid "ai_bd_log_clear"
+msgstr "Neteja"
+
+msgid "ai_bd_log_save_as"
+msgstr "Desa com"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Desa"
+
+msgid "ai_bd_repository_delete"
+msgstr "Esborra"
+
+msgid "ai_bd_repository_new"
+msgstr "Nou"
+
+msgid "ai_bd_search_ok"
+msgstr "Cerca"
+
+msgid "ai_category_all"
+msgstr "Tot"
+
+msgid "ai_category_desktop"
+msgstr "Escriptori"
+
+msgid "ai_category_development"
+msgstr "Desenvolupament"
+
+msgid "ai_category_education"
+msgstr "Educació"
+
+msgid "ai_category_games"
+msgstr "Jocs"
+
+msgid "ai_category_graphics"
+msgstr "Gràfics"
+
+msgid "ai_category_multimedia"
+msgstr "Multimèdia"
+
+msgid "ai_category_navigation"
+msgstr "Ubicació i navegació"
+
+msgid "ai_category_network"
+msgstr "Xarxes"
+
+msgid "ai_category_office"
+msgstr "Oficina"
+
+msgid "ai_category_other"
+msgstr "Altres"
+
+msgid "ai_category_science"
+msgstr "Ciència"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Connectors d'intercanvi"
+
+msgid "ai_category_system"
+msgstr "Sistema"
+
+msgid "ai_category_utilities"
+msgstr "Utilitats"
+
+msgid "ai_cb_restarting_device"
+msgstr "Reinici de dispositiu"
+
+msgid "ai_fi_details_category"
+msgstr "Categoria:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Mantenidor:"
+
+msgid "ai_fi_details_package"
+msgstr "Aplicació:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Conflicte amb paquets:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Paquets per instal·lar:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Paquets que hi manquen:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Requerit per:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Paquets per eliminar:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Paquets per actualitzar:"
+
+msgid "ai_fi_details_status"
+msgstr "Estat:"
+
+msgid "ai_fi_details_summary"
+msgstr "Resum:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Components"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Inhabilitat"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Distribució"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Nom del catàleg"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Adreça web"
+
+msgid "ai_fi_search_area"
+msgstr "Àrea de cerca"
+
+msgid "ai_fi_search_words"
+msgstr "Cerca"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "S'afegeix un nou catàleg?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "El catàleg ja està instal·lat, però està inhabilitat.\nS'activa ara?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Per instal·lar des d'aquesta font, afegiu el catàleg."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "El programari instal·lat des d'aquest catàleg no està proporcionat per Nokia i pot contenir codi maliciós que accedeixi a dades del dispositiu, o malmetre el dispositiu."
+
+msgid "ai_ia_details_use_pc"
+msgstr "Aquesta actualització de Maemo necessita l'aplicació Nokia software update de l'ordinador.\nConnecteu el dispositiu a l'ordinador amb el cable USB i obriu el programa Nokia software update. El programa us guiarà a través del procés d'actualització."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "no s'ha pogut actualitzar el catàleg"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "Aquesta actualització de Maemo necessita l'aplicació Nokia software update de l'ordinador.\nConnecta el dispositiu a l'ordinador amb el cable USB i obre el programa Nokia software update."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "Durant l'actualització es tancaran totes les aplicacions i es deshabilitaran les funcions, incloent-hi les trucades d'emergència.\nEl dispositiu es reiniciarà.\nEs recomana crear una còpia de segureat primer."
+
+msgid "ai_ia_restore"
+msgstr "La còpia de seguretat llista les següents aplicacions.\nSeleccioneu el programes per baixar i instal·lar."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(no hi ha programes)"
+
+msgid "ai_ia_storage"
+msgstr "Memoria necessària: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Introduïu el nom del catàleg"
+
+msgid "ai_ib_enter_text"
+msgstr "Introduïu el text a cercar"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Introduïu l'adreça web"
+
+msgid "ai_ib_no_matches"
+msgstr "No s'han trobat coincidències"
+
+msgid "ai_ib_no_repositories"
+msgstr "No s'estan utilitzant catàlegs"
+
+msgid "ai_ib_search_complete"
+msgstr "S'ha completat la cerca"
+
+msgid "ai_ib_unable_cancel"
+msgstr "No es pot cancel·lar.\nEspereu..."
+
+msgid "ai_ib_unable_edit"
+msgstr "No es pot editar el catàleg"
+
+msgid "ai_li_install"
+msgstr "Instal·la"
+
+msgid "ai_li_no_applications_available"
+msgstr "(no hi ha aplicacions disponibles)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(no hi ha aplicacions instal·lades) "
+
+msgid "ai_li_no_updates_available"
+msgstr "(no hi ha actualitzacions disponibles)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Registre"
+
+msgid "ai_li_uninstall"
+msgstr "Desinstal·la"
+
+msgid "ai_li_update"
+msgstr "Actualitza"
+
+msgid "ai_me_details"
+msgstr "Detalls"
+
+msgid "ai_me_package_install_file"
+msgstr "Instal·la des d'un fitxer"
+
+msgid "ai_me_refresh"
+msgstr "Actualitza"
+
+msgid "ai_me_search"
+msgstr "Cerca"
+
+msgid "ai_me_settings"
+msgstr "Preferències"
+
+msgid "ai_me_tools_log"
+msgstr "Registre"
+
+msgid "ai_me_tools_repository"
+msgstr "Catàlegs d'aplicacions"
+
+msgid "ai_me_tools_restore"
+msgstr "Restaura les aplicacions"
+
+msgid "ai_me_update_all"
+msgstr "Actualitza-ho tot"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Ha fallat la baixada de '%s'. S'intenta de nou?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "El programa per instal·lar des d'aquest catàleg no està proporcionat per Nokia i pot contenir codi maliciós que accedeixi a dades del dispositiu, o malmetre el dispositiu.\nLa instal·lació es farà sota la vostra responsabilitat."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Els programes a instal·lar des d'aquest catàleg no estan proporcionats per Nokia i poden contenir codi maliciós que accedeixi a dades del dispositiu, o malmetre el dispositiu.\nL'instal·lació es farà sota la vostra responsabilitat."
+
+msgid "ai_nc_remove_repository"
+msgstr "S'esborra el catàleg?\nEls paquets que ofereix aquest catàleg ja no estaran disponibles per a noves instal·lacions o actualitzacions."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "Preparat per a actualitzar-ho tot"
+
+msgid "ai_ni_all_installed"
+msgstr "Totes les aplicacions ja estan instal·lades"
+
+msgid "ai_ni_bd_details"
+msgstr "Detalls"
+
+msgid "ai_ni_continue_install"
+msgstr "Es continua instal·lant?"
+
+msgid "ai_ni_device_restart"
+msgstr "El sistema operatiu s'ha actualitzat correctament. El dispositiu es reiniciarà. No interrompeu l'operació."
+
+msgid "ai_ni_device_restart_long"
+msgstr "El sistema operatiu s'ha actualitzat correctament. El dispositiu es reiniciarà. No interrompeu l'operació perquè es podria malmetre el dispositiu."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "No hi ha prou bateria per actualitzar el sistema operatiu.\nCarregueu el mòbil i intenteu-ho de nou."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "No es pot instal·lar.\nEl catàleg no es compatible amb el sistema operatiu actual."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Error en baixar '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr "No s'ha pogut baixar '%s'.\nNo s'ha trobat el paquet de l'aplicació."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "No s'ha pogut instal·lar '%s'.\nHi ha un conflicte entre paquets."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "No s'ha pogut instal·lar '%s'.\nFitxer d'instal·lació corrupte."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "No s'ha pogut instal·lar '%s'.\nPaquet d'aplicació incompatible."
+
+msgid "ai_ni_error_install_missing"
+msgstr "No s'ha pogut instal·lar '%s'.\nManca alguna dependència que no s'ha pogut trobar."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "No s'ha pogut instal·lar '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "No s'ha pogut instal·lar '%s'.\nEl paquet es incompatible amb el sistema operatiu actual."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' està obert.\nTanqueu el programa i intenteu-ho de nou."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "No s'ha pogut instal·lar '%s'.\nAlguns paquets d'aquesta aplicació es necessiten per altres aplicacions."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "No s'ha pogut instal·lar '%s'."
+
+msgid "ai_ni_error_update_conflict"
+msgstr "No s'ha pogut actualitzar '%s'.\nHi ha conflictes entre paquets d'aplicació."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "No s'ha pogut actualitzar '%s'.\nFitxer malmès"
+
+msgid "ai_ni_error_update_failed"
+msgstr "No s'ha pogut actualitzar '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "No s'ha pogut actualitzar '%s'.\nPaquet d'aplicació incompatible."
+
+msgid "ai_ni_error_update_missing"
+msgstr "No s'ha pogut actualitzar '%s'.\nAlguns paquets necessaris per a\nl'actualització no estan disponibles."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Es completa l'actualització"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' instal·lat correctament. S'executa el programa?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "No hi ha prou espai per instal·lar. Cal desinstal·lar aplicacions per alliberar memòria."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d programa instal·lat correctament"
+msgstr[1] "%d programes instal·lats correctament"
+
+msgid "ai_ni_operation_failed"
+msgstr "Ha fallat l'operació"
+
+msgid "ai_ni_operation_progress"
+msgstr "S'està executant.\nEspereu..."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' ja està instal·lat"
+
+msgid "ai_ni_software_update_installed"
+msgstr "S'ha actualitzat correctament"
+
+msgid "ai_ni_system_update_installed"
+msgstr "S'ha actualitzat el sistema operatiu"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "No s'ha pogut esborrar el catàleg"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' desinstal·lat correctament"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "No s'ha pogut actualitzar la llista de programes.\nNo s'ha pogut accedir als catàlegs.\nS'intenta de nou?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "La llista d'aplicacions s'ha actualitzat parcialment.\nAlguns catàlegs no estan disponibles.\nComproveu la configuració dels catàlegs."
+
+msgid "ai_ni_updates_restart"
+msgstr "S'ha actualitzat correctament. El dispositiu es reiniciarà."
+
+msgid "ai_nw_checking_updates"
+msgstr "S'estan comprovant actualitzacions, espereu."
+
+msgid "ai_nw_connecting"
+msgstr "S'està connectant"
+
+msgid "ai_nw_downloading"
+msgstr "Es baixa %s"
+
+msgid "ai_nw_installing"
+msgstr "S'instal·la '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Es prepara la instal·lació, espereu..."
+
+msgid "ai_nw_searching"
+msgstr "S'està cercant"
+
+msgid "ai_nw_uninstalling"
+msgstr "Es desinstal·la '%s'"
+
+msgid "ai_nw_updating"
+msgstr "S'actualitza '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "S'està carregant"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Actualitzacions disponibles"
+
+msgid "ai_sb_app_push_link"
+msgstr "Baixa"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ignora"
+
+msgid "ai_sb_update_am"
+msgstr "Continua"
+
+msgid "ai_sb_update_description"
+msgstr "Noves actualitzacions"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Programari Nokia (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Actualització de Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Programari de tercers (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Afegeix un catàleg"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Components"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Distribució"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Nom del catàleg"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Adreça web"
+
+msgid "ai_ti_confirm_install"
+msgstr "Instal·la"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Desinstal·la"
+
+msgid "ai_ti_confirm_update"
+msgstr "Actualitza"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Ho entenc i ho accepto"
+
+msgid "ai_ti_details"
+msgstr "Detalls de l'aplicació"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Resum"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Dependències"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Descripció"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Instal·lació"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problemes"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Desinstal·lació"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Actualització"
+
+msgid "ai_ti_edit_repository"
+msgstr "Detalls de catàleg"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Ho accepto"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Catàlegs que han fallat"
+
+msgid "ai_ti_install_apps"
+msgstr "Instal·la aplicacions"
+
+msgid "ai_ti_license_agreement"
+msgstr "Acord de llicència"
+
+msgid "ai_ti_log"
+msgstr "Registre"
+
+msgid "ai_ti_new_repository"
+msgstr "Nou catàleg"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Actualització del Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Catàleg"
+
+msgid "ai_ti_save_log"
+msgstr "Desa el registre"
+
+msgid "ai_ti_search"
+msgstr "Cerca aplicacions"
+
+msgid "ai_ti_select_package"
+msgstr "Tria de programa"
+
+msgid "ai_va_details_available_version"
+msgstr "Versió disponible:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Catàleg:"
+
+msgid "ai_va_details_download_size"
+msgstr "Mida de la baixada:"
+
+msgid "ai_va_details_install_frees"
+msgstr "L'instal·lació de '%1$s' allibera %2$s de memòria al dispositiu"
+
+msgid "ai_va_details_install_requires"
+msgstr "L'instal·lació de '%1$s' necessita %2$s de memòria al dispositiu"
+
+msgid "ai_va_details_installed_version"
+msgstr "Versió instal·lada:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Mida:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Trencat"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Trencat i no es pot actualitzar"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Trencat però es pot actualitzar"
+
+msgid "ai_va_details_status_installable"
+msgstr "Instal·lable"
+
+msgid "ai_va_details_status_installed"
+msgstr "Instal·lat"
+
+msgid "ai_va_details_status_not_available"
+msgstr "No disponible"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "No instal·lable"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Actualització disponible, però no instal·lable"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Actualitzable"
+
+msgid "ai_va_details_unable_install"
+msgstr "No es pot instal·lar '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "No es pot desinstal·lar '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "No es pot actualitzar '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Desinstal·lant '%1$s' s'alliberen %2$s de memòria al dispositiu"
+
+msgid "ai_va_details_update_frees"
+msgstr "L'actualització de '%1$s' allibera %2$s de memòria al dispositiu"
+
+msgid "ai_va_details_update_requires"
+msgstr "L'actualització de '%1$s' necessita %2$s de memòria al dispositiu"
+
+msgid "ai_va_search_name"
+msgstr "Nom del programa"
+
+msgid "ai_va_search_name_description"
+msgstr "Nom del programa i descripció"
+
+msgid "ai_va_sort_name"
+msgstr "Nom"
+
+msgid "ai_va_sort_size"
+msgstr "Mida"
+
+msgid "apma_fi_by_provider"
+msgstr "per %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Noves versions"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Noves actualitzacions"
