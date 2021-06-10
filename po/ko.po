@@ -1,0 +1,634 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:39+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ai_ap_application_installer"
+msgstr "어플리케이션 관리자"
+
+msgid "ai_ap_name"
+msgstr "앱 관리자"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "자세히"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "추가"
+
+msgid "ai_bd_confirm_details"
+msgstr "자세히"
+
+msgid "ai_bd_confirm_ok"
+msgstr "계속"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "삭제"
+
+msgid "ai_bd_create_backup"
+msgstr "백업 만들기"
+
+msgid "ai_bd_license_ok"
+msgstr "승인"
+
+msgid "ai_bd_log_clear"
+msgstr "초기화"
+
+msgid "ai_bd_log_save_as"
+msgstr "다른 이름으로 저장"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "저장"
+
+msgid "ai_bd_repository_delete"
+msgstr "삭제"
+
+msgid "ai_bd_repository_new"
+msgstr "새로 만들기"
+
+msgid "ai_bd_search_ok"
+msgstr "검색"
+
+msgid "ai_category_all"
+msgstr "모두"
+
+msgid "ai_category_desktop"
+msgstr "데스크탑"
+
+msgid "ai_category_development"
+msgstr "개발"
+
+msgid "ai_category_education"
+msgstr "교육"
+
+msgid "ai_category_games"
+msgstr "게임"
+
+msgid "ai_category_graphics"
+msgstr "그래픽"
+
+msgid "ai_category_multimedia"
+msgstr "멀티미디어"
+
+msgid "ai_category_navigation"
+msgstr "위치 및 네비게이션"
+
+msgid "ai_category_network"
+msgstr "네트워크"
+
+msgid "ai_category_office"
+msgstr "오피스"
+
+msgid "ai_category_other"
+msgstr "기타"
+
+msgid "ai_category_science"
+msgstr "과학"
+
+msgid "ai_category_sharing_plugins"
+msgstr "공유 플러그인"
+
+msgid "ai_category_system"
+msgstr "시스템"
+
+msgid "ai_category_utilities"
+msgstr "유틸리티"
+
+msgid "ai_cb_restarting_device"
+msgstr "장치를 재시작 합니다"
+
+msgid "ai_fi_details_category"
+msgstr "분류:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "관리자:"
+
+msgid "ai_fi_details_package"
+msgstr "어플리케이션:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "어플리케이션 패키지 계약사항:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "설치할 어플리케이션 패키지:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "사라진 어플리케이션 패키지:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "필요한 어플리케이션 패키지:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "삭제할 어플리케이션 패키지:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "갱신할 어플리케이션 패키지:"
+
+msgid "ai_fi_details_status"
+msgstr "상태:"
+
+msgid "ai_fi_details_summary"
+msgstr "요약:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "구성요소"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "사용 안함"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "배포판"
+
+msgid "ai_fi_new_repository_name"
+msgstr "카탈로그 이름"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "웹 주소"
+
+msgid "ai_fi_search_area"
+msgstr "지역 찾기"
+
+msgid "ai_fi_search_words"
+msgstr "단어 찾기"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "새로운 카탈로그를 추가하시겠습니까?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "카탈로그가 이미 추가되어 있으나 비활성화 되어있습니다.\n지금 활성화 할까요?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "현재 소스로부터 설치하기 위해서는 카탈로그를 추가해주세요."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "현재 카탈로그로부터 설치된 소프트웨어는 노키아가 제공하지 않습니다. 이 소프트웨어는 악성 코드를 내포하여 장치에 저장된 데이터나 금융 정보를훔치거나 손상 시킬수도 있으니 주의 하시기 바랍니다."
+
+msgid "ai_ia_details_use_pc"
+msgstr "이 Maemo 업데이트는 PC용 노키아 소프트웨어 업데이트 어플리케이션이 필요합니다.\nUSB 케이블을 통하여 PC와 연결한뒤 노키아 소프트웨어 업데이트 어플리케이션을 실행해주세요. 해당 어플리케이션이 업데이트 방법을 알려줄 것입니다."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "새로 고침 실패함"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "이 운영체제 버전은 PC용 노키아 소프트웨어 업데이트 어플리케이션이 필요합니다.\nUSB 케이블을 통하여 PC화 연결한뒤 노키아 소프트웨어 업데이트 어플리케이션을 실행해주세요."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "설치 과정동안 모든 어플리케이션이 종료될 것이며 긴급 통화를 포함한 모든 기능들이 비활성 됩니다.\n설치 과정이 끝난 후 이 장치는 재시작 될 예정입니다.\n백업을 미리 해두시는 것을 권장하는 바입니다."
+
+msgid "ai_ia_restore"
+msgstr "어플리케이션들의 백업 목록 입니다.\n다운로드 및 설치를 할 어플리케이션을 선택해주세요."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(어플리케이션 없음)"
+
+msgid "ai_ia_storage"
+msgstr "메모리 필요량: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "카탈로그 이름을 입력하세요"
+
+msgid "ai_ib_enter_text"
+msgstr "찾으실 문장을 입력하세요"
+
+msgid "ai_ib_enter_web_address"
+msgstr "웹 주소를 입력하세요"
+
+msgid "ai_ib_no_matches"
+msgstr "항목을 찾을 수 없습니다"
+
+msgid "ai_ib_no_repositories"
+msgstr "사용 중인 카탈로그가 없습니다"
+
+msgid "ai_ib_search_complete"
+msgstr "찾기 완료"
+
+msgid "ai_ib_unable_cancel"
+msgstr "취소할 수 없습니다.\n잠시만 기다려주세요."
+
+msgid "ai_ib_unable_edit"
+msgstr "Unable to edit catalog"
+
+msgid "ai_li_install"
+msgstr "다운로드"
+
+msgid "ai_li_no_applications_available"
+msgstr "(사용 가능한 어플리케이션 없음)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(설치된 어플리케이션 없음)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(업데이트가 존재하지 않음)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "로그"
+
+msgid "ai_li_uninstall"
+msgstr "삭제"
+
+msgid "ai_li_update"
+msgstr "업데이트"
+
+msgid "ai_me_details"
+msgstr "자세히"
+
+msgid "ai_me_package_install_file"
+msgstr "파일로부터 설치"
+
+msgid "ai_me_refresh"
+msgstr "새로 고침"
+
+msgid "ai_me_search"
+msgstr "찾기"
+
+msgid "ai_me_settings"
+msgstr "설정"
+
+msgid "ai_me_tools_log"
+msgstr "로그"
+
+msgid "ai_me_tools_repository"
+msgstr "어플리케이션 카탈로그"
+
+msgid "ai_me_tools_restore"
+msgstr "어플리케이션 복원"
+
+msgid "ai_me_update_all"
+msgstr "모두 업데이트"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Downloading '%s' failed. Try again?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "설치 하려는 어플리케이션은 노키아에서 제공하는 것이 아닙니다. 신뢰할 수 없는 소스의 어플리케이션은 악성 코드를 내포하여 장치에 저장된 데이터나 금융 정보를 훔치거나 손상 시킬수도 있으니 주의 하시기 바랍니다. 이 어플리케이션은 서드파티 저작권과 약정을 따릅니다.\n설치 시 위험이 따를 수도 있습니다."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "설치 하려는 어플리케이션은 노키아에서 제공하는 것이 아닙니다. 신뢰할 수 없는 소스의 어플리케이션은 악성 코드를 내포하여 장치에 저장된 데이터나 금융 정보를 훔치거나 손상 시킬수도 있으니 주의 하시기 바랍니다. 이 어플리케이션은 서드파티 저작권과 약정을 따릅니다.\n설치 시 위험이 따를 수도 있습니다."
+
+msgid "ai_nc_remove_repository"
+msgstr "카탈로그를 삭제 하시겠습니까?\n현재 카탈로그로부터 제공되는 어플리케이션 패키지의 설치나 업데이트가 더는 존재하지 않습니다."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "모든 업데이트를 설치할 준비가 되었습니다"
+
+msgid "ai_ni_all_installed"
+msgstr "모든 어플리케이션이 이미 설치되었습니다."
+
+msgid "ai_ni_bd_details"
+msgstr "자세히"
+
+msgid "ai_ni_continue_install"
+msgstr "계속 설치할까요?"
+
+msgid "ai_ni_device_restart"
+msgstr "운영체제가 성공적으로 업데이트 되었습니다. 장치가 재시작 됩니다. 기다리는 동안 작업을 방해하면 장치에 이상이 생길수도 있습니다."
+
+msgid "ai_ni_device_restart_long"
+msgstr "운영체제가 성공적으로 업데이트 되었습니다. 장치가 재시작 됩니다. 기다리는 동안 작업을 방해하면 장치에 이상이 생길수도 있습니다."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "Maemo 업데이트를 진행하기 위한 배터리 잔량이 충분치 않습니다.\n충전을 한 뒤에 다시 시도해주세요."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "설치할 수가 없습니다.\n카탈로그가 현재 운영체제와 호환되지 않습니다."
+
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' 을 내려받는데 실패하였습니다"
+
+msgid "ai_ni_error_download_missing"
+msgstr "어플리케이션 패키지를 찾을 수가 없어\n'%s' 을 내려받을 수가 없습니다."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "어플리케이션 패키지가 충돌이 발생하여\n'%s' 을 설치할 수가 없습니다."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "설치 파일이 정상적이지 않아\n'%s' 을 설치할 수가 없습니다."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "어플리케이션 패키지가 호환되지 않아\n'%s' 을 설치할 수가 없습니다."
+
+msgid "ai_ni_error_install_missing"
+msgstr "설치에 필요한 어플리케이션 패키지가 누락되어\n'%s' 을 설치할 수가 없습니다."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "'%s' 을 설치할 수가 없습니다"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "어플리케이션 패키지가 현재 운영체제와 호환되지 않아\n'%s' 을 설치할 수가 없습니다."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' 이 실행 중입니다.\n어플리케이션을 종료하고 다시 시도해주세요."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "다른 어플리케이션을 실행하는데 필요한 어플리케이션 패키지가 존재하여\n'%s' 을 삭제할 수가 없습니다."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "'%s' 을 삭제할 수가 없습니다."
+
+msgid "ai_ni_error_update_conflict"
+msgstr "어플리케이션 패키지가 충돌이 발생하여\n'%s' 을 업데이트할 수가 없습니다."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "업데이트 파일이 올바르지 않아\n'%s' 을 업데이트할 수가 없습니다."
+
+msgid "ai_ni_error_update_failed"
+msgstr "'%s' 을 업데이트할 수가 없습니다"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "어플리케이션 패키지가 호환되지 않아\n'%s' 을 업데이트할 수가 없습니다."
+
+msgid "ai_ni_error_update_missing"
+msgstr "'%s' 을 업데이트할 수가 없습니다.\n업데이트에 필요한 패키지가 누락 되었습니다."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "업데이트 설치가 완료되었습니다"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' 이 성공적으로 설치되었습니다. 어플리케이션을 실행하시겠습니까?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "어플리케이션 설치 공간이 부족 합니다. 다른 어플리케이션을 삭제하여 설치에 필요한 빈 공간을 확보해주시기 바랍니다."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d 개의 어플리케이션이 성공적으로 설치되었습니다"
+
+msgid "ai_ni_operation_failed"
+msgstr "작업이 실패하였습니다"
+
+msgid "ai_ni_operation_progress"
+msgstr "작업이 진행 중입니다..\n잠시만 기달려주세요."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' 은 이미 설치되었습니다"
+
+msgid "ai_ni_software_update_installed"
+msgstr "소프트웨어 업데이트가 성공적으로 설치되었습니다"
+
+msgid "ai_ni_system_update_installed"
+msgstr "운영체제가 성공적으로 설치되었습니다"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "카탈로그를 삭제할 수 없습니다"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' 은 성공적으로 삭제되었습니다."
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "어플리케이션 목록을 새로 고침 할 수 없습니다.\n카탈로그에 접속 할 수 없습니다.\n네트워크 연결을 확인해주세요.\n다시 시도 하시겠습니까?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "어플리케이션 목록이 일부 새로 고침되었습니다.\n일부 카탈로그를 사용 할 수 없습니다.\n카탈로그 정보를 확인해주세요."
+
+msgid "ai_ni_updates_restart"
+msgstr "소프트웨어 업데이트 성공적으로 설치되었습니다. 장치가 재시작 됩니다."
+
+msgid "ai_nw_checking_updates"
+msgstr "업데이트를 확인 중입니다. 잠시만 기다려주세요."
+
+msgid "ai_nw_connecting"
+msgstr "연결 중"
+
+msgid "ai_nw_downloading"
+msgstr "%s 을 내려받는 중입니다"
+
+msgid "ai_nw_installing"
+msgstr "'%s' 을 설치하는 중입니다"
+
+msgid "ai_nw_preparing_installation"
+msgstr "설치를 준비하는 중입니다. 잠시만 기다려주세요."
+
+msgid "ai_nw_searching"
+msgstr "찾는 중"
+
+msgid "ai_nw_uninstalling"
+msgstr "'%s' 을 삭제하는 중입니다"
+
+msgid "ai_nw_updating"
+msgstr "'%s' %s 을 업데이트 중입니다"
+
+msgid "ai_pb_progress"
+msgstr "로딩 중"
+
+msgid "ai_sb_app_push_desc"
+msgstr "새로운 소프트웨어가 나왔습니다"
+
+msgid "ai_sb_app_push_link"
+msgstr "다운로드"
+
+msgid "ai_sb_app_push_no"
+msgstr "무시"
+
+msgid "ai_sb_update_am"
+msgstr "계속"
+
+msgid "ai_sb_update_description"
+msgstr "새로운 소프트웨어 업데이트가 나왔습니다"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "노키아 소프트웨어 (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo 업데이트"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "서드파티 소프트웨어 (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "카탈로그 추가"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "구성요소"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "배포판"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "카탈로그 이름"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "웹 주소"
+
+msgid "ai_ti_confirm_install"
+msgstr "설치"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "삭제"
+
+msgid "ai_ti_confirm_update"
+msgstr "업데이트"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "충분히 이해했고 동의합니다"
+
+msgid "ai_ti_details"
+msgstr "어플리케이션 정보"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "요약"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "의존성"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "설명"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "설치 중"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Problems"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "삭제 중"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "업데이트 중"
+
+msgid "ai_ti_edit_repository"
+msgstr "카탈로그 정보"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "동의합니다"
+
+msgid "ai_ti_failed_repositories"
+msgstr "카탈로그 실패함"
+
+msgid "ai_ti_install_apps"
+msgstr "어플리케이션 설치"
+
+msgid "ai_ti_license_agreement"
+msgstr "약관 동의"
+
+msgid "ai_ti_log"
+msgstr "로그"
+
+msgid "ai_ti_new_repository"
+msgstr "새로운 업데이트"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo 업데이트"
+
+msgid "ai_ti_repository"
+msgstr "카탈로그"
+
+msgid "ai_ti_save_log"
+msgstr "로그 저장"
+
+msgid "ai_ti_search"
+msgstr "어플리케이션 찾기"
+
+msgid "ai_ti_select_package"
+msgstr "어플리케이션 선택"
+
+msgid "ai_va_details_available_version"
+msgstr "사용가능한 버전:"
+
+msgid "ai_va_details_catalogue"
+msgstr "카탈로그:"
+
+msgid "ai_va_details_download_size"
+msgstr "다운로드 크기:"
+
+msgid "ai_va_details_install_frees"
+msgstr "'%1$s' 을 설치하면 장치의 빈 공간이 %2$s 만큼 늘어납니다"
+
+msgid "ai_va_details_install_requires"
+msgstr "'%1$s' 을 설치하려면 장치의 빈 공간이 %2$s 만큼 필요합니다"
+
+msgid "ai_va_details_installed_version"
+msgstr "설치된 버전:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "크기:"
+
+msgid "ai_va_details_status_broken"
+msgstr "사용 불가능"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "사용 불가능하며 업데이트도 불가능함"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "사용 불가능하며 업데이트는 가능함"
+
+msgid "ai_va_details_status_installable"
+msgstr "설치 가능함"
+
+msgid "ai_va_details_status_installed"
+msgstr "설치됨"
+
+msgid "ai_va_details_status_not_available"
+msgstr "존재하지 않음"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "설치할 수 없음"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "업데이트는 가능하지만 설치는 불가능함"
+
+msgid "ai_va_details_status_updateable"
+msgstr "업데이트 가능함"
+
+msgid "ai_va_details_unable_install"
+msgstr "'%s' 을 설치할 수 없습니다"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "'%s' 을 설치할 수 없습니다"
+
+msgid "ai_va_details_unable_update"
+msgstr "'%s' 을 업데이트할 수 없습니다"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "'%1$s' 을 삭제하면 장치의 빈 공간이 %2$s 만큼 늘어납니다"
+
+msgid "ai_va_details_update_frees"
+msgstr "'%1$s' 을 업데이트하면 장치의 빈 공간이 %2$s 만큼 늘어납니다"
+
+msgid "ai_va_details_update_requires"
+msgstr "'%1$s' 을 업데이트하려면 장치의 빈 공간이 %2$s 만큼 필요합니다"
+
+msgid "ai_va_search_name"
+msgstr "어플리케이션 이름"
+
+msgid "ai_va_search_name_description"
+msgstr "어플리케이션 이름 및 설명"
+
+msgid "ai_va_sort_name"
+msgstr "이름"
+
+msgid "ai_va_sort_size"
+msgstr "크기"
+
+msgid "apma_fi_by_provider"
+msgstr "%s로부터 제공됨"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "새로 나옴"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "새로운 업데이트"
