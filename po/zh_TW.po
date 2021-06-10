@@ -1,0 +1,634 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:31+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ai_ap_application_installer"
+msgstr "程式管理員"
+
+msgid "ai_ap_name"
+msgstr "程式管理員"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "詳細資訊"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "新增"
+
+msgid "ai_bd_confirm_details"
+msgstr "詳細資訊"
+
+msgid "ai_bd_confirm_ok"
+msgstr "繼續"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "移除"
+
+msgid "ai_bd_create_backup"
+msgstr "建立備份"
+
+msgid "ai_bd_license_ok"
+msgstr "接受"
+
+msgid "ai_bd_log_clear"
+msgstr "清除"
+
+msgid "ai_bd_log_save_as"
+msgstr "另存新檔"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "儲存"
+
+msgid "ai_bd_repository_delete"
+msgstr "刪除"
+
+msgid "ai_bd_repository_new"
+msgstr "新增"
+
+msgid "ai_bd_search_ok"
+msgstr "搜尋"
+
+msgid "ai_category_all"
+msgstr "全部"
+
+msgid "ai_category_desktop"
+msgstr "桌面"
+
+msgid "ai_category_development"
+msgstr "開發"
+
+msgid "ai_category_education"
+msgstr "教育"
+
+msgid "ai_category_games"
+msgstr "遊戲"
+
+msgid "ai_category_graphics"
+msgstr "圖形"
+
+msgid "ai_category_multimedia"
+msgstr "多媒體"
+
+msgid "ai_category_navigation"
+msgstr "定位與導航"
+
+msgid "ai_category_network"
+msgstr "網路"
+
+msgid "ai_category_office"
+msgstr "辦公室"
+
+msgid "ai_category_other"
+msgstr "其它"
+
+msgid "ai_category_science"
+msgstr "科學"
+
+msgid "ai_category_sharing_plugins"
+msgstr "模組"
+
+msgid "ai_category_system"
+msgstr "系統"
+
+msgid "ai_category_utilities"
+msgstr "工具"
+
+msgid "ai_cb_restarting_device"
+msgstr "重新啟動裝置"
+
+msgid "ai_fi_details_category"
+msgstr "分類:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "維護:"
+
+msgid "ai_fi_details_package"
+msgstr "應用程式:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "應用程式套件衝突:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "應用程式套件:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "應用程式套件缺少元件:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "應用程式套件所需的元件:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "需刪除的應用程式安裝套件:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "需更新的應用程式套件:"
+
+msgid "ai_fi_details_status"
+msgstr "狀態:"
+
+msgid "ai_fi_details_summary"
+msgstr "摘要:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "元件"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "不可用"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "分發版本"
+
+msgid "ai_fi_new_repository_name"
+msgstr "目錄名稱"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "網址"
+
+msgid "ai_fi_search_area"
+msgstr "搜尋範圍"
+
+msgid "ai_fi_search_words"
+msgstr "搜尋關鍵字"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "新增目錄?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "目錄已安裝但停用.\n現在啟用?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "安裝這個來源,須新增其目錄."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "這個目錄內的軟體並沒有獲得諾基亞的授權與許可,可能包括惡意軟體，並可能會透過存取資料儲存裝置，傷害裝置並造成經濟損失"
+
+msgid "ai_ia_details_use_pc"
+msgstr "此 Maemo 更新需要在您的電腦使用Nokia 電腦端套件。請以 USB 線連接電腦，並啟動Nokia 電腦端套件。該應用程式會引導你完成所有的更新步驟。"
+
+msgid "ai_ia_failed_catalogue"
+msgstr "更新失敗"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "要更新您的裝置之作業系統, 您必須使用電腦上的 Nokia 電腦端套件進行更新.\n請您將裝置透過 USB 連接電腦後啟動應用程式."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "所有應用程式將會在安裝過程中被關閉. 裝置將重新啟動.\n建議您在操作之前建立一個備份."
+
+msgid "ai_ia_restore"
+msgstr "在這些應用程式的備份列表.\n現在下載並安裝它們?"
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(沒有應用程式)"
+
+msgid "ai_ia_storage"
+msgstr "記憶體需求: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "請先輸入目錄名稱"
+
+msgid "ai_ib_enter_text"
+msgstr "輸入欲搜尋的字詞"
+
+msgid "ai_ib_enter_web_address"
+msgstr "請先輸入網址"
+
+msgid "ai_ib_no_matches"
+msgstr "沒有任何符合的結果"
+
+msgid "ai_ib_no_repositories"
+msgstr "沒有使用中的目錄"
+
+msgid "ai_ib_search_complete"
+msgstr "搜尋完成"
+
+msgid "ai_ib_unable_cancel"
+msgstr "無法取消.\n請稍等."
+
+msgid "ai_ib_unable_edit"
+msgstr "無法編輯目錄"
+
+msgid "ai_li_install"
+msgstr "下載"
+
+msgid "ai_li_no_applications_available"
+msgstr "(沒有可用的應用程式)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(沒有已安裝的應用程式)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(沒有可用更新)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "系統記錄"
+
+msgid "ai_li_uninstall"
+msgstr "檢視已安裝程式"
+
+msgid "ai_li_update"
+msgstr "檢查更新"
+
+msgid "ai_me_details"
+msgstr "詳細資訊"
+
+msgid "ai_me_package_install_file"
+msgstr "從檔案安裝"
+
+msgid "ai_me_refresh"
+msgstr "重新整理"
+
+msgid "ai_me_search"
+msgstr "搜尋"
+
+msgid "ai_me_settings"
+msgstr "設定"
+
+msgid "ai_me_tools_log"
+msgstr "系統日誌"
+
+msgid "ai_me_tools_repository"
+msgstr "應用程式目錄"
+
+msgid "ai_me_tools_restore"
+msgstr "還原應用程式"
+
+msgid "ai_me_update_all"
+msgstr "更新所有"
+
+msgid "ai_nc_error_download_failed"
+msgstr "下載 '%s' 失敗. 再試一次?"
+
+msgid "ai_nc_install"
+msgstr "%s%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "注意：您將要安裝的應用程式並不是由諾基亞提供。使用來歷不明的軟體可能包含惡意應用程式，它可能令您造成經濟損失，存取在您裝置內的個人資料或損害您的裝置。此應用程式也可能受到第三方的版權和授權條款約束\n您需要承擔應用程式安裝後的風險。"
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "注意：您將要安裝的部份應用程式並不是由諾基亞提供。使用來歷不明的應用程式可能包含惡意應用程式，它可能令您造成經濟損失，存取在您裝置內的個人資料或損害您的裝置。此應用程式也可能受到第三方的版權和授權條款約束\n您需要承擔應用程式安裝後的風險。"
+
+msgid "ai_nc_remove_repository"
+msgstr "刪除目錄?\n此目錄提供的應用程式套件將不再可用於安裝和升級."
+
+msgid "ai_nc_uninstall"
+msgstr "%s%s"
+
+msgid "ai_nc_update"
+msgstr "%s%s"
+
+msgid "ai_nc_update_all"
+msgstr "準備安裝所有更新"
+
+msgid "ai_ni_all_installed"
+msgstr "已經安裝了所有應用程式"
+
+msgid "ai_ni_bd_details"
+msgstr "詳細資訊"
+
+msgid "ai_ni_continue_install"
+msgstr "繼續安裝?"
+
+msgid "ai_ni_device_restart"
+msgstr "作業系統已成功更新。裝置將會從新啟動。請等候至這裝置完全重新啟動為止，否則可能影響這裝置的運作。"
+
+msgid "ai_ni_device_restart_long"
+msgstr "作業系統已成功更新。裝置將會從新啟動。請等候至這裝置完全重新啟動為止，否則可能影響這裝置的運作。"
+
+msgid "ai_ni_error_battery_empty"
+msgstr "沒有足夠的電量來進行 Maemo 系統更新。請充電,然後再試一次."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "無法安裝.\n目錄與目前的作業系統不相容."
+
+msgid "ai_ni_error_download_failed"
+msgstr "下載 '%s' 失敗"
+
+msgid "ai_ni_error_download_missing"
+msgstr "無法下載 '%s'.\n找不到該應用程式套件"
+
+msgid "ai_ni_error_install_conflict"
+msgstr "無法安裝 '%s'.\n安裝該應用程式套件時發生衝突。"
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "無法安裝 '%s'.\n安裝檔案已損壞。"
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "無法安裝 '%s'.\n不支援該應用程式套件。"
+
+msgid "ai_ni_error_install_missing"
+msgstr "無法安裝 '%s'.\n部份安裝所需的軟件包不存在。"
+
+msgid "ai_ni_error_installation_failed"
+msgstr "無法安裝 '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "無法安裝. 應用軟體套件與目前作業系統不相容."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s'已啟動. 關閉應用程式，然後再試一次."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "無法解除安裝 '%s'.\n一些應用程式套件仍需使用."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "無法解除安裝 '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "無法更新 '%s'.\n安裝該應用程式套件時發生衝突。"
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "無法更新 '%s'.\n更新檔案已損壞。"
+
+msgid "ai_ni_error_update_failed"
+msgstr "無法更新 '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "無法更新 '%s'.\n不支援該軟件包。"
+
+msgid "ai_ni_error_update_missing"
+msgstr "無法更新 '%s'.\n部份更新所需的軟件包不存在。"
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "正在結束更新"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' 已安裝成功。要立即開啟應用程式嗎？"
+
+msgid "ai_ni_memory_shortage"
+msgstr "安裝應用程式的記憶體不足。請移除一些應用程式以釋放記憶體來繼續安裝。"
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d 個應用程式已安裝成功"
+
+msgid "ai_ni_operation_failed"
+msgstr "操作失敗"
+
+msgid "ai_ni_operation_progress"
+msgstr "操作正在進行中.\n請稍候."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' 已安裝"
+
+msgid "ai_ni_software_update_installed"
+msgstr "成功安裝了軟體更新"
+
+msgid "ai_ni_system_update_installed"
+msgstr "作業系統成功更新"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "無法刪除目錄"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' 移除成功"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "無法重新整理應用程式列表.\n無法連結目錄.\n請檢查網路連線.\n重試?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "應用程式列表重新整理.\n有些目錄不可用.\n檢視目錄詳情."
+
+msgid "ai_ni_updates_restart"
+msgstr "軟體更新成功安裝.裝置將重新啟動."
+
+msgid "ai_nw_checking_updates"
+msgstr "正在檢查更新,請稍候"
+
+msgid "ai_nw_connecting"
+msgstr "連接中"
+
+msgid "ai_nw_downloading"
+msgstr "正在下載 %s"
+
+msgid "ai_nw_installing"
+msgstr "正在安裝 '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "正在準備安裝,請稍候"
+
+msgid "ai_nw_searching"
+msgstr "搜尋中"
+
+msgid "ai_nw_uninstalling"
+msgstr "正在移除 '%s'"
+
+msgid "ai_nw_updating"
+msgstr "正在更新 '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "載入中"
+
+msgid "ai_sb_app_push_desc"
+msgstr "新的軟體版本"
+
+msgid "ai_sb_app_push_link"
+msgstr "下載"
+
+msgid "ai_sb_app_push_no"
+msgstr "略過"
+
+msgid "ai_sb_update_am"
+msgstr "繼續"
+
+msgid "ai_sb_update_description"
+msgstr "新的軟體更新"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi 軟體 (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo 更新"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "第三方軟體 (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "新增目錄"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "元件"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "分發版本"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "目錄名稱"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "網址"
+
+msgid "ai_ti_confirm_install"
+msgstr "安裝"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "移除"
+
+msgid "ai_ti_confirm_update"
+msgstr "更新"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "我了解並同意。"
+
+msgid "ai_ti_details"
+msgstr "應用程式詳情"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "摘要"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "從屬關係"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "描述"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "安裝"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "問題"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "正在移除…"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "更新"
+
+msgid "ai_ti_edit_repository"
+msgstr "套件庫詳情"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "我同意"
+
+msgid "ai_ti_failed_repositories"
+msgstr "無效的目錄"
+
+msgid "ai_ti_install_apps"
+msgstr "安裝應用程式"
+
+msgid "ai_ti_license_agreement"
+msgstr "許可協議"
+
+msgid "ai_ti_log"
+msgstr "系統記錄"
+
+msgid "ai_ti_new_repository"
+msgstr "新增目錄"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo系統更新"
+
+msgid "ai_ti_repository"
+msgstr "目錄"
+
+msgid "ai_ti_save_log"
+msgstr "儲存日誌"
+
+msgid "ai_ti_search"
+msgstr "搜尋應用程式"
+
+msgid "ai_ti_select_package"
+msgstr "選擇套件"
+
+msgid "ai_va_details_available_version"
+msgstr "可用版本:"
+
+msgid "ai_va_details_catalogue"
+msgstr "目錄:"
+
+msgid "ai_va_details_download_size"
+msgstr "下載大小:"
+
+msgid "ai_va_details_install_frees"
+msgstr "安裝 '%1$s' 釋放 %2$s 裝置記憶空間"
+
+msgid "ai_va_details_install_requires"
+msgstr "安裝 '%1$s' 需要 %2$s 裝置記憶空間"
+
+msgid "ai_va_details_installed_version"
+msgstr "安裝的版本:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "大小:"
+
+msgid "ai_va_details_status_broken"
+msgstr "檔案損壞"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "檔案損壞,無法更新"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "檔案損壞,但可以更新"
+
+msgid "ai_va_details_status_installable"
+msgstr "可安裝"
+
+msgid "ai_va_details_status_installed"
+msgstr "已安裝"
+
+msgid "ai_va_details_status_not_available"
+msgstr "不適用"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "無法安裝"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "更新可用，但未能安裝"
+
+msgid "ai_va_details_status_updateable"
+msgstr "更新的"
+
+msgid "ai_va_details_unable_install"
+msgstr "無法安裝 '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "無法移除 '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "無法更新 '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "移除中 '%1$s' 將會釋放 %2$s 裝置記憶空間"
+
+msgid "ai_va_details_update_frees"
+msgstr "更新中 '%1$s' 將會釋放 %2$s 裝置記憶空間"
+
+msgid "ai_va_details_update_requires"
+msgstr "更新中 '%1$s' 需要 %2$s 裝置記憶空間"
+
+msgid "ai_va_search_name"
+msgstr "應用程式的名稱"
+
+msgid "ai_va_search_name_description"
+msgstr "應用程式的名稱及說明"
+
+msgid "ai_va_sort_name"
+msgstr "檔案名稱"
+
+msgid "ai_va_sort_size"
+msgstr "大小"
+
+msgid "apma_fi_by_provider"
+msgstr "由 %s 開發"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "新版本"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "新的更新"
