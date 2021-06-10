@@ -1,0 +1,636 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2011-11-06 14:53+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "مدیر برنامه"
+
+msgid "ai_ap_name"
+msgstr "مدیر برنامه"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "جزئیات"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "افزودن"
+
+msgid "ai_bd_confirm_details"
+msgstr "جزئیات"
+
+msgid "ai_bd_confirm_ok"
+msgstr "ادامه"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "حذف"
+
+msgid "ai_bd_create_backup"
+msgstr "ایجاد پشتیبان"
+
+msgid "ai_bd_license_ok"
+msgstr "قبول"
+
+msgid "ai_bd_log_clear"
+msgstr "تمیز کردن"
+
+msgid "ai_bd_log_save_as"
+msgstr "ذخیره در"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "ذخیره"
+
+msgid "ai_bd_repository_delete"
+msgstr "حذف"
+
+msgid "ai_bd_repository_new"
+msgstr "جدید"
+
+msgid "ai_bd_search_ok"
+msgstr "جستجو"
+
+msgid "ai_category_all"
+msgstr "همه"
+
+msgid "ai_category_desktop"
+msgstr "میزکار"
+
+msgid "ai_category_development"
+msgstr "توسعه"
+
+msgid "ai_category_education"
+msgstr "آموزشی"
+
+msgid "ai_category_games"
+msgstr "بازی‌ها"
+
+msgid "ai_category_graphics"
+msgstr "گرافیکی"
+
+msgid "ai_category_multimedia"
+msgstr "چند رسانه ای"
+
+msgid "ai_category_navigation"
+msgstr "جغرافیایی و مسیریابی"
+
+msgid "ai_category_network"
+msgstr "شبکه"
+
+msgid "ai_category_office"
+msgstr "اداری"
+
+msgid "ai_category_other"
+msgstr "دیگر"
+
+msgid "ai_category_science"
+msgstr "علمی"
+
+msgid "ai_category_sharing_plugins"
+msgstr "اشتراک گذاری پلاگین‌ها"
+
+msgid "ai_category_system"
+msgstr "سیستمی"
+
+msgid "ai_category_utilities"
+msgstr "برنامه‌های سودمند"
+
+msgid "ai_cb_restarting_device"
+msgstr "درحال راه اندازی مجدد دستگاه"
+
+msgid "ai_fi_details_category"
+msgstr ":دسته بندی"
+
+msgid "ai_fi_details_maintainer"
+msgstr ":سازنده"
+
+msgid "ai_fi_details_package"
+msgstr ":برنامه"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "ناسازگاری با بسته‌های نرم افزاری:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "بسته‌های نرم افزاری برای نصب:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "بسته ی های نرم افزاری پیدا نشد:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "بسته‌های نرم افزاری مورد نیاز:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "بسته‌های نرم افزاری برای حذف:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "بسته‌های نرم افزاری برای بروزرسانی:"
+
+msgid "ai_fi_details_status"
+msgstr ":وضعیت"
+
+msgid "ai_fi_details_summary"
+msgstr ":خلاصه"
+
+msgid "ai_fi_new_repository_component"
+msgstr "اجزاء"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "غیر فعال"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "توزیع"
+
+msgid "ai_fi_new_repository_name"
+msgstr "نام کاتالوگ"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "آدرس وب"
+
+msgid "ai_fi_search_area"
+msgstr "منطقه‌ی جستجو"
+
+msgid "ai_fi_search_words"
+msgstr "عبارات جستجو"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "آیا میخواهید کاتالوگ جدیدی اضافه کنید؟\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "این کاتالوگ ، وجود دارد ، اما غیر فعال است.\nآیا می خواهید فعال شود؟"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "read this\n\nبرای نصب از این منبع ، کاتالوگ آن را اضافه کنید."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "read this\n\nنرم افزار نصب شده از این کاتالوگ ، توسط نوکیا ارائه نشده است و ممکن است شامل بدافزاری باشد که به داده‌های موجود در دستگاه دسترسی یابد و به دستگاه آسیب برساند"
+
+msgid "ai_ia_details_use_pc"
+msgstr "برای نصب این آپدیت به پی‌سی‌سویت نیاز است و باید از طریق آن اقدام شود.\nدستگاه را از طریق کابل یواس‌بی به کامپیوتر وصل کنید و برنامه‌ی پی‌سی‌سویت را باز کنید. برنامه برای آپدیت شما را راهنمایی خواهد کرد."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "رفرش کاتالوگ ناموفق بود"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "برای بروزرسانی دستگاه به این نسخه از سیستم عامل باید از پی‌سی‌سویت استفاده کنید.\nبا کابل یو‌اس‌بی گوشی را به کامپیوتر وصل کنید و پی‌سی‌‍‌سویت را جرا کنید."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "کلیه‌ی برنامه‌ها در حین نصب ، بسته خواهد شد و همه‌ی عملکردها غیر فعال خواهند شد حتی برقراری تماس های اضطراری.\nو سپس دستگاه مجدد راه اندازی خواهد شد.\nقبل از نصب ، تهیه‌ی نسخه‌ی پشتیبان توصیه میشود."
+
+msgid "ai_ia_restore"
+msgstr "نسخه‌ی پشتیبان دارای این برنامه ها میباشد.\nبرنامه‌ها را برای دانلود و نصب انتخاب کنید"
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(برنامه ای وجود ندارد)"
+
+msgid "ai_ia_storage"
+msgstr ":حافظه ی مورد نیاز %s"
+
+msgid "ai_ib_enter_name"
+msgstr "ابتدا عنوان کاتالوگ را وارد کنید"
+
+msgid "ai_ib_enter_text"
+msgstr "برای جستجو ، متن را وارد کنید"
+
+msgid "ai_ib_enter_web_address"
+msgstr "ابتدا آدرس وب را وارد کنید"
+
+msgid "ai_ib_no_matches"
+msgstr "جستجو حاصلی دربر نداشت"
+
+msgid "ai_ib_no_repositories"
+msgstr "کاتالوگی برای استفاده وجود ندارد"
+
+msgid "ai_ib_search_complete"
+msgstr "پایان جستجو"
+
+msgid "ai_ib_unable_cancel"
+msgstr "امکان انصراف وجود ندارد.\nلطفا صبر کنید."
+
+msgid "ai_ib_unable_edit"
+msgstr "کاتالوگ غیر فایل ویرایش است"
+
+msgid "ai_li_install"
+msgstr "دانلود"
+
+msgid "ai_li_no_applications_available"
+msgstr "(هیچ برنامه‌ای موجود نیست)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(هیج برنامه‌ای نصب نشده)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(هیچ بروزرسانی‌ای موجود نیست)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "گزارش"
+
+msgid "ai_li_uninstall"
+msgstr "حذف"
+
+msgid "ai_li_update"
+msgstr "بروزرسانی"
+
+msgid "ai_me_details"
+msgstr "جزئیات"
+
+msgid "ai_me_package_install_file"
+msgstr "نصب از فایل موجود"
+
+msgid "ai_me_refresh"
+msgstr "رفرش"
+
+msgid "ai_me_search"
+msgstr "جستجو"
+
+msgid "ai_me_settings"
+msgstr "تنظیمات"
+
+msgid "ai_me_tools_log"
+msgstr "گزارش"
+
+msgid "ai_me_tools_repository"
+msgstr "کاتالوگ‌های برنامه"
+
+msgid "ai_me_tools_restore"
+msgstr "بازیابی برنامه‌ها"
+
+msgid "ai_me_update_all"
+msgstr "بروزرسانی همه"
+
+msgid "ai_nc_error_download_failed"
+msgstr "با مشکل مواجه شد. دوباره سعی شود؟ '%s' دانلود"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "نرم افزار در حال نصب توسط نوکیا ارائه نشده است. نصب از منابع نامطمئن ممکن است نرم افزار مخربی جهت دسترسی به اطلاعات دستگاه باشد و می‌تواند خسارات مالی در پی داشته باشد همچنین برنامه ممکن است مشمول حقوق مالک و شرایط مجوز نصب باشد.\nریسک نصب به عهده ی خودتان است."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "برخی از نرم افزارهایی که قصد دارید نصب کنید، توسط نوکیا ارائه نشده اند. نصب از منابع نامطمئن ممکن است نرم افزار مخربی جهت دسترسی به اطلاعات دستگاه باشد و می‌تواند خسارات مالی در پی داشته باشد همچنین برنامه ممکن است مشمول حقوق مالک و شرایط مجوز نصب باشد.\nریسک نصب به عهده ی خودتان است."
+
+msgid "ai_nc_remove_repository"
+msgstr "آیا میخواهید کاتالوگ را حذف نمائید؟\nبعد ازحذف بسته‌های نرم افزاری ارائه شده توسط این کاتالوگ دیگر برای نصب و بروزرسانی در دسترس نخواهند بود."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "آماده برای نصب کلیه‌ی بروز رسانی‌ها"
+
+msgid "ai_ni_all_installed"
+msgstr "تمامی برنامه‌ها نضب شدند"
+
+msgid "ai_ni_bd_details"
+msgstr "جزئیات"
+
+msgid "ai_ni_continue_install"
+msgstr "آیا میخواهید فرآیند نصب را ادامه دهید؟"
+
+msgid "ai_ni_device_restart"
+msgstr "سیستم عامل با موفقیت به روز شد. دستگاه مجدد راه‌اندازی خواهد شد. لطفا صبر کنید چون هر دخالتی ممکن است به دستگاه آسیب برساند."
+
+msgid "ai_ni_device_restart_long"
+msgstr "سیستم عامل با موفقیت به روز شد. دستگاه مجدد راه‌اندازی خواهد شد. لطفا صبر کنید چون هر دخالتی ممکن است به دستگاه آسیب برساند."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "میزان شارژ باتری برای نصب بروزرسانی میمو کافی نیست.\nگوشی را شارژ نموده و مجدد تلاش نمائید"
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "قابل نصب نیست.\nکاتالوگ با سیستم عامل فعلی ناسازگار است."
+
+msgid "ai_ni_error_download_failed"
+msgstr "ناموفق بود '%s' دانلود "
+
+msgid "ai_ni_error_download_missing"
+msgstr "امکان دانلود وجود ندارد '%s'.\nبسته‌ی نرم‌افزاری یافت نشد."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "امکان نصب وجود ندارد '%s'.\nتداخل بسته‌های نرم‌افزاری."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "امکان نصب وجود ندارد '%s'.\nفایل نصبی آسیب دیده است."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "امکان نصب وجود ندارد '%s'.\nناسازگاری بسته‌ی نرم‌افزاری."
+
+msgid "ai_ni_error_install_missing"
+msgstr "امکان نصب وجود ندارد '%s'.\nبرخی از بسته‌های نرم‌افزاری پیش نیاز بر روی دستگاه نصب نیستند."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "امکان نصب وجود ندارد '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "امکان نصب وجود ندارد '%s'.\nبسته‌ی برنامه با سیستم عامل کنونی ناسازگار است."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' برنامه هم اکنون باز است.\nبرنامه را ببندید و مجدد سعی کنید."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "امکان حذف وجود ندارد '%s'.\nبرخی از بسته‌های نرم‌افزاری برای کارکرد برنامه های دیگر مورد نیاز هستند."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "امکان حذف وجود ندارد '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "امکان بروز رسانی وجود ندارد '%s'.\nتداخل بسته‌های نرم‌افزاری."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "امکان بروز رسانی وجود ندارد '%s'.\nفایل آپدیت آسیب دیده است."
+
+msgid "ai_ni_error_update_failed"
+msgstr "امکان بروز رسانی وجود ندارد '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "امکان بروز رسانی وجود ندارد '%s'.\nناسازگاری بسته‌ی نرم‌افزاری."
+
+msgid "ai_ni_error_update_missing"
+msgstr "امکان بروز رسانی وجود ندارد '%s'.\nبرخی از بسته‌های نرم افزاری مورد نیاز\n برای بروزرسانی یافت نشدند."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "در حال اتمام بروز رسانی"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "برنامه با موفقیت نصب شد.آیا میخواهید اکنون اجرا شود؟ '%s' "
+
+msgid "ai_ni_memory_shortage"
+msgstr "فضای کافی در حافظهء برنامه ها وجود ندارد. برای آزادسازی بیشتر فضای حافظه برخی از برنامه ها را حذف کنید."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "ai_ni_operation_failed"
+msgstr "عملیات انجام نشد"
+
+msgid "ai_ni_operation_progress"
+msgstr "در حال انجام عملیات.\nلطفا صبر کنید."
+
+msgid "ai_ni_package_installed"
+msgstr "برنامه نصب شد '%s'"
+
+msgid "ai_ni_software_update_installed"
+msgstr "بروزرسانی نرم‌افزار با موفقیت انجام شد"
+
+msgid "ai_ni_system_update_installed"
+msgstr "سیستم عامل با موفقیت به روز شد"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "امکان حذف کاتالوگ نیست"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "با موفقیت حذف شد '%s'"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "امکان رفرش لیست برنامه‌ها وجود ندارد.\nامکان دسترسی به کاتالوگ‌ها وجود ندارد.\nارتباط شبکه را بررسی کنید.\nمایل به تلاش مجدد هستید؟"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "لیست برنامه‌ها بصورت کامل رفرش نشد.\nبرخی از کاتالوگ‌ها در دسترس نیستند.\nجزئیات کاتالوگ را بررسی کنید."
+
+msgid "ai_ni_updates_restart"
+msgstr "بروزرسانی‌های نرم‌افزاری با موفقیت نصب شدند. دستگاه مجدد راه اندازی خواهد شد."
+
+msgid "ai_nw_checking_updates"
+msgstr " بررسی بروز رسانی‌ها ، لطفا صبر کنید"
+
+msgid "ai_nw_connecting"
+msgstr "در حال اتصال"
+
+msgid "ai_nw_downloading"
+msgstr " %s درحال دانلود"
+
+msgid "ai_nw_installing"
+msgstr " '%s 'در حال نصب"
+
+msgid "ai_nw_preparing_installation"
+msgstr "آماده سازی برای نصب ، لطفا صبر کنید"
+
+msgid "ai_nw_searching"
+msgstr "درحال جستجو"
+
+msgid "ai_nw_uninstalling"
+msgstr " '%s' درحال حذف"
+
+msgid "ai_nw_updating"
+msgstr " '%s' %s درحال بروزرسانی"
+
+msgid "ai_pb_progress"
+msgstr "در حال بارگذاری..."
+
+msgid "ai_sb_app_push_desc"
+msgstr "نسخه‌های جدید برنامه"
+
+msgid "ai_sb_app_push_link"
+msgstr "دانلود"
+
+msgid "ai_sb_app_push_no"
+msgstr "چشم پوشی"
+
+msgid "ai_sb_update_am"
+msgstr "ادامه"
+
+msgid "ai_sb_update_description"
+msgstr "بروز رسانی‌های جدید نرم‌افزار"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "برنامه‌ی ا ُوی (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "بروزرسانی میمو"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "پلاگین (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "افزودن کاتالوگ"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "اجزاء"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "توزیع"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "نام کاتالوگ"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "آدرس وب"
+
+msgid "ai_ti_confirm_install"
+msgstr "نصب"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "حذف"
+
+msgid "ai_ti_confirm_update"
+msgstr "بروزرسانی"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "متوجه شدم و موافقت میکنم"
+
+msgid "ai_ti_details"
+msgstr "جزئیات برنامه"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "خلاصه"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "وابستگی‌ها"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "توضیح"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "در حال نصب"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "مشکلات"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "در حال حذف"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "در حال بروزرسانی"
+
+msgid "ai_ti_edit_repository"
+msgstr "جزئیات کاتالوگ"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "موافق هستم"
+
+msgid "ai_ti_failed_repositories"
+msgstr "کاتالوگ‌های ناموفق"
+
+msgid "ai_ti_install_apps"
+msgstr "نصب برنامه‌های کاربردی"
+
+msgid "ai_ti_license_agreement"
+msgstr "توافق‌نامه‌ی مجوز"
+
+msgid "ai_ti_log"
+msgstr "گزارش"
+
+msgid "ai_ti_new_repository"
+msgstr "کاتالوگ جدید"
+
+msgid "ai_ti_operating_system_update"
+msgstr "بروزرسانی میمو"
+
+msgid "ai_ti_repository"
+msgstr "کاتالوگ‌ها"
+
+msgid "ai_ti_save_log"
+msgstr "ذخیره‌ی گزارش"
+
+msgid "ai_ti_search"
+msgstr "جستجوی برنامه‌ها"
+
+msgid "ai_ti_select_package"
+msgstr "انتخاب برنامه"
+
+msgid "ai_va_details_available_version"
+msgstr ":نسخه‌ی موجود"
+
+msgid "ai_va_details_catalogue"
+msgstr ":کاتالوگ"
+
+msgid "ai_va_details_download_size"
+msgstr ":حجم دانلود"
+
+msgid "ai_va_details_install_frees"
+msgstr "نصب  '%1$s' باعث آزادسازی %2$s از حافظه‌ی دستگاه میشود"
+
+msgid "ai_va_details_install_requires"
+msgstr "نصب '%1$s' نیاز به %2$s از حافظه‌ی دستگاه دارد"
+
+msgid "ai_va_details_installed_version"
+msgstr ":نسخه‌ی نصب شده"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr ":حجم"
+
+msgid "ai_va_details_status_broken"
+msgstr "خراب"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "خراب است و قابل آپدیت نیست"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "خراب است ولی قابل بروزرسانی است"
+
+msgid "ai_va_details_status_installable"
+msgstr "قابل نصب"
+
+msgid "ai_va_details_status_installed"
+msgstr "نصب شده"
+
+msgid "ai_va_details_status_not_available"
+msgstr "در دسترس نمی‌باشد"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "قابل نصب نیست"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "بروزرسانی موجود است ولی قابل نصب نیست"
+
+msgid "ai_va_details_status_updateable"
+msgstr "قابل بروزرسانی"
+
+msgid "ai_va_details_unable_install"
+msgstr " '%s' امکان نصب وجود ندارد"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr " '%s' امکان حذف وجود ندارد"
+
+msgid "ai_va_details_unable_update"
+msgstr " '%s' امکان بروزرسانی وجود ندارد"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "حذف '%1$s' باعث آزادسازی %2$s از حافظه‌ی دستگاه میشود"
+
+msgid "ai_va_details_update_frees"
+msgstr "بروزرسانی '%1$s' باعث آزادسازی %2$s از حافظه‌ی دستگاه میشود"
+
+msgid "ai_va_details_update_requires"
+msgstr "بروزرسانی '%1$s' نیاز به %2$s از حافظه‌ی دستگاه دارد"
+
+msgid "ai_va_search_name"
+msgstr "نام برنامه"
+
+msgid "ai_va_search_name_description"
+msgstr "نام برنامه و توضیحات"
+
+msgid "ai_va_sort_name"
+msgstr "نام"
+
+msgid "ai_va_sort_size"
+msgstr "حجم"
+
+msgid "apma_fi_by_provider"
+msgstr "توسط %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "نسخه‌های جدید"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "بروزرسانی‌های جدید"
