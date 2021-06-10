@@ -1,0 +1,635 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Управление на приложения"
+
+msgid "ai_ap_name"
+msgstr "Приложения"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Информация"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Добавяне"
+
+msgid "ai_bd_confirm_details"
+msgstr "Информация"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Продължение"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Премахване"
+
+msgid "ai_bd_create_backup"
+msgstr "Създаване на\nрезервно копие"
+
+msgid "ai_bd_license_ok"
+msgstr "Приемане"
+
+msgid "ai_bd_log_clear"
+msgstr "Изчистване"
+
+msgid "ai_bd_log_save_as"
+msgstr "Запис като"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Запис"
+
+msgid "ai_bd_repository_delete"
+msgstr "Изтриване"
+
+msgid "ai_bd_repository_new"
+msgstr "Нов"
+
+msgid "ai_bd_search_ok"
+msgstr "Търсене"
+
+msgid "ai_category_all"
+msgstr "Всички"
+
+msgid "ai_category_desktop"
+msgstr "Работен плот"
+
+msgid "ai_category_development"
+msgstr "Разработка"
+
+msgid "ai_category_education"
+msgstr "Образование"
+
+msgid "ai_category_games"
+msgstr "Игри"
+
+msgid "ai_category_graphics"
+msgstr "Графика"
+
+msgid "ai_category_multimedia"
+msgstr "Мултимедия"
+
+msgid "ai_category_navigation"
+msgstr "Навигация"
+
+msgid "ai_category_network"
+msgstr "Комуникация"
+
+msgid "ai_category_office"
+msgstr "Офис"
+
+msgid "ai_category_other"
+msgstr "Други"
+
+msgid "ai_category_science"
+msgstr "Наука"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Споделяне"
+
+msgid "ai_category_system"
+msgstr "Система"
+
+msgid "ai_category_utilities"
+msgstr "Инструменти"
+
+msgid "ai_cb_restarting_device"
+msgstr "Рестартиране на устройството"
+
+msgid "ai_fi_details_category"
+msgstr "Категория:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Отговорник:"
+
+msgid "ai_fi_details_package"
+msgstr "Приложение:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "В конфликт с пакетите:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Пакети за инсталиране:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Липсващи пакети:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Необходими допълнителни пакети:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Пакети за премахване:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Пакети за обновяване:"
+
+msgid "ai_fi_details_status"
+msgstr "Състояние:"
+
+msgid "ai_fi_details_summary"
+msgstr "Резюме:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Елементи"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Изключен"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Дистрибуция"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Име на каталога"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Интернет адрес"
+
+msgid "ai_fi_search_area"
+msgstr "Търсене в"
+
+msgid "ai_fi_search_words"
+msgstr "Текст за търсене"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "Добавяне на новия каталог?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "Каталогът вече инсталиран, но забранен.\nДа бъде ли разрешен сега?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "За инсталации от този източник, неговия каталог трябва да бъде добавен."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Приложенията инсталирани от този каталог не са предоставени от Nokia и може да съдържат злонамерен код, който да причини финансови вреди, да дава достъп до информацията на това устройство или да го увреди."
+
+msgid "ai_ia_details_use_pc"
+msgstr "Инсталацията на това Maemo обновление изисква Nokia PC Suite приложението на Вашия компютър.\nСвържете устройството към компютъра през USB кабела и стартирайте Nokia PC Suite приложението. То ще ви преведе през стъпките за обновление на Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "неуспешно презареждане"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "За да обновите устройството до тази версия на операционната система трябва да използвате Nokia PC Suite приложението от Вашия компютър. \nСвържете устройството към компютъра през USB кабела и стартирайте приложението."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "Всички приложения ще бъдат затворени по време на инсталацията и всички функционалности ще бъдат забранени (включително извършването на спешни разговори).\nСлед това устройството ще се рестартира.\nНе използвайте устройството през това време.\nСъздаването на резервно копие е препоръчително."
+
+msgid "ai_ia_restore"
+msgstr "Архивът включва тези приложения.\nИзберете кои приложения да бъдат свалени и инсталирани."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(няма приложения)"
+
+msgid "ai_ia_storage"
+msgstr "Необходимо свободно място: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Първо въведете име на каталога"
+
+msgid "ai_ib_enter_text"
+msgstr "Въвеждане на текст за търсене"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Първо въведете  интернет адрес"
+
+msgid "ai_ib_no_matches"
+msgstr "Не са открити съвпадения"
+
+msgid "ai_ib_no_repositories"
+msgstr "Няма използвани каталози"
+
+msgid "ai_ib_search_complete"
+msgstr "Търсенето приключи"
+
+msgid "ai_ib_unable_cancel"
+msgstr "Неуспешно прекъсване.\nМоля изчакайте."
+
+msgid "ai_ib_unable_edit"
+msgstr "Неуспешно редактиране на каталога"
+
+msgid "ai_li_install"
+msgstr "Инсталиране"
+
+msgid "ai_li_no_applications_available"
+msgstr "(няма налични приложения)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(няма инсталирани приложения)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(няма налични обновления)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Журнал"
+
+msgid "ai_li_uninstall"
+msgstr "Премахване"
+
+msgid "ai_li_update"
+msgstr "Обновление"
+
+msgid "ai_me_details"
+msgstr "Информация"
+
+msgid "ai_me_package_install_file"
+msgstr "Инсталиране от файл"
+
+msgid "ai_me_refresh"
+msgstr "Обновяване на списък"
+
+msgid "ai_me_search"
+msgstr "Търсене"
+
+msgid "ai_me_settings"
+msgstr "Настройки"
+
+msgid "ai_me_tools_log"
+msgstr "Журнал"
+
+msgid "ai_me_tools_repository"
+msgstr "Приложни каталози"
+
+msgid "ai_me_tools_restore"
+msgstr "Възстановяване"
+
+msgid "ai_me_update_all"
+msgstr "Обновление на всички"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Неуспех изтегляне на '%s'. Да се опита ли отново?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "Приложението което се опитвате да инсталирате не е предоставено от Nokia. Приложения от несигурни източници могат да съдържат злонамерен код, който да причини финансови вреди, да дава достъп до информацията на това устройство,  или да го увреди. Пакетите могат да имат и специфични лицензни права.\nИнсталацията е на Ваш собствен риск."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Приложенията които се опитвате да инсталирате не са предоставени от Nokia. Приложения от несигурни източници могат да съдържат злонамерен код, който да причини финансови вреди, да дава достъп до информацията на това устройство,  или да го увреди. Пакетите могат да имат и специфични лицензни права.\nИнсталацията е на Ваш собствен риск."
+
+msgid "ai_nc_remove_repository"
+msgstr "Изтриване на каталога?\nПакетите предоставени от този каталог няма да бъдат достъпни повече за инсталация и обновления."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "Обновленията са готови да бъдат инсталирани"
+
+msgid "ai_ni_all_installed"
+msgstr "Всички приложения са вече инсталирани"
+
+msgid "ai_ni_bd_details"
+msgstr "Информация"
+
+msgid "ai_ni_continue_install"
+msgstr "Продължаване с инсталирането?"
+
+msgid "ai_ni_device_restart"
+msgstr "Операционната система е успешно обновена. Устройството ще се рестартира. Моля изчакайте, защото прекъсването може да навреди на устройството."
+
+msgid "ai_ni_device_restart_long"
+msgstr "Операционната система е успешно обновена. Устройството ще се рестартира. Моля изчакайте, защото прекъсването може да навреди на устройството."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "Няма достатъчно енергия за инсталацията на Maemo обновлението.\nЗапочнете зареждане и опитайте отново."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "Неуспешно инсталиране.\nКаталогът е несъвместим с текущата операционна система."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Неуспешно изтегляне на '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr "Неуспешно изтегляне на '%s'.\nПриложението не е намерен."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "Неуспешно инсталиране на '%s'.\nИма приложения с които има конфликт."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "Неуспешно инсталиране на '%s'.\nИнсталационния файл е повреден."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "Неуспешно инсталиране на '%s'.\nНесъвместим пакет на приложението."
+
+msgid "ai_ni_error_install_missing"
+msgstr "Неуспешно инсталиране на '%s'.\nНякои от необходимите за инсталирането пакети липсват."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Неуспешно инсталиране на '%s'."
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "Неуспешно инсталиране на '%s'.\nПакетът на приложението е несъвместим с операционната система."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' е стартиран.\nЗатворете приложението и опитайте отново."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "Неуспешно премахване на '%s'.\nНякои пакети на приложението са необходими на други приложения."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Неуспешно премахване на '%s'."
+
+msgid "ai_ni_error_update_conflict"
+msgstr "Неуспешно обновление на '%s'. Има приложения с които има конфликт."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "Неуспешно обновление на '%s'. Файлът с обновлението е повреден."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Неуспешно обновление на '%s'."
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "Неуспешно обновление на '%s'.\nНесъвместим пакет на приложението."
+
+msgid "ai_ni_error_update_missing"
+msgstr "Неуспешно обновление на '%s'.\nНякои от необходимите за oбновлението пакети липсват."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Приключване на обновлението."
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' успешно инсталирано. Стартиране на приложението?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Недостатъчно пространство в мястото за приложения. Деинсталирайте някои приложения за да освободите място за тази инсталация."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d приложение успешно инсталирано"
+msgstr[1] "%d приложения успешно инсталирани"
+
+msgid "ai_ni_operation_failed"
+msgstr "Неуспешна операция"
+
+msgid "ai_ni_operation_progress"
+msgstr "Има работеща операция.\nМоля изчакайте."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' е вече инсталирано"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Софтуерните обновления са успешно инсталирани"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Операционната система е успешно обновена"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Каталогът не може да бъде изтрит"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' е успешно деинсталирано"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "Неуспешно обновяване на списъка с приложения.\nНяма достъп до каталозите.\nПроверете интернет връзката.\nДа се направи ли нов опит?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "Списъкът с приложения е частично обновен.\nНякои каталози не са достъпни.\nПроверете настройките на тези каталози."
+
+msgid "ai_ni_updates_restart"
+msgstr "Софтуерните обновления са успешно инсталирани. Устройството ще се рестартира."
+
+msgid "ai_nw_checking_updates"
+msgstr "Проверяване за обновления, моля изчакайте"
+
+msgid "ai_nw_connecting"
+msgstr "Свързване"
+
+msgid "ai_nw_downloading"
+msgstr "Изтегляне на %s"
+
+msgid "ai_nw_installing"
+msgstr "Инсталиране на '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Подготвяне на инсталиране, моля изчакайте"
+
+msgid "ai_nw_searching"
+msgstr "Търсене"
+
+msgid "ai_nw_uninstalling"
+msgstr "Премахване на '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Обновление на '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Зареждане"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Нови софтуерни версии"
+
+msgid "ai_sb_app_push_link"
+msgstr "Изтегляне"
+
+msgid "ai_sb_app_push_no"
+msgstr "Игнориране"
+
+msgid "ai_sb_update_am"
+msgstr "Продължение"
+
+msgid "ai_sb_update_description"
+msgstr "Нови софтуерни обновления"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi софтуер (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Maemo обновление"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Друг софтуер (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Добавяне на каталог"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Елементи"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Дистрибуция"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Име на каталог"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Интернет адрес"
+
+msgid "ai_ti_confirm_install"
+msgstr "Инсталиране"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Премахване"
+
+msgid "ai_ti_confirm_update"
+msgstr "Обновление"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Разбирам и съм съгласен"
+
+msgid "ai_ti_details"
+msgstr "Информация за приложението"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Резюме"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Зависимости"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Описание"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Инсталира"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Проблеми"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Деинсталира"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Обновява"
+
+msgid "ai_ti_edit_repository"
+msgstr "Информация за каталог"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Съгласен съм"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Недостъпни каталози"
+
+msgid "ai_ti_install_apps"
+msgstr "Инсталирани приложения"
+
+msgid "ai_ti_license_agreement"
+msgstr "Лицензно споразумение"
+
+msgid "ai_ti_log"
+msgstr "Журнал"
+
+msgid "ai_ti_new_repository"
+msgstr "Нов каталог"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Maemo обновление"
+
+msgid "ai_ti_repository"
+msgstr "Каталози"
+
+msgid "ai_ti_save_log"
+msgstr "Запис на журнал"
+
+msgid "ai_ti_search"
+msgstr "Търсене на приложения"
+
+msgid "ai_ti_select_package"
+msgstr "Избор на приложение"
+
+msgid "ai_va_details_available_version"
+msgstr "Налична версия:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Каталог:"
+
+msgid "ai_va_details_download_size"
+msgstr "Данни за изтегляне:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Инсталирането на '%1$s' ще освободи %2$s пространство"
+
+msgid "ai_va_details_install_requires"
+msgstr "Инсталирането на '%1$s' изисква %2$s пространство"
+
+msgid "ai_va_details_installed_version"
+msgstr "Инсталирана версия:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Размер:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Повреден"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Повреден и необновляем"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Повреден, но обновляем"
+
+msgid "ai_va_details_status_installable"
+msgstr "Готов за инсталиране"
+
+msgid "ai_va_details_status_installed"
+msgstr "Инсталиран"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Недостъпен"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Не може да бъде инсталиран"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Налично е обновление, но то не може да бъде инсталирано"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Обновляем"
+
+msgid "ai_va_details_unable_install"
+msgstr "Неуспешно инсталиране на '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Неуспешно де инсталиране на '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Неуспешно обновление на '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Премахването на '%1$s' ще освободи %2$s пространство"
+
+msgid "ai_va_details_update_frees"
+msgstr "Обновлението на '%1$s' ще освободи %2$s пространство"
+
+msgid "ai_va_details_update_requires"
+msgstr "Обновлението на '%1$s' изисква %2$s пространство"
+
+msgid "ai_va_search_name"
+msgstr "Име на приложението"
+
+msgid "ai_va_search_name_description"
+msgstr "Име и описание на приложението"
+
+msgid "ai_va_sort_name"
+msgstr "Име"
+
+msgid "ai_va_sort_size"
+msgstr "Размер"
+
+msgid "apma_fi_by_provider"
+msgstr "от %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Нови версии"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Нови обновления"
