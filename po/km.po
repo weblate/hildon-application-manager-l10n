@@ -1,0 +1,634 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:33+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ai_ap_application_installer"
+msgstr "អ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "ai_ap_name"
+msgstr "អ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "ព័ត៌មានលំអិត"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "បន្ថែម"
+
+msgid "ai_bd_confirm_details"
+msgstr "ព័ត៌មានលំអិត"
+
+msgid "ai_bd_confirm_ok"
+msgstr "បន្ត"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "លុបកម្មវិធីចេញ"
+
+msgid "ai_bd_create_backup"
+msgstr "បង្កើតឯកសារបំរុង"
+
+msgid "ai_bd_license_ok"
+msgstr "យល់ព្រម"
+
+msgid "ai_bd_log_clear"
+msgstr "សំអាត"
+
+msgid "ai_bd_log_save_as"
+msgstr "រក្សាទុកជា"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "រក្សា"
+
+msgid "ai_bd_repository_delete"
+msgstr "លុបចោល"
+
+msgid "ai_bd_repository_new"
+msgstr "ថ្មី"
+
+msgid "ai_bd_search_ok"
+msgstr "ស្វែងរក"
+
+msgid "ai_category_all"
+msgstr "ទាំងអស់"
+
+msgid "ai_category_desktop"
+msgstr "អន្តរផ្ទៃមុខ"
+
+msgid "ai_category_development"
+msgstr "ការអភិវឌ្ឍន៍"
+
+msgid "ai_category_education"
+msgstr "ការអប់រំ"
+
+msgid "ai_category_games"
+msgstr "ល្បែង"
+
+msgid "ai_category_graphics"
+msgstr "ហ្គ្រាហ្វិក"
+
+msgid "ai_category_multimedia"
+msgstr "ព័ត៌មានចំរុះ"
+
+msgid "ai_category_navigation"
+msgstr "ទីតាំង និងការត្រាច់រក"
+
+msgid "ai_category_network"
+msgstr "បណ្តាញ"
+
+msgid "ai_category_office"
+msgstr "ការិយាល័យ"
+
+msgid "ai_category_other"
+msgstr "ផ្សេងទៀត"
+
+msgid "ai_category_science"
+msgstr "វិទ្យាករណ៍"
+
+msgid "ai_category_sharing_plugins"
+msgstr "ចែកចាយកម្មវិធីបន្ថែម"
+
+msgid "ai_category_system"
+msgstr "ប្រព័ន្ធ"
+
+msgid "ai_category_utilities"
+msgstr "ឧបករណ៍ជំនួយ"
+
+msgid "ai_cb_restarting_device"
+msgstr "បីទហើយបើកទូរស័ព្ទម្តងទៀត"
+
+msgid "ai_fi_details_category"
+msgstr "ផ្នែកៈ"
+
+msgid "ai_fi_details_maintainer"
+msgstr "ការថែទាំៈ"
+
+msgid "ai_fi_details_package"
+msgstr "កម្មវិធីៈ"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "ប្រឆាំងនិងកញ្ចប់កម្មវិធី:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "កញ្ចប់កម្មវិធីនឹងត្រូវបញ្ចូល:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "កញ្ចប់កម្មវិធីដែលបាត់:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "បានតំរូវអោយមានដោយសារកម្មវិធី:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "កញ្ចប់កម្មវិធីនឹងត្រូវលុបចេញ:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "កញ្ចប់កម្មវិធីដែលត្រូវបន្ទាន់សម័យ:"
+
+msgid "ai_fi_details_status"
+msgstr "ស្ថានការណ៍:"
+
+msgid "ai_fi_details_summary"
+msgstr "សង្ខេប:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "សមាសភាគ"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "មិនបានអនុញ្ញាតិ"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "អ្នកផ្តល់"
+
+msgid "ai_fi_new_repository_name"
+msgstr "ឈ្មោះបញ្ជីលំដាប់"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "អាស័យដ្ឋានវិប"
+
+msgid "ai_fi_search_area"
+msgstr "កន្លែងស្វែងរក"
+
+msgid "ai_fi_search_words"
+msgstr "ពាក្យស្វែងរក"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "បន្ថែមបញ្ជីលំដាប់ថ្មី?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "បញ្ជីលំដាប់បានបញ្ចូលរួចហើយ ប៉ុន្តែមិនបានអនុញ្ញាតិ។\nអនុញ្ញាតិពេលនេះ?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "ដើម្បីបញ្ចូលពីប្រភព បន្ថៃមបញ្ជីលំដាប់របស់វា។"
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "កម្មវិធីដែលបានបញ្ចូលមកពីបញ្ចីលំដាប់នេះ មិនបានផ្តល់ដោយ Nokia ហើយប្រហែលជាដាក់មកជាមួយនិងមេរោគខ្លះដែលអាចចូលទៅក្នុងទិន្នន័យដែលបានរក្សាទុកក្នុងឧបករណ៏នេះ អាចធ្វើឲ្យឧបករណ៍មានបញ្ហា។"
+
+msgid "ai_ia_details_use_pc"
+msgstr "ការបន្ទាន់សម័យ Maemo តំរូវឲ្យមានកម្មវិធី Nokia software update នៅក្នុងកុំព្យូទ័ររបស់អ្នកសំរាប់ការបញ្ចូល។\nភ្ជាប់ទូរស័ព្ទទៅនឹងកុំព្យូទ័រតាមខ្សែ USB រួចហើយបើកកម្មវិធី Nokia software update។ កម្មវិធីនឹងណៃនាំអ្នកដើម្បីឈានទៅរកការបន្ទាន់សម័យនៃ Maemo។"
+
+msgid "ai_ia_failed_catalogue"
+msgstr "ធ្វើឲ្យថ្មីម្ដងទៀត មិនបានសំរេច"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "ដើម្បីបន្ទាប់សម័យឧបករណ៍របស់អ្នកទៅកាន់កំណែថ្មីនៃប្រព័ន្ធប្រតិប្តិការណ៍ អ្នកត្រូវតែប្រើកម្មវីធី Nokia software update នៅក្នុងកុំព្យូទ័ររបស់អ្នក។\nភ្ជាប់ទូរស័ព្ទទៅនឹងកុំព្យូទ័រតាមខ្សែ USB រួចហើយបើកកម្មវិធី។"
+
+msgid "ai_ia_osupdate_restart"
+msgstr "កម្មវិធីទាំងអស់នឹងត្រូវបិទនាពេលកំពុងបញ្ចូល ហើយនឹងមុខងារទាំងអស់ក៏នឹងត្រូវបញ្ឈប់ រួមបញ្ចូលទាំងការហៅចេញក្នុងពេលមានអាសន្ន។\nឧបករណ៍នឹងត្រូវចាប់ផ្តើមសាជាថ្មី។\nបង្កើតច្បាប់ចំលងទិន្នន័យបំរុងជាមុនគីជាការផ្តល់អនុសាស្រ្ត។"
+
+msgid "ai_ia_restore"
+msgstr "ច្បាប់ចំលងទិន្នន័យបំរុងរាយនាមកម្មវីធីទាំងនោះ។\nជ្រើសកម្មវិធីមួយណា ដើម្បីទាញយករួចបញ្ចូល។"
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(មិនមានកម្មវីធី)"
+
+msgid "ai_ia_storage"
+msgstr "តំរូវការអង្គចងចាំ: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "បញ្ចូលឈ្មោះបញ្ជីលំដាប់ជាមុន"
+
+msgid "ai_ib_enter_text"
+msgstr "បញ្ចូលអក្សរសំរាប់ការរកឃើញ"
+
+msgid "ai_ib_enter_web_address"
+msgstr "បញ្ចូលអាស័យដ្ឋានវិបជាមុន"
+
+msgid "ai_ib_no_matches"
+msgstr "គ្មានភាពត្រូវគ្នាបានរកឃើញ"
+
+msgid "ai_ib_no_repositories"
+msgstr "គ្មានបញ្ជីលំដាប់បានប្រើ"
+
+msgid "ai_ib_search_complete"
+msgstr "ការស្វែងរកបានបញ្ចប់"
+
+msgid "ai_ib_unable_cancel"
+msgstr "មិនអាចបោះបង់។\nសូមមេត្តារង់ចាំ។"
+
+msgid "ai_ib_unable_edit"
+msgstr "Unable to edit catalog"
+
+msgid "ai_li_install"
+msgstr "ទាញយក"
+
+msgid "ai_li_no_applications_available"
+msgstr "(មិនមានកម្មវិធី)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(មិនមានកម្មវិធីណាមួយបានបញ្ចូល)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(មិនមានការបន្ទាន់សម័យ)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "កំណត់ហេតុ"
+
+msgid "ai_li_uninstall"
+msgstr "លុបចោលកម្មវិធី"
+
+msgid "ai_li_update"
+msgstr "បន្ទាន់សម័យ"
+
+msgid "ai_me_details"
+msgstr "លំអិត"
+
+msgid "ai_me_package_install_file"
+msgstr "បញ្ចូលពីឯកសារ"
+
+msgid "ai_me_refresh"
+msgstr "ធ្វើឲ្យថ្មីម្តងទៀត"
+
+msgid "ai_me_search"
+msgstr "ស្វែងរក"
+
+msgid "ai_me_settings"
+msgstr "ការរៀបចំ"
+
+msgid "ai_me_tools_log"
+msgstr "កំណត់ហេតុ"
+
+msgid "ai_me_tools_repository"
+msgstr "បញ្ជីលំដាប់កម្មវិធី"
+
+msgid "ai_me_tools_restore"
+msgstr "សង្រ្គោះកម្មវិធីមកវិញ"
+
+msgid "ai_me_update_all"
+msgstr "បន្ទាប់សម័យការហៅ"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Downloading '%s' failed. Try again?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "កម្មវិធីដែលអ្នកនឹងបញ្ចូលមិនបានផ្តល់ដោយ Nokia ទេ។ កម្មវិធីមកពីប្រភពដែលមិនអាចជឿទុកចិត្តបានអាចបង្ករឲ្យមានមេរោគបះពាល់ដល់ទិន្នន័យដែលបានរក្សាទុកក្នុងឧបករណ៍របស់អ្នក ឬមានបហ្ហាផ្សេងៗ។ កម្មវិធីអាចមានការផ្តល់សិទ្ធទៅកាន់អ្នកទី៣ និងសេចក្តីអនុញ្ញាតិ។\nការបញ្ចូល នឹងប្រថុយដោយអ្នកផ្ទាល់។"
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "កម្មវិធីខ្លះដែលអ្នកនឹងបញ្ចូលមិនបានផ្តល់ដោយ Nokia ទេ។ កម្មវិធីមកពីប្រភពដែលមិនអាចជឿទុកចិត្តបានអាចបង្ករឲ្យមានមេរោគបះពាល់ដល់ទិន្នន័យដែលបានរក្សាទុកក្នុងឧបករណ៍របស់អ្នក ឬមានបហ្ហាផ្សេងៗ។ កម្មវិធីអាចមានការផ្តល់សិទ្ធទៅកាន់អ្នកទី៣ និងសេចក្តីអនុញ្ញាតិ។\nការបញ្ចូល នឹងប្រថុយដោយអ្នកផ្ទាល់។"
+
+msgid "ai_nc_remove_repository"
+msgstr "លុបចោលបញ្ចីលំដាប់?\nកញ្ចប់កម្មវិធីផ្តល់ដោយបញ្ចីលំដាប់នេះ នឹងមិនមានការបញ្ចូលកម្មវិធីថ្មី និងការធ្វើអោយប្រសើរឡើងនៃកម្មវិធី។"
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "រួចរាល់នឹងចាប់ផ្តើមបញ្ចូល និងបន្ទាន់សម័យកម្មវិធីទាំងអស់?"
+
+msgid "ai_ni_all_installed"
+msgstr "កម្មវិធីទាំងអស់បានបញ្ចូលរួចហើយ"
+
+msgid "ai_ni_bd_details"
+msgstr "លំអិត"
+
+msgid "ai_ni_continue_install"
+msgstr "បន្តការបញ្ចូលកម្មវិធី?"
+
+msgid "ai_ni_device_restart"
+msgstr "ប្រព័ន្ធប្រតិបត្តិការបានបន្ទាន់សម័យដោយជោគជ័យ។ ឧបករណ៍នេះនឹងចាប់ផ្តើមម្តងទៀត។ សូមមេត្តារង់ចាំ ការរំខានអាចធ្វើឲ្យឧបករណ៍នេះមានផលអាក្រក់។"
+
+msgid "ai_ni_device_restart_long"
+msgstr "ប្រព័ន្ធប្រតិបត្តិការបានបន្ទាន់សម័យដោយជោគជ័យ។ ឧបករណ៍នេះនឹងចាប់ផ្តើមម្តងទៀត។ សូមមេត្តារង់ចាំ ការរំខានអាចធ្វើឲ្យឧបករណ៍នេះមានផលអាក្រក់។"
+
+msgid "ai_ni_error_battery_empty"
+msgstr "ថាមពលនៃថ្មពិលមិនគ្រប់គ្រាន់សំរាប់បញ្ចូលភាពទាន់សម័យនៃ Maemo។\nចាប់ផ្តើមបញ្ចូលថ្មរួចសាកល្បងម្តងទៀត។"
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "មិនអាចបញ្ចូល។\nបញ្ជីលំដាប់មិនតំរូវអោយប្រើជាមួយនឹងប្រព័ន្ធប្រតិបត្តិការណ៍នាពេលបច្ចុប្បន្ន។"
+
+msgid "ai_ni_error_download_failed"
+msgstr "ការទាញយក '%s' មិនសំរេច"
+
+msgid "ai_ni_error_download_missing"
+msgstr "មិនអាចទាញយក '%s'.\nរកកញ្ចប់កម្មវិធីមិនឃើញ"
+
+msgid "ai_ni_error_install_conflict"
+msgstr "មិនអាចបញ្ចូល '%s'.\nប្រឆាំងកញ្ចប់កម្មវិធី។"
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "មិនអាចបញ្ចូល '%s'.\nឯកសារកម្មវិធីបញ្ចូលបានខូច។"
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "មិនអាចបញ្ចូល '%s'.\nកញ្ចប់កម្មវិធីមិនត្រឹមត្រូវ។"
+
+msgid "ai_ni_error_install_missing"
+msgstr "មិនអាចបញ្ចូល '%s'.\nកញ្ចប់កម្មវិធីខ្លះបានតំរូវឲ្យមានសំរាប់ការបញ្ចូល ត្រូវបានបាត់ ឬមិនមាន។"
+
+msgid "ai_ni_error_installation_failed"
+msgstr "មិនអាចបញ្ចូល '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "មិនអាចបញ្ចូល '%s'.\nកញ្ចប់កម្មវិធីនេះមិនតំរូវឲ្យប្រើជាមួយនឹងប្រព័ន្ធប្រតិបត្តិការណ៍នាពេលបច្ចុប្បន្ន។"
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' បានបើក។\nបិទកម្មវិធីរួចសាកល្បងម្តងទៀត។"
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "មិនអាចលុបចោល '%s'.\nកញ្ចប់កម្មវិធីខ្លះត្រូវបានតំរូវឲ្យមានដោយកម្មវិធីដ៏ទៃ។"
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "មិនអាចលុបចោល %s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'.\nប្រឆាំងកញ្ចប់កម្មវិធី។"
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'.\nឯកសារបន្ទាន់សម័យបានខូច។"
+
+msgid "ai_ni_error_update_failed"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'.\nកញ្ចប់កម្មវិធីមិនត្រឹមត្រូវ។"
+
+msgid "ai_ni_error_update_missing"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'.\nកញ្ចប់កម្មវិធីខ្លះបានតំរូវឲ្យមាន\nសំរាប់បន្ទាន់សម័យត្រូវបានបាត់ ឬមិនមាន។"
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "បញ្ចប់ការបន្ទាន់សម័យ"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' បានបញ្ចូលដោយជោគជ័យ។ ចាប់ផ្តើមកម្មវិធី?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "មិនមានទីកន្លែងគ្រប់គ្រាន់នៅក្នុងអង្គចងចាំកម្មវិធី។ លុបចោលកម្មវិធីខ្លះដើម្បីមានកន្លែងខ្លះសំរាប់ការបញ្ចូលនេះ។"
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d កម្មវិធីបានបញ្ចូលដោយជោគជ័យ"
+
+msgid "ai_ni_operation_failed"
+msgstr "ប្រតិបត្តិការណ៍មិនបានសំរេច"
+
+msgid "ai_ni_operation_progress"
+msgstr "ប្រតិបត្តិការណ៍កំពុងដំណើតការណ៍.\nសូមមេត្តារង់ចាំ"
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' បញ្ចូលរួចហើយ"
+
+msgid "ai_ni_software_update_installed"
+msgstr "កម្មវិធីបានបន្ទាន់សម័យរួចហើយ"
+
+msgid "ai_ni_system_update_installed"
+msgstr "ប្រព័ន្ធប្រតិបត្តិការបានបន្ទាន់សម័យរួចហើយ"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "មិនអាចលុបចោលបញ្ជីលំដាប់"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' លុបចោលកម្មវិធីបានជោគជ័យ"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "មិនអាចធ្វើការរាយនាមកម្មវិធីជាថ្មីបាន។\nមិនអាចចូលទៅក្នុងបញ្ជីលំដាប់។\nសូមពិនិត្យមើលនូវការភ្ជាប់បណ្តាញ។\nសាកល្បងម្តងទៀត?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "ការរាយនាមកម្មវិធីខ្លះបានធ្វើយអោយថ្មីរួចហើយ។\nបញ្ជីលំដាប់ខ្លះមិនមានទំនេ។\nពិនិត្យមើលព័ត៌មានលំអិត។"
+
+msgid "ai_ni_updates_restart"
+msgstr "បន្ទាន់សម័លកម្មវិធីបានបញ្ចូលដោយជោគជ័យ។ ឧបរកណ៍នឹងបិទ ហើយបើកឡើងវិញ។"
+
+msgid "ai_nw_checking_updates"
+msgstr "ពិនិត្យមើលភាពទាន់សម័យ សូមមេត្តារង់ចាំ"
+
+msgid "ai_nw_connecting"
+msgstr "កុំពុងតភ្ជាប់"
+
+msgid "ai_nw_downloading"
+msgstr "កុំពុងទាញយក %s"
+
+msgid "ai_nw_installing"
+msgstr "កុំពុងបញ្ចូល '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "កុំពុងប្រុងប្រៀបបញ្ចូល សូមមេត្តារង់ចាំ"
+
+msgid "ai_nw_searching"
+msgstr "កុំពុងស្វែងរក"
+
+msgid "ai_nw_uninstalling"
+msgstr "កុំបុងលុបចេញ '%s'"
+
+msgid "ai_nw_updating"
+msgstr "កុំពុងបន្ទាន់សម័យ '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "កុំពុងដំណើរការ"
+
+msgid "ai_sb_app_push_desc"
+msgstr "បញ្ចេញកម្មវិធីថ្មី"
+
+msgid "ai_sb_app_push_link"
+msgstr "ទាញយក"
+
+msgid "ai_sb_app_push_no"
+msgstr "បដិសេធ"
+
+msgid "ai_sb_update_am"
+msgstr "បន្ត"
+
+msgid "ai_sb_update_description"
+msgstr "បន្ទាន់សម័យកម្មវិធីថ្មី"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "កម្មវិធីរបស់ Nokia (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "បន្ទាន់សម័យ Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "កម្មវិធីរបស់ភាគគីទីបី (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "បន្ថែមបញ្ជីលំដាប់"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "ធាតុផ្សំ"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "អ្នកផ្តល់"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "ឈ្មោះបញ្ជីលំដាប់"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "អាស័យដ្ឋានវិប"
+
+msgid "ai_ti_confirm_install"
+msgstr "បញ្ចូល"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "លុបចោល"
+
+msgid "ai_ti_confirm_update"
+msgstr "ទាន់សម័យ"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "ខ្ញុំយល់ និងយលព្រម"
+
+msgid "ai_ti_details"
+msgstr "ព័ត៌មានលំអិតនៃកម្មវិធី"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "សង្ខេប"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "ការមើលការខុសត្រូវ"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "ពិពណ៌នា"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "កុំពុងបញ្ចូល"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "មានបញ្ហា"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "កុំពុងលុបចេញ"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "កុំពុងបន្ទាន់សម័យ"
+
+msgid "ai_ti_edit_repository"
+msgstr "ព័ត៌មានលំអិតនៃបញ្ជីលំដាប់"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "ខ្ញុំយល់ព្រម"
+
+msgid "ai_ti_failed_repositories"
+msgstr "បញ្ជីលំដាប់មិនសំរេច"
+
+msgid "ai_ti_install_apps"
+msgstr "បញ្ចូលកម្មវិធី"
+
+msgid "ai_ti_license_agreement"
+msgstr "អញ្ញាប័ណ្ណ និងការព្រមព្រៀង"
+
+msgid "ai_ti_log"
+msgstr "កំណត់ហេតុ"
+
+msgid "ai_ti_new_repository"
+msgstr "បញ្ចីលំដាប់ថ្មី"
+
+msgid "ai_ti_operating_system_update"
+msgstr "បន្ទាន់សម័យ Maemo"
+
+msgid "ai_ti_repository"
+msgstr "បញ្ជីលំដាប់"
+
+msgid "ai_ti_save_log"
+msgstr "រក្សាទុកកំណត់ហេតុ"
+
+msgid "ai_ti_search"
+msgstr "ស្វែងរកកម្មវិធី"
+
+msgid "ai_ti_select_package"
+msgstr "ជ្រើសកម្មវិធី"
+
+msgid "ai_va_details_available_version"
+msgstr "កំណែដែលមាន:"
+
+msgid "ai_va_details_catalogue"
+msgstr "បញ្ជីលំដាប់:"
+
+msgid "ai_va_details_download_size"
+msgstr "ទំហំទាញយក:"
+
+msgid "ai_va_details_install_frees"
+msgstr "កុំពុងបញ្ចូល '%1$s' ទំនេរបាន %2$s នៃឧបករណ៍អង្គចងចាំ"
+
+msgid "ai_va_details_install_requires"
+msgstr "កុំពុងបញ្ចូល '%1$s' តំរូវមាន %2$s នៃឧបករណ៍អង្គចងចាំ"
+
+msgid "ai_va_details_installed_version"
+msgstr "កំណែបានបញ្ចូល:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "ទំហំ:"
+
+msgid "ai_va_details_status_broken"
+msgstr "បានខូច"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "បានខូច និងមិនអាចបន្ទាន់សម័យ"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "បានខូច ប៉ុន្តែអាចបន្ទាន់សម័យ"
+
+msgid "ai_va_details_status_installable"
+msgstr "អាចបញ្ចូលបាន"
+
+msgid "ai_va_details_status_installed"
+msgstr "បានបញ្ចូល"
+
+msgid "ai_va_details_status_not_available"
+msgstr "មិនទំនេរ"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "មិនអាចបញ្ចូលបាន"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "មានសម័យថ្មី ប៉ុន្តែមិនអាចបញ្ចូលបាន"
+
+msgid "ai_va_details_status_updateable"
+msgstr "អាចបន្ទាន់សម័យបាន"
+
+msgid "ai_va_details_unable_install"
+msgstr "មិនអាចបញ្ចូល '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "មិនអាចលុបចេញ '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "មិនអាចបន្ទាន់សម័យ '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "ការលុបចេញ '%1$s' ទំនេរបាន %2$s នៃឧបករណ៍អង្គចងចាំ"
+
+msgid "ai_va_details_update_frees"
+msgstr "កុំពុងបន្ទាន់សម័យ '%1$s' ទំនេរបាន %2$s នៃឧបករណ៍អង្គចងចាំ"
+
+msgid "ai_va_details_update_requires"
+msgstr "កុំពុងបន្ទាន់សម័យ '%1$s' តំរូវមាន %2$s កុំពុងបន្ទាន់សម័យ"
+
+msgid "ai_va_search_name"
+msgstr "ឈ្មោះកម្មវិធី"
+
+msgid "ai_va_search_name_description"
+msgstr "ឈ្មោះកម្មវីធី និងការពិពណ៌នា"
+
+msgid "ai_va_sort_name"
+msgstr "ឈ្មោះ"
+
+msgid "ai_va_sort_size"
+msgstr "ទំហំ"
+
+msgid "apma_fi_by_provider"
+msgstr "ដោយ %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "ចេញថ្មី"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "ទាន់សម័យថ្មី"
