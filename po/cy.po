@@ -1,0 +1,638 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-02-07 10:04+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Rheolwr rhaglenni"
+
+msgid "ai_ap_name"
+msgstr "Rh. rhaglenni"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Manylion"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Ychwanegu"
+
+msgid "ai_bd_confirm_details"
+msgstr "Manylion"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Parhau"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Dadosod"
+
+msgid "ai_bd_create_backup"
+msgstr "Creu copi wrth gefn"
+
+msgid "ai_bd_license_ok"
+msgstr "Derbyn"
+
+msgid "ai_bd_log_clear"
+msgstr "Clirio"
+
+msgid "ai_bd_log_save_as"
+msgstr "Cadw fel"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Cadw"
+
+msgid "ai_bd_repository_delete"
+msgstr "Dileu"
+
+msgid "ai_bd_repository_new"
+msgstr "Newydd"
+
+msgid "ai_bd_search_ok"
+msgstr "Chwilio"
+
+msgid "ai_category_all"
+msgstr "Pob dim"
+
+msgid "ai_category_desktop"
+msgstr "Penfwrdd"
+
+msgid "ai_category_development"
+msgstr "Datblygu"
+
+msgid "ai_category_education"
+msgstr "Addysg"
+
+msgid "ai_category_games"
+msgstr "Gemau"
+
+msgid "ai_category_graphics"
+msgstr "Graffeg"
+
+msgid "ai_category_multimedia"
+msgstr "Amlgyfryngau"
+
+msgid "ai_category_navigation"
+msgstr "Lleoliad a llywio"
+
+msgid "ai_category_network"
+msgstr "Rhwydwaith"
+
+msgid "ai_category_office"
+msgstr "Swyddfa"
+
+msgid "ai_category_other"
+msgstr "Arall"
+
+msgid "ai_category_science"
+msgstr "Gwyddoniaeth"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Rhannu"
+
+msgid "ai_category_system"
+msgstr "System"
+
+msgid "ai_category_utilities"
+msgstr "Ategolion"
+
+msgid "ai_cb_restarting_device"
+msgstr "Yn ailgychwyn y dyfais"
+
+msgid "ai_fi_details_category"
+msgstr "Categori:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Cynhaliwr:"
+
+msgid "ai_fi_details_package"
+msgstr "Rhaglen:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Anghydfod gyda phecynnau rhaglen:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Pecynnau rhaglen i'w gosod:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Pecynnau rhaglen ar goll:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Angenrheidiol ar gyfer pecynnau rhaglen:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Pecynnau rhaglen i'w dadosod:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Pecynnau rhaglen i'w diweddaru:"
+
+msgid "ai_fi_details_status"
+msgstr "Statws:"
+
+msgid "ai_fi_details_summary"
+msgstr "Crynodeb:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Cydrannau"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Analluogwyd"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Dosraniad"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Enw catalog"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Cyfeiriad gwe"
+
+msgid "ai_fi_search_area"
+msgstr "Maes chwilio"
+
+msgid "ai_fi_search_words"
+msgstr "Chwileiriau"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "Ychwanegu catalog newydd? '%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "Catalog wedi ei osod ond wedi ei analluogi. Galluogi yn awr?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "I osod o'r ffynhonnell yma, ychwanegwch ei gatalog."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Nid yw meddalwedd o'r catalog yma wedi ei ddarparu gan Nokia a gall gynnwys drwgwedd a all ddarllen data sydd ar y dyfais, creu niwed ariannol neu niweidio'r dyfais."
+
+msgid "ai_ia_details_use_pc"
+msgstr "Mae'r diweddariad Maemo yma angen y rhaglen diweddaru meddalwedd Nokia ar eich cyfrifiadur ar gyfer ei lwytho. Cysylltwch eich dyfais at eich cyfrifiadur gyda'r cebl USB ac agor y rhaglen diweddaru meddalwedd Nokia. Bydd y rhaglen yn eich arwain drwy weddill y diweddariad Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "methu ail-lwytho"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "I ddiweddaru eich dyfais at y fersiwn yma o'r system reoli rhaid defnyddio'r rhaglen diweddaru meddalwedd Nokia ar eich cyfrifiadur ar gyfer ei lwytho. Cysylltwch eich dyfais at eich cyfrifiadur gyda'r cebl USB ac agor y rhaglen."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "Bydd pob rhaglen yn cael ei gau yn ystod y diweddariad a bydd pob gweithred wedi ei analluogi, gan gynnwys gwneud galwadau argyfwng. Yna bydd y dyfais yn ailddechrau. Fe argymhellir gwneud copi wrth gefn o'ch data cyn parhau."
+
+msgid "ai_ia_restore"
+msgstr "Mae'r copi wrth gefn yn rhestru'r rhaglenni canlynol. Dewiswch rhaglenni i'w llawrlwytho a'u gosod."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(dim rhaglenni)"
+
+msgid "ai_ia_storage"
+msgstr "Côf sydd angen: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Mewnbynnwch enw'r catalog yn gyntaf"
+
+msgid "ai_ib_enter_text"
+msgstr "Mewnbynnwch y testun i'w ganfod"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Mewnbynnwch y cyfeiriad gwe yn gyntaf"
+
+msgid "ai_ib_no_matches"
+msgstr "Dim rhaglenni'n cydweddu"
+
+msgid "ai_ib_no_repositories"
+msgstr "Dim catalog mewn defnydd"
+
+msgid "ai_ib_search_complete"
+msgstr "Wedi chwilio"
+
+msgid "ai_ib_unable_cancel"
+msgstr "Methu â chanslo. Arhoswch."
+
+msgid "ai_ib_unable_edit"
+msgstr "Methu golygu'r catalog"
+
+msgid "ai_li_install"
+msgstr "Llawrlwytho"
+
+msgid "ai_li_no_applications_available"
+msgstr "(dim rhaglenni ar gael)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(dim rhaglenni wedi eu llwytho)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(dim diweddariadau ar gael)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Log"
+
+msgid "ai_li_uninstall"
+msgstr "Dadosod"
+
+msgid "ai_li_update"
+msgstr "Diweddaru"
+
+msgid "ai_me_details"
+msgstr "Manylion"
+
+msgid "ai_me_package_install_file"
+msgstr "Llwytho o ffeil"
+
+msgid "ai_me_refresh"
+msgstr "Diweddaru"
+
+msgid "ai_me_search"
+msgstr "Chwilio"
+
+msgid "ai_me_settings"
+msgstr "Gosodiadau"
+
+msgid "ai_me_tools_log"
+msgstr "Log"
+
+msgid "ai_me_tools_repository"
+msgstr "Catalogau rhaglenni"
+
+msgid "ai_me_tools_restore"
+msgstr "Adfer rhaglenni"
+
+msgid "ai_me_update_all"
+msgstr "Diweddaru oll"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Methu llawrlwytho '%s'. Ceisio eto?"
+
+msgid "ai_nc_install"
+msgstr "%s %s %s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "Nid yw'r rhaglen yr ydych ar fin ei osod wedi ei ddarparu gan Nokia. Gall rhaglenni o ffynonellau annibynadwy gynnwys drwgwedd a all achosi difrod ariannol, ddarllen data ar y dyfais neu ddifrodi'r dyfais fel arall. Gall fod y rhaglen o dan amodau trwydded neu hawliau trydydd person. Gosodir y meddalwedd ar eich menter eich hun."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Nid yw rhai o'r rhaglenni yr ydych ar fin eu gosod wedi eu darparu gan Nokia. Gall rhaglenni o ffynonellau annibynadwy gynnwys drwgwedd a all achosi difrod ariannol, ddarllen data ar y dyfais neu ddifrodi'r dyfais fel arall. Gall fod y rhaglen o dan amodau trwydded neu hawliau trydydd person. Gosodir y meddalwedd ar eich menter eich hun."
+
+msgid "ai_nc_remove_repository"
+msgstr "Dileu'r catalog? Ni fydd pecynnau rhaglenni a ddarperir gan y catalog yma ar gael i'w gosod na'u diweddaru."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s %s"
+
+msgid "ai_nc_update"
+msgstr "%s %s %s"
+
+msgid "ai_nc_update_all"
+msgstr "Barod i osod pob diweddariad"
+
+msgid "ai_ni_all_installed"
+msgstr "Pob rhaglen wedi eu gosod yn barod"
+
+msgid "ai_ni_bd_details"
+msgstr "Manylion"
+
+msgid "ai_ni_continue_install"
+msgstr "Parhau i osod?"
+
+msgid "ai_ni_device_restart"
+msgstr "Diweddarwyd y system rheoli yn lwyddiannus. Bydd y dyfais yn ailgychwyn. Arhoswch gan y gall ymyrryd niweidio'r dyfais."
+
+msgid "ai_ni_device_restart_long"
+msgstr "Diweddarwyd y system rheoli yn lwyddiannus. Bydd y dyfais yn ailgychwyn. Arhoswch gan y gall ymyrryd niweidio'r dyfais."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "Dim digon o bŵer batri i osod y diweddariad Maemo. Dechreuwch ailwefru'r dyfais yna ceisiwch eto."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "Methu â llwytho. Mae'r catalog yn anghydnaws gyda'r system rheoli presennol."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Methodd llawrlwytho '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr "Methu llawrlwytho '%s'. Ni ganfuwyd y pecyn rhaglen."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "Methu gosod '%s'. Pecynnau rhaglenni yn gwrthdaro."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "Methu gosod '%s'. Ffeil gosod wedi ei lygru."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "Methu gosod '%s'. Pecyn rhaglen anghydnaws."
+
+msgid "ai_ni_error_install_missing"
+msgstr "Methu llwytho '%s'. Mae rhai o'r pecynnau rhaglen sydd eu hangen ar gyfer y gosodiad ar goll."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Methu gosod '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "Methu gosod '%s'. Mae'r pecyn rhaglen yn anghydnaws gyda'r system rheoli presennol."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "Mae '%s' ar agor. Caewch y rhaglen a ceisiwch eto."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "Methu dadosod '%s'. Mae rhai pecynnau rhaglen eu hangen gan raglenni eraill."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Methu dadlwytho '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "Methu dadlwytho '%s'. Gwrthdrawiad pecynnau rhaglenni."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "Methu diweddaru '%s'. Ffeil diweddaru wedi ei lygru."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Methu diweddaru '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "Methu diweddaru '%s'. Pecyn rhaglen anghydnaws."
+
+msgid "ai_ni_error_update_missing"
+msgstr "Methu diweddaru '%s'. Mae rhai o'r pecynnau rhaglenni sydd eu hangen ar gyfer y diweddariad ar goll."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Yn cwblhau gosod y diweddariadau"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "Gosodwyd '%s' yn lwyddiannus. Agor y rhaglen?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Diffyg lle yn nghof gosod rhaglenni. Dadosodwch rhai rhaglenni i greu digon o le ar gyfer y gosodiad yma."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "Llwythwyd %d rhaglen yn lwyddiannus"
+msgstr[1] "Llwythwyd %d rhaglen yn lwyddiannus"
+msgstr[2] "Llwythwyd %d rhaglen yn lwyddiannus"
+msgstr[3] "Llwythwyd %d rhaglen yn lwyddiannus"
+
+msgid "ai_ni_operation_failed"
+msgstr "Methodd y weithred"
+
+msgid "ai_ni_operation_progress"
+msgstr "Wrthi'n gweithredu. Arhoswch."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' wedi ei osod yn barod"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Gosodwyd y diweddariadau meddalwedd yn lwyddiannus"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Diweddarwyd y system rheoli'n lwyddiannus"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Methu â dileu'r catalog"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "Dadosodwyd '%s' yn lwyddiannus"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "Methu diweddaru'r rhestr rhaglenni. Methu darllen y catalogau. Gwiriwch y cysylltiad rhwydwaith. Ceisio eto?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "Diweddarwyd y rhestr rhaglenni yn rannol. Roedd rhai catalogau ddim ar gael. Gwiriwch y manylion catalog."
+
+msgid "ai_ni_updates_restart"
+msgstr "Gosodwyd y diweddariadau meddalwedd yn lwyddiannus. Bydd y dyfais yn ailgychwyn."
+
+msgid "ai_nw_checking_updates"
+msgstr "Yn edrych am ddiweddariadau, arhoswch"
+
+msgid "ai_nw_connecting"
+msgstr "Yn cysylltu"
+
+msgid "ai_nw_downloading"
+msgstr "Yn llawrlwytho %s"
+
+msgid "ai_nw_installing"
+msgstr "Yn gosod '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Yn paratoi i osod, arhoswch"
+
+msgid "ai_nw_searching"
+msgstr "Yn Chwilio"
+
+msgid "ai_nw_uninstalling"
+msgstr "Yn dadosod '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Yn diweddaru '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Yn llwytho"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Pecynnau meddalwedd newydd"
+
+msgid "ai_sb_app_push_link"
+msgstr "Llawrlwytho"
+
+msgid "ai_sb_app_push_no"
+msgstr "Anwybyddu"
+
+msgid "ai_sb_update_am"
+msgstr "Parhau"
+
+msgid "ai_sb_update_description"
+msgstr "Diweddariadau meddalwedd newydd"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Meddalwedd Nokia (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Diweddariad Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Meddalwedd trydydd person (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Ychwanegu catalog"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Cydrannau"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Dosraniad"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Enw catalog"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Cyfeiriad gwe"
+
+msgid "ai_ti_confirm_install"
+msgstr "Gosod"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Dadosod"
+
+msgid "ai_ti_confirm_update"
+msgstr "Diweddaru"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Rwy'n deall a chytuno"
+
+msgid "ai_ti_details"
+msgstr "Manylion rhaglen"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Crynodeb"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Dibyniadau"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Disgrifiad"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Yn gosod"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Trafferthion"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Yn dadosod"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Yn diweddaru"
+
+msgid "ai_ti_edit_repository"
+msgstr "Manylion catalog"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Rwy'n cytuno"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Catalogau wedi methu"
+
+msgid "ai_ti_install_apps"
+msgstr "Gosod rhaglenni"
+
+msgid "ai_ti_license_agreement"
+msgstr "Cytundeb trwyddedu"
+
+msgid "ai_ti_log"
+msgstr "Log"
+
+msgid "ai_ti_new_repository"
+msgstr "Catalog newydd"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Diweddariad Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Catalogau"
+
+msgid "ai_ti_save_log"
+msgstr "Cadw log"
+
+msgid "ai_ti_search"
+msgstr "Chwilio am raglenni"
+
+msgid "ai_ti_select_package"
+msgstr "Dewis rhaglen"
+
+msgid "ai_va_details_available_version"
+msgstr "Fersiwn ar gael:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Catalog:"
+
+msgid "ai_va_details_download_size"
+msgstr "Maint i'w lawrlwytho:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Bydd gosod '%1$s' yn rhyddhau %2$s o gôf ar y dyfais"
+
+msgid "ai_va_details_install_requires"
+msgstr "Bydd gosod '%1$s' angen %s$s o gôf ar y dyfais"
+
+msgid "ai_va_details_installed_version"
+msgstr "Fersiwn wedi ei osod:"
+
+msgid "ai_va_details_no_info"
+msgstr "-"
+
+msgid "ai_va_details_size"
+msgstr "Maint:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Toredig"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Toredig a methu ei ddiweddaru"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Toredig ond gellir ei ddiweddaru"
+
+msgid "ai_va_details_status_installable"
+msgstr "Gellir ei osod"
+
+msgid "ai_va_details_status_installed"
+msgstr "Wedi ei osod"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Ddim ar gael"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Methu ei osod"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Diweddariad ar gael ond methu ei osod"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Modd ei ddiweddaru"
+
+msgid "ai_va_details_unable_install"
+msgstr "Methu gosod '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Methu dadosod '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Methu diweddaru '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Bydd dadosod '%1$s' yn rhyddhau %2$s o gof ar y dyfais"
+
+msgid "ai_va_details_update_frees"
+msgstr "Bydd diweddaru '%1$s' yn rhyddhau %2$s o gof ar y dyfais"
+
+msgid "ai_va_details_update_requires"
+msgstr "Bydd diweddaru '%1$s' angen %2$s o gof ar y dyfais"
+
+msgid "ai_va_search_name"
+msgstr "Enw rhaglen"
+
+msgid "ai_va_search_name_description"
+msgstr "Enw rhaglen a disgrifiad"
+
+msgid "ai_va_sort_name"
+msgstr "Enw"
+
+msgid "ai_va_sort_size"
+msgstr "Maint"
+
+msgid "apma_fi_by_provider"
+msgstr "gan %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Pecynnau newydd"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Diweddariadau newydd"
