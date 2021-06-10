@@ -1,0 +1,635 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਮੈਨੇਜਰ"
+
+msgid "ai_ap_name"
+msgstr "ਐਪ. ਮੈਨੇਜਰ"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "ਸ਼ਾਮਲ"
+
+msgid "ai_bd_confirm_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "ai_bd_confirm_ok"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "ਅਣ-ਇੰਸਟਾਲ"
+
+msgid "ai_bd_create_backup"
+msgstr "ਬੈਕਅੱਪ ਬਣਾਓ"
+
+msgid "ai_bd_license_ok"
+msgstr "ਮਨਜ਼ੂਰ"
+
+msgid "ai_bd_log_clear"
+msgstr "ਸਾਫ਼ ਕਰੋ"
+
+msgid "ai_bd_log_save_as"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "ai_bd_repository_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "ai_bd_repository_new"
+msgstr "ਨਵਾਂ"
+
+msgid "ai_bd_search_ok"
+msgstr "ਖੋਜ"
+
+msgid "ai_category_all"
+msgstr "ਸਭ"
+
+msgid "ai_category_desktop"
+msgstr "ਡੈਸਕਟਾਪ"
+
+msgid "ai_category_development"
+msgstr "ਡਿਵੈਲਪਮੈਂਟ"
+
+msgid "ai_category_education"
+msgstr "ਵਿਦਿਅਕ"
+
+msgid "ai_category_games"
+msgstr "ਖੇਡਾਂ"
+
+msgid "ai_category_graphics"
+msgstr "ਗਰਾਫਿਕਸ"
+
+msgid "ai_category_multimedia"
+msgstr "ਮਲਟੀਮੀਡਿਆ"
+
+msgid "ai_category_navigation"
+msgstr "ਟਿਕਾਣਾ ਤੇ ਨੇਵੀਗੇਸ਼ਨ"
+
+msgid "ai_category_network"
+msgstr " ਨੈੱਟਵਰਕ"
+
+msgid "ai_category_office"
+msgstr "ਦਫ਼ਤਰ"
+
+msgid "ai_category_other"
+msgstr "ਹੋਰ"
+
+msgid "ai_category_science"
+msgstr "ਵਿਗਿਆਨ"
+
+msgid "ai_category_sharing_plugins"
+msgstr "ਪਲੱਗਇਨ ਸਾਂਝ"
+
+msgid "ai_category_system"
+msgstr "ਸਿਸਟਮ"
+
+msgid "ai_category_utilities"
+msgstr "ਸਹੂਲਤਾਂ"
+
+msgid "ai_cb_restarting_device"
+msgstr "ਜੰਤਰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_fi_details_category"
+msgstr "ਵਰਗ:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "ਪਰਬੰਧਕ:"
+
+msgid "ai_fi_details_package"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ ਨਾਲ ਟਕਰਾ:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ ਗੁੰਮ:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ ਵਲੋਂ ਚਾਹੀਦੇ:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "ਹਟਾਉਣ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ:"
+
+msgid "ai_fi_details_status"
+msgstr "ਹਾਲਤ:"
+
+msgid "ai_fi_details_summary"
+msgstr "ਸੰਖੇਪ"
+
+msgid "ai_fi_new_repository_component"
+msgstr "ਭਾਗ"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "ਬੰਦ"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "ਡਿਸਟਰੀਬਿਊਸ਼ਨ"
+
+msgid "ai_fi_new_repository_name"
+msgstr "ਕੈਟਾਲਾਗ ਨਾਂ"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "ਵੈੱਬ ਐਡਰੈੱਸ"
+
+msgid "ai_fi_search_area"
+msgstr "ਖੋਜ ਖੇਤਰ"
+
+msgid "ai_fi_search_words"
+msgstr "ਖੋਜ ਸ਼ਬਦ"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "ਨਵਾਂ ਕੈਟਾਲਾਗ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "ਕੈਟਾਲਾਗ ਪਹਿਲਾਂ ਹੀ ਇੰਸਟਾਲ ਹੈ, ਪਰ ਬੰਦ ਹੈ।\nਕੀ ਚਾਲੂ ਕਰਨਾ ਹੈ?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "ਇਹ ਸਰੋਤ ਤੋਂ ਇੰਸਟਾਲ ਕਰਨ ਵਾਸਤੇ, ਇਸ ਦਾ ਕੈਟਾਲਾਗ ਸ਼ਾਮਲ ਕਰੋ।"
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Software installed from this catalog is not provided by Nokia and may include malware that access data stored in the device, cause financial damage or harm the device."
+
+msgid "ai_ia_details_use_pc"
+msgstr "This Maemo update requires the Nokia software update application on your PC for installation.\nConnect device to PC via USB cable and open Nokia software update application. The application will guide you through the rest of the Maemo update."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "ਤਾਜ਼ਾ ਕਰਨ ਲਈ ਫੇਲ੍ਹ"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "To update your device to this version of the operating system you must use the Nokia software update application on your PC.\nConnect the device to your PC via a USB cable and launch the application."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "All applications will be closed during installation and all functions will be disabled, including making emergency calls.\nThe device will then restart.\nCreating a backup beforehand is recommended."
+
+msgid "ai_ia_restore"
+msgstr "The backup lists these applications.\nSelect applications to download and install."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(ਕੋਈ ਐਪਲੀਕੇਸ਼ਨ ਨਹੀਂ)"
+
+msgid "ai_ia_storage"
+msgstr "ਚਾਹੀਦੀ ਮੈਮੋਰੀ: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "ਪਹਿਲਾਂ ਕੈਟਾਲਾਗ ਨਾਂ ਦਿਓ"
+
+msgid "ai_ib_enter_text"
+msgstr "ਲੱਭਣ ਲਈ ਟੈਕਸਟ ਦਿਓ"
+
+msgid "ai_ib_enter_web_address"
+msgstr "ਪਹਿਲਾਂ ਵੈੱਬ ਐਡਰੈੱਸ ਦਿਓ"
+
+msgid "ai_ib_no_matches"
+msgstr "ਕੋਈ ਮੇਲ ਨਹੀਂ ਲੱਭਿਆ"
+
+msgid "ai_ib_no_repositories"
+msgstr "ਵਰਤੋਂ ਵਿੱਚ ਕੋਈ ਕੈਟਾਲਾਗ ਨਹੀਂ"
+
+msgid "ai_ib_search_complete"
+msgstr "ਖੋਜ ਪੂਰੀ ਹੋਈ"
+
+msgid "ai_ib_unable_cancel"
+msgstr "ਰੱਦ ਕਰਨ ਲਈ ਅਸਮਰੱਥ।\nਉਡੀਕੋ ਜੀ।"
+
+msgid "ai_ib_unable_edit"
+msgstr "Unable to edit catalog"
+
+msgid "ai_li_install"
+msgstr "ਡਾਊਨਲੋਡ"
+
+msgid "ai_li_no_applications_available"
+msgstr "(ਕੋਈ ਐਪਲੀਕੇਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(ਕੋਈ ਐਪਲੀਕੇਸ਼ਨ ਇੰਸਟਾਲ ਨਹੀਂ)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "ਲਾਗ"
+
+msgid "ai_li_uninstall"
+msgstr "ਅਣ-ਇੰਸਟਾਲ"
+
+msgid "ai_li_update"
+msgstr "ਅੱਪਡੇਟ"
+
+msgid "ai_me_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "ai_me_package_install_file"
+msgstr "ਫਾਇਲ ਤੋਂ ਇੰਸਟਾਲ"
+
+msgid "ai_me_refresh"
+msgstr "ਤਾਜ਼ਾ ਕਰੋ"
+
+msgid "ai_me_search"
+msgstr "ਖੋਜ"
+
+msgid "ai_me_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "ai_me_tools_log"
+msgstr "ਲਾਗ"
+
+msgid "ai_me_tools_repository"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਕੈਟਾਲਾਗ"
+
+msgid "ai_me_tools_restore"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕਰੋ"
+
+msgid "ai_me_update_all"
+msgstr "ਸਭ ਅੱਪਡੇਟ ਕਰੋ"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Downloading '%s' failed. Try again?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "The application you are about to install is not provided by Nokia. Applications from untrusted sources may include malware that can cause financial damage, access data stored on the device or otherwise harm the device. The application may also be subject to third-party rights and license terms.\nInstallation will be at your own risk."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Some of the applications you are about to install are not provided by Nokia. Applications from untrusted sources may include malware that can cause financial damage, access data stored on the device, or otherwise harm the device. The applications may also be subject to third-party rights and license terms.\nInstallation will be at your own risk."
+
+msgid "ai_nc_remove_repository"
+msgstr "Delete catalog?\nApplication packages offered by this catalog will no longer be available for installation and upgrades."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "ਸਭ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤਿਆਰ"
+
+msgid "ai_ni_all_installed"
+msgstr "ਸਭ ਐਪਲੀਕੇਸ਼ਨਾਂ ਪਹਿਲਾਂ ਇੰਸਟਾਲ ਹਨ"
+
+msgid "ai_ni_bd_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "ai_ni_continue_install"
+msgstr "ਇੰਸਟਾਲ ਕਰਨਾ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"
+
+msgid "ai_ni_device_restart"
+msgstr "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਠੀਕ ਤਰ੍ਹਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਜੰਤਰ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ। ਉਡੀਕੋ ਜੀ, ਰੋਕਣ ਨਾਲ ਜੰਤਰ ਨੂੰ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।"
+
+msgid "ai_ni_device_restart_long"
+msgstr "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਠੀਕ ਤਰ੍ਹਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਜੰਤਰ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ। ਉਡੀਕੋ ਜੀ, ਰੋਕਣ ਨਾਲ ਜੰਤਰ ਨੂੰ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।"
+
+msgid "ai_ni_error_battery_empty"
+msgstr "ਮਈਮੋ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਬੈਟਰੀ ਊਰਜਾ ਨਹੀਂ ਹੈ।\nਚਾਰਜ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ।\nਕੈਟਾਲਾਗ ਮੌਜੂਦਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ।"
+
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ।"
+
+msgid "ai_ni_error_download_missing"
+msgstr "'%s' ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ।\nਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜ ਨਹੀਂ ਲੱਭਿਆ।"
+
+msgid "ai_ni_error_install_conflict"
+msgstr "'%s' ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਫੇਲ੍ਹ।\nਐਪਲੀਕੇਸ਼ਨ ਪੈਕੇਜਾਂ ਨਾਲ ਟਕਰਾ ਹੈ।"
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "Unable to install '%s'.\nInstallation file corrupted."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "Unable to install '%s'.\nIncompatible application package."
+
+msgid "ai_ni_error_install_missing"
+msgstr "Unable to install '%s'.\nSome application packages required for the installation are missing."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "'%s' ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "Unable to install '%s'.\nApplication package incompatible with current operating system."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' ਖੁੱਲ੍ਹੀ ਹੈ।\nਐਪਲੀਕੇਸ਼ਨ ਬੰਦ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "Unable to uninstall '%s'.\nSome application packages are needed by other applications."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "'%s' ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "Unable to update '%s'.\nConflicting application packages."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "Unable to update '%s'.\nUpdate file corrupted."
+
+msgid "ai_ni_error_update_failed"
+msgstr "'%s' ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "Unable to update '%s'.\nIncompatible application package."
+
+msgid "ai_ni_error_update_missing"
+msgstr "Unable to update '%s'.\nSome application packages required\nfor the update are missing."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "ਅੱਪਡੇਟ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਹੋ ਰਹੀ ਹੈ"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਕੀਤੀ ਗਈ। ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣੀ ਹੈ?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Not enough space in application install memory. Uninstall some applications to free enough space for this installation."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d ਐਪਲੀਕੇਸ਼ਨ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਕੀਤੀ ਗਈ।"
+msgstr[1] "%d ਐਪਲੀਕੇਸ਼ਨਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਗਈਆਂ।"
+
+msgid "ai_ni_operation_failed"
+msgstr "ਓਪਰੇਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ"
+
+msgid "ai_ni_operation_progress"
+msgstr "ਓਪਰੇਸ਼ਨ ਜਾਰੀ ਹੈ।\nਉਡੀਕੋ ਜੀ।"
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' ਪਹਿਲਾਂ ਹੀ ਇੰਸਟਾਲ ਹੈ।"
+
+msgid "ai_ni_software_update_installed"
+msgstr "ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਤਾਲ ਕੀਤੇ ਗਏ।"
+
+msgid "ai_ni_system_update_installed"
+msgstr "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਠੀਕ ਤਰ੍ਹਾਂ ਅੱਪਡੇਟ ਹੋਇਆ"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "ਕੈਟਾਲਾਗ ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' ਠੀਕ ਤਰ੍ਹਾਂ ਹਟਾਇਆ ਗਿਆ"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "Unable to refresh application list.\nUnable to access catalogs.\nCheck network connection.\nTry again?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਲਿਸਟ ਅਧੂਰੀ ਤਾਜ਼ਾ ਕੀਤੀ ਗਈ।\nਕੁਝ ਕੈਟਾਲਾਗ ਉਪਲੱਬਧ ਨਹੀਂ ਹਨ।\nਕੈਟਾਲਾਗ ਵੇਰਵੇ ਲਈ ਚੈੱਕ ਕਰੋ ਜੀ।"
+
+msgid "ai_ni_updates_restart"
+msgstr "ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਹੋ ਚੁੱਕੇ ਹਨ। ਜੰਤਰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ।"
+
+msgid "ai_nw_checking_updates"
+msgstr "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਉਡੀਕੋ ਜੀ।"
+
+msgid "ai_nw_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_nw_downloading"
+msgstr "%s ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_nw_installing"
+msgstr "'%s' ਨੂੰ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_nw_preparing_installation"
+msgstr "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਉਡੀਕੋ ਜੀ।"
+
+msgid "ai_nw_searching"
+msgstr "ਖੋਜ ਜਾਰੀ ਹੈ"
+
+msgid "ai_nw_uninstalling"
+msgstr "'%s' ਨੂੰ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_nw_updating"
+msgstr "'%s' %s ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_pb_progress"
+msgstr "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_sb_app_push_desc"
+msgstr "ਨਵਾਂ ਸਾਫਟਵੇਅਰ ਰੀਲਿਜ਼"
+
+msgid "ai_sb_app_push_link"
+msgstr "ਡਾਊਨਲੋਡ"
+
+msgid "ai_sb_app_push_no"
+msgstr "ਅਣਡਿੱਠਾ"
+
+msgid "ai_sb_update_am"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+msgid "ai_sb_update_description"
+msgstr "ਨਵੇਂ ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ ਹਨ"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "ਨੋਕੀਆ ਸਾਫਟਵੇਅਰ (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "ਮਈਮੋ ਅੱਪਡੇਟ"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "ਸੁਤੰਤਰ ਧਿਰ ਅੱਪਡੇਟ (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "ਕੈਟਾਲਾਗ ਸ਼ਾਮਲ"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "ਭਾਗ"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "ਡਿਸਟਰੀਬਿਊਸ਼ਨ"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "ਕੈਟਾਲਾਗ ਨਾਂ"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "ਵੈੱਬ ਐਡਰੈੱਸ"
+
+msgid "ai_ti_confirm_install"
+msgstr "ਇੰਸਟਾਲ ਕਰੋ"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "ਅਣ-ਇੰਸਟਾਲ"
+
+msgid "ai_ti_confirm_update"
+msgstr "ਅੱਪਡੇਟ"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "ਮੈਂ ਸਮਝ ਗਿਆ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰਦਾ ਹਾਂ"
+
+msgid "ai_ti_details"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵਾ"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "ਸੰਖੇਪ"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "ਨਿਰਭਰਤਾ"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "ਵੇਰਵਾ"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "ਸਮੱਸਿਆਵਾਂ"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "ਅਣ-ਇੰਸਟਾਲ ਜਾਰੀ"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "ਅੱਪਡੇਟ ਜਾਰੀ"
+
+msgid "ai_ti_edit_repository"
+msgstr "ਕੈਟਾਲਾਗ ਵੇਰਵਾ"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "ਮੈਂ ਸਹਿਮਤ ਹਾਂ"
+
+msgid "ai_ti_failed_repositories"
+msgstr "ਕੈਟਾਲਾਗ ਫੇਲ੍ਹ ਹੋਏ"
+
+msgid "ai_ti_install_apps"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਇੰਸਟਾਲ"
+
+msgid "ai_ti_license_agreement"
+msgstr "ਲਾਈਸੈਂਸ ਇਕਰਾਰਨਾਮਾ"
+
+msgid "ai_ti_log"
+msgstr "ਲਾਗ"
+
+msgid "ai_ti_new_repository"
+msgstr "ਨਵਾਂ ਕੈਟਾਲਾਗ"
+
+msgid "ai_ti_operating_system_update"
+msgstr "ਮਈਮੋ ਅੱਪਡੇਟ"
+
+msgid "ai_ti_repository"
+msgstr "ਕੈਟਾਲਾਗ"
+
+msgid "ai_ti_save_log"
+msgstr "ਲਾਗ ਸੰਭਾਲੋ"
+
+msgid "ai_ti_search"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਖੋਜ"
+
+msgid "ai_ti_select_package"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ"
+
+msgid "ai_va_details_available_version"
+msgstr "ਉਪਲੱਬਧ ਵਰਜਨ:"
+
+msgid "ai_va_details_catalogue"
+msgstr "ਕੈਟਾਲਾਗ:"
+
+msgid "ai_va_details_download_size"
+msgstr "ਡਾਊਨਲੋਡ ਆਕਾਰ:"
+
+msgid "ai_va_details_install_frees"
+msgstr "'%1$s' ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ %2$s ਜੰਤਰ ਮੈਮੋਰੀ ਖਾਲੀ ਹੋਵੇਗੀ।"
+
+msgid "ai_va_details_install_requires"
+msgstr "'%1$s'  ਇੰਸਟਾਲ ਕਰਨ ਲਈ %2$s ਜੰਤਰ ਮੈਮੋਰੀ ਲੱਗੇਗੀ।"
+
+msgid "ai_va_details_installed_version"
+msgstr "ਇੰਸਟਾਲ ਹੋਇਆ ਵਰਜਨ:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "ਆਕਾਰ:"
+
+msgid "ai_va_details_status_broken"
+msgstr "ਖਰਾਬ"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "ਖਰਾਬ ਅਤੇ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋ ਸਕਦਾ"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "ਖਰਾਬ, ਪਰ ਅੱਪਡੇਟ ਹੋਣ ਯੋਗ"
+
+msgid "ai_va_details_status_installable"
+msgstr "ਇੰਸਟਾਲ ਯੋਗ"
+
+msgid "ai_va_details_status_installed"
+msgstr "ਇੰਸਟਾਲ ਹੈ"
+
+msgid "ai_va_details_status_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "ਇੰਸਟਾਲਯੋਗ ਨਹੀਂ"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ, ਪਰ ਇੰਸਟਾਲ ਯੋਗ ਨਹੀਂ"
+
+msgid "ai_va_details_status_updateable"
+msgstr "ਅੱਪਡੇਟਯੋਗ"
+
+msgid "ai_va_details_unable_install"
+msgstr "'%s' ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "'%s' ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_va_details_unable_update"
+msgstr "'%s' ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "'%1$s' ਨੂੰ ਹਟਾਉਣ ਨਾਲ %2$s ਜੰਤਰ ਮੈਮੋਰੀ ਖਾਲੀ ਹੋਵੇਗੀ।"
+
+msgid "ai_va_details_update_frees"
+msgstr "'%1$s' ਅੱਪਡੇਟ ਕਰਨ ਨਾਲ ਜੰਤਰ ਮੈਮੋਰੀ ਵਿੱਚ %2$s ਖਾਲੀ ਹੋਵੇਗੀ।"
+
+msgid "ai_va_details_update_requires"
+msgstr "'%1$s' ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਜੰਤਰ ਮੈਮੋਰੀ ਵਿੱਚੋਂ %2$s ਥਾਂ ਚਾਹੀਦੀ ਹੈ"
+
+msgid "ai_va_search_name"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਨਾਂ"
+
+msgid "ai_va_search_name_description"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਨਾਂ ਅਤੇ ਵੇਰਵਾ"
+
+msgid "ai_va_sort_name"
+msgstr "ਨਾਂ"
+
+msgid "ai_va_sort_size"
+msgstr "ਆਕਾਰ"
+
+msgid "apma_fi_by_provider"
+msgstr "%s ਵਲੋਂ"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "ਨਵਾਂ ਰੀਲਿਜ਼"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "ਨਵਾਂ ਅੱਪਡੇਟ"
