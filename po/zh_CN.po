@@ -1,0 +1,634 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:33+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ai_ap_application_installer"
+msgstr "程序管理器"
+
+msgid "ai_ap_name"
+msgstr "程序管理器"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "详情"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "确定"
+
+msgid "ai_bd_confirm_details"
+msgstr "详情"
+
+msgid "ai_bd_confirm_ok"
+msgstr "确定"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "卸载"
+
+msgid "ai_bd_create_backup"
+msgstr "创建备份"
+
+msgid "ai_bd_license_ok"
+msgstr "确定"
+
+msgid "ai_bd_log_clear"
+msgstr "清空"
+
+msgid "ai_bd_log_save_as"
+msgstr "另存为"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "确定"
+
+msgid "ai_bd_repository_delete"
+msgstr "删除"
+
+msgid "ai_bd_repository_new"
+msgstr "新建"
+
+msgid "ai_bd_search_ok"
+msgstr "确定"
+
+msgid "ai_category_all"
+msgstr "全部"
+
+msgid "ai_category_desktop"
+msgstr "桌面"
+
+msgid "ai_category_development"
+msgstr "开发"
+
+msgid "ai_category_education"
+msgstr "教育"
+
+msgid "ai_category_games"
+msgstr "游戏"
+
+msgid "ai_category_graphics"
+msgstr "图形"
+
+msgid "ai_category_multimedia"
+msgstr "多媒体"
+
+msgid "ai_category_navigation"
+msgstr "导航"
+
+msgid "ai_category_network"
+msgstr "网络"
+
+msgid "ai_category_office"
+msgstr "办公"
+
+msgid "ai_category_other"
+msgstr "其他"
+
+msgid "ai_category_science"
+msgstr "科学"
+
+msgid "ai_category_sharing_plugins"
+msgstr "插件"
+
+msgid "ai_category_system"
+msgstr "系统"
+
+msgid "ai_category_utilities"
+msgstr "工具"
+
+msgid "ai_cb_restarting_device"
+msgstr "正在重启"
+
+msgid "ai_fi_details_category"
+msgstr "类别:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "维护者:"
+
+msgid "ai_fi_details_package"
+msgstr "程序:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "与程序冲突的包:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "将要安装的程序包:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "缺少的程序包:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "程序包中包含的内容:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "将要删除的程序包:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "将要更新的程序包:"
+
+msgid "ai_fi_details_status"
+msgstr "状态:"
+
+msgid "ai_fi_details_summary"
+msgstr "综述:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "组件"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "禁用"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "发布"
+
+msgid "ai_fi_new_repository_name"
+msgstr "目录名称"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "网址"
+
+msgid "ai_fi_search_area"
+msgstr "搜索范围"
+
+msgid "ai_fi_search_words"
+msgstr "搜索关键词"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "增加新目录?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "目录已安装却被禁用.\n立即启用?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "从本软件源安装并将其加入目录"
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "从本目录安装的程序不是Nokia提供的备的恶意程序."
+
+msgid "ai_ia_details_use_pc"
+msgstr "系统更新需要你在电脑上安装Nokia软件更新程序.\n把设备通过USB数据线连接你的电脑更新操作."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "刷新失败"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "更新到该版本的操作系统需要你在电脑上使用Nokia软件更新程序.\n把设备通过USB数据线连接你的电脑你最好先做一次备份"
+
+msgid "ai_ia_osupdate_restart"
+msgstr "安装完毕后将要重启并且关闭全部程序.\n请不要在这段时间内使用设备.\n建议立即创建备份."
+
+msgid "ai_ia_restore"
+msgstr "备份中找到如下程序列表.\n立即下载并安装?"
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(没有程序)"
+
+msgid "ai_ia_storage"
+msgstr "内存占用: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "请先输入目录名"
+
+msgid "ai_ib_enter_text"
+msgstr "输入需要检索的关键词"
+
+msgid "ai_ib_enter_web_address"
+msgstr "请先输入网址"
+
+msgid "ai_ib_no_matches"
+msgstr "未找到"
+
+msgid "ai_ib_no_repositories"
+msgstr "没有正在使用的目录"
+
+msgid "ai_ib_search_complete"
+msgstr "搜索完毕"
+
+msgid "ai_ib_unable_cancel"
+msgstr "无法取消.\n请稍候."
+
+msgid "ai_ib_unable_edit"
+msgstr "无法编辑目录"
+
+msgid "ai_li_install"
+msgstr "查看可安装程序"
+
+msgid "ai_li_no_applications_available"
+msgstr "(无程序)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(无安装程序)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(无更新)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "日志"
+
+msgid "ai_li_uninstall"
+msgstr "查看已安装程序"
+
+msgid "ai_li_update"
+msgstr "检查更新"
+
+msgid "ai_me_details"
+msgstr "详情"
+
+msgid "ai_me_package_install_file"
+msgstr "从文件安装"
+
+msgid "ai_me_refresh"
+msgstr "更新"
+
+msgid "ai_me_search"
+msgstr "搜索"
+
+msgid "ai_me_settings"
+msgstr "设置"
+
+msgid "ai_me_tools_log"
+msgstr "日志"
+
+msgid "ai_me_tools_repository"
+msgstr "程序目录"
+
+msgid "ai_me_tools_restore"
+msgstr "还原程序"
+
+msgid "ai_me_update_all"
+msgstr "更新全部"
+
+msgid "ai_nc_error_download_failed"
+msgstr "下载 '%s' 失败. 再试一次?"
+
+msgid "ai_nc_install"
+msgstr "安装程序?\n%1$s%3$s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "注意：您將要安裝的应用程序並不是由诺基亚提供。使用来历不明的软件可能包含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设备。此应用程序也可能受到第三方的版权和授权条款约束\n您需要承担应用程序安装后的风险。"
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "注意：您將要安裝的应用程序並不是由诺基亚提供。使用来历不明的软件可能包含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设备。此应用程序也可能受到第三方的版权和授权条款约束\n您需要承担应用程序安装后的风险。"
+
+msgid "ai_nc_remove_repository"
+msgstr "删除目录?\n来自于此目录的程序包列表将被清空."
+
+msgid "ai_nc_uninstall"
+msgstr "卸载程序?\n%1$s%3$s"
+
+msgid "ai_nc_update"
+msgstr "安装更新?\n%s%s"
+
+msgid "ai_nc_update_all"
+msgstr "安装全部更新?"
+
+msgid "ai_ni_all_installed"
+msgstr "全部程序已经安装"
+
+msgid "ai_ni_bd_details"
+msgstr "详情"
+
+msgid "ai_ni_continue_install"
+msgstr "继续安装?"
+
+msgid "ai_ni_device_restart"
+msgstr "系统更新完毕.\n将要重启."
+
+msgid "ai_ni_device_restart_long"
+msgstr "系统更新成功. 设备将要重新启动. 请勿中断该过程,否则可能损坏设备."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "电池电量不足请开始充电后继续."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "无法安装.\n目录与当前软件不兼容."
+
+msgid "ai_ni_error_download_failed"
+msgstr "下载 %s 失败"
+
+msgid "ai_ni_error_download_missing"
+msgstr "无法下载程序包未找到."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "无法安装程序包冲突."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "无法安装安装文件已损坏."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "无法安装程序包不兼容."
+
+msgid "ai_ni_error_install_missing"
+msgstr "无法安装安装所需要的某些程序包不存在."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "无法安装 %s"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "无法安装程序与现有软件不兼容."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "%s请关闭程序后再试."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "无法卸载某些程序包正在被其他程序使用."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "无法卸载 %s"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "无法更新程序包冲突."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "无法更新更新文件已损坏."
+
+msgid "ai_ni_error_update_failed"
+msgstr "无法更新 %s"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "无法更新程序包不兼容."
+
+msgid "ai_ni_error_update_missing"
+msgstr "无法更新更新所需要的某些程序包不存在."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "正在完成更新"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "%s 安装成功. 立即运行?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "没有足够的安装空间,请卸载一些程序以释放空间再安装本程序."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d 程序安装成功"
+
+msgid "ai_ni_operation_failed"
+msgstr "操作失败"
+
+msgid "ai_ni_operation_progress"
+msgstr "操作正在进行.\n请稍候."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' 已经安装"
+
+msgid "ai_ni_software_update_installed"
+msgstr "程序更新安装完成"
+
+msgid "ai_ni_system_update_installed"
+msgstr "系统更新安装完成"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "无法删除目录"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' 卸载成功"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "无法刷新程序列表.\n无法访问目录.\n请检查网络连接.\n是否重试?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "部分程序列表已更新.\n某些目录不可用.\n请检查目录详情."
+
+msgid "ai_ni_updates_restart"
+msgstr "软件更新完成.需要重启"
+
+msgid "ai_nw_checking_updates"
+msgstr "正在检查更新,请稍候"
+
+msgid "ai_nw_connecting"
+msgstr "正在连接"
+
+msgid "ai_nw_downloading"
+msgstr "正在下载 %s"
+
+msgid "ai_nw_installing"
+msgstr "正在安装 '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "正在准备安装,请稍候"
+
+msgid "ai_nw_searching"
+msgstr "正在搜索"
+
+msgid "ai_nw_uninstalling"
+msgstr "正在卸载 '%s'"
+
+msgid "ai_nw_updating"
+msgstr "正在安装 '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "正在载入"
+
+msgid "ai_sb_app_push_desc"
+msgstr "新软件发布:"
+
+msgid "ai_sb_app_push_link"
+msgstr "在用户网站上阅读更多"
+
+msgid "ai_sb_app_push_no"
+msgstr "忽略"
+
+msgid "ai_sb_update_am"
+msgstr "更新"
+
+msgid "ai_sb_update_description"
+msgstr "新的可用软件更新:"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Ovi 软件 (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "操作系统"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "第三方软件 (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "添加目录"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "组件:"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "发布:"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "名称:"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "网址:"
+
+msgid "ai_ti_confirm_install"
+msgstr "安装"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "卸载"
+
+msgid "ai_ti_confirm_update"
+msgstr "更新"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "我已阅读并同意."
+
+msgid "ai_ti_details"
+msgstr "程序详情"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "综述"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "依赖"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "说明"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "安装"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "问题"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "卸载"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "更新"
+
+msgid "ai_ti_edit_repository"
+msgstr "目录详情"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "我同意"
+
+msgid "ai_ti_failed_repositories"
+msgstr "失败的目录"
+
+msgid "ai_ti_install_apps"
+msgstr "安装程序"
+
+msgid "ai_ti_license_agreement"
+msgstr "许可协议"
+
+msgid "ai_ti_log"
+msgstr "日志"
+
+msgid "ai_ti_new_repository"
+msgstr "创建目录"
+
+msgid "ai_ti_operating_system_update"
+msgstr "操作系统更新"
+
+msgid "ai_ti_repository"
+msgstr "目录"
+
+msgid "ai_ti_save_log"
+msgstr "保存日志"
+
+msgid "ai_ti_search"
+msgstr "搜索程序"
+
+msgid "ai_ti_select_package"
+msgstr "选择程序"
+
+msgid "ai_va_details_available_version"
+msgstr "可用版本:"
+
+msgid "ai_va_details_catalogue"
+msgstr "目录:"
+
+msgid "ai_va_details_download_size"
+msgstr "下载大小:"
+
+msgid "ai_va_details_install_frees"
+msgstr "安装 %1$s 将会释放 %2$s 空间"
+
+msgid "ai_va_details_install_requires"
+msgstr "安装 %1$s 将会占用 %2$s 空间"
+
+msgid "ai_va_details_installed_version"
+msgstr "已安装版本:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "大小:"
+
+msgid "ai_va_details_status_broken"
+msgstr "损坏"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "损坏并且不可更新"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "损坏但可更新"
+
+msgid "ai_va_details_status_installable"
+msgstr "可安装"
+
+msgid "ai_va_details_status_installed"
+msgstr "已安装"
+
+msgid "ai_va_details_status_not_available"
+msgstr "不可用"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "没有可安装的程序"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "可更新但不可安装"
+
+msgid "ai_va_details_status_updateable"
+msgstr "可更新"
+
+msgid "ai_va_details_unable_install"
+msgstr "无法安装 '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "无法卸载 '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "无法更新 '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "卸载 %1$s 将会释放 %2$s 空间"
+
+msgid "ai_va_details_update_frees"
+msgstr "更新 %1$s 将会释放 %2$s 空间"
+
+msgid "ai_va_details_update_requires"
+msgstr "更新 %1$s 将会占用 %2$s 空间"
+
+msgid "ai_va_search_name"
+msgstr "程序名称"
+
+msgid "ai_va_search_name_description"
+msgstr "程序名称和说明"
+
+msgid "ai_va_sort_name"
+msgstr "名称"
+
+msgid "ai_va_sort_size"
+msgstr "大小"
+
+msgid "apma_fi_by_provider"
+msgstr "由 %s 提供"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "新发布"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "新更新"
