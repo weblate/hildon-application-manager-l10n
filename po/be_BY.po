@@ -1,0 +1,636 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-04-14 09:00+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Кіраванне прыкладаннямі"
+
+msgid "ai_ap_name"
+msgstr "Прыкладанні"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Дэталі"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Дадаць"
+
+msgid "ai_bd_confirm_details"
+msgstr "Дэталі"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Працягнуць"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Выдаліць"
+
+msgid "ai_bd_create_backup"
+msgstr "Стварыць рэзервовую копію"
+
+msgid "ai_bd_license_ok"
+msgstr "Прыняць"
+
+msgid "ai_bd_log_clear"
+msgstr "Ачысціць"
+
+msgid "ai_bd_log_save_as"
+msgstr "Захаваць як"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Захаваць"
+
+msgid "ai_bd_repository_delete"
+msgstr "Выдаліць"
+
+msgid "ai_bd_repository_new"
+msgstr "Новы"
+
+msgid "ai_bd_search_ok"
+msgstr "Шукаць"
+
+msgid "ai_category_all"
+msgstr "Усе"
+
+msgid "ai_category_desktop"
+msgstr "Працоўны стол"
+
+msgid "ai_category_development"
+msgstr "Распрацоўка"
+
+msgid "ai_category_education"
+msgstr "Адукацыя"
+
+msgid "ai_category_games"
+msgstr "Гульні"
+
+msgid "ai_category_graphics"
+msgstr "Графіка"
+
+msgid "ai_category_multimedia"
+msgstr "Мультымедыя"
+
+msgid "ai_category_navigation"
+msgstr "Навігацыя"
+
+msgid "ai_category_network"
+msgstr "Сеціва"
+
+msgid "ai_category_office"
+msgstr "Офіс"
+
+msgid "ai_category_other"
+msgstr "Іншае"
+
+msgid "ai_category_science"
+msgstr "Навука"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Падзяліцца"
+
+msgid "ai_category_system"
+msgstr "Сыстэма"
+
+msgid "ai_category_utilities"
+msgstr "Інструменты"
+
+msgid "ai_cb_restarting_device"
+msgstr "Перазапусціць дэвайс"
+
+msgid "ai_fi_details_category"
+msgstr "Катэгорыя:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Дагляднік:"
+
+msgid "ai_fi_details_package"
+msgstr "Прыкладанне:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Канфлікт з ужываннем пакункаў:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Пакункі прыкладання для ўсталёўкі:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Адсутнічаюць пакункі прыкладання:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Патрэбныя пакункі прыкладання:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Пакункі прыкладання, якія будуць выдаленыя:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Пакункі прыкладання, якія будуць апгрэйдаваныя:"
+
+msgid "ai_fi_details_status"
+msgstr "Стан:"
+
+msgid "ai_fi_details_summary"
+msgstr "Агулам:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Кампаненты"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Адключаны"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Дыстрыбуцыя"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Назва каталога"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Сеціўны адрас"
+
+msgid "ai_fi_search_area"
+msgstr "Шукаць у"
+
+msgid "ai_fi_search_words"
+msgstr "Тэкст для пошуку"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "Дадаць новы каталог?\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "Каталог ужо ўсталяваны, але адключаны.\nЗадзейнічаць зараз?"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Для ўсталёўкі з гэтай крыніцы будзе  дададзены каталог."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Прыкладанні, усталяваныя ў гэтым каталогу не прадугледжаныя Nokia і могуць утрымоўваць шкодны праграмны код, які можа выклікаць фінансавую шкоду, даць доступ да інфармацыі на дэвайсе або можа пашкодзіць яго."
+
+msgid "ai_ia_details_use_pc"
+msgstr "Гэтае абнаўленне Maemo патрабуе для яго ўсталёўкі Nokia PC Suite на вашым камп'ютары.\nЗлучыце дэвайс з PC праз USB-кабель і адчыніце Аднаўленне праграмнага забяспечання Nokia. Прыкладанне правядзе вас праз крокі, неабходныя для абнаўлення Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "не ўдалося абнавіць"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "Для абнаўлення да гэтай версіі аперацыйнай сістэмы неабходна выкарыстоўваць Nokia PC Suite на вашым камп'ютары.\nЗлучыце дэвайс з PC праз USB-кабель і запусціце прыкладанне."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "Усе прыкладанні будуць зачыненыя падчас усталёўкі, і ўсе функцыі будуць адключаныя (у тым ліку телефанаванне службам экстранай дапамогі).\nДэвайс будзе перазагружаны.\nНе карыстайцеся ім ў гэты час.\nРэкамендуецца стварэнне рэзервовай копіі."
+
+msgid "ai_ia_restore"
+msgstr "Архіў складаецца з наступныя прыкладанні.\nАбярыце, якія прыкладанні павінны быць загружаныя і ўсталяваныя."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(няма прыкладанняў)"
+
+msgid "ai_ia_storage"
+msgstr "Неабходна вольнай прасторы: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Спачатку ўвядзіце імя каталога"
+
+msgid "ai_ib_enter_text"
+msgstr "Увядзіце тэкст для пошуку"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Спачатку ўвядзіце Сеціўны адрас"
+
+msgid "ai_ib_no_matches"
+msgstr "Супадзенняў не знойдзена"
+
+msgid "ai_ib_no_repositories"
+msgstr "Няма выкарыстоўваемых каталогаў"
+
+msgid "ai_ib_search_complete"
+msgstr "Пошук завершаны"
+
+msgid "ai_ib_unable_cancel"
+msgstr "Немагчыма скасаваць.\nКалі ласка, чакайце."
+
+msgid "ai_ib_unable_edit"
+msgstr "Немагчыма рэдагаваць каталог"
+
+msgid "ai_li_install"
+msgstr "Спампаваць"
+
+msgid "ai_li_no_applications_available"
+msgstr "(няма даступных прыкладанняў)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(няма ўсталяваных прыкладанняў)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(няма даступных абнаўленняў)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Часопіс"
+
+msgid "ai_li_uninstall"
+msgstr "Выдаліць"
+
+msgid "ai_li_update"
+msgstr "Абнавіць"
+
+msgid "ai_me_details"
+msgstr "Падрабязнасці"
+
+msgid "ai_me_package_install_file"
+msgstr "Усталяваць з файла"
+
+msgid "ai_me_refresh"
+msgstr "Абнавіць"
+
+msgid "ai_me_search"
+msgstr "Шукаць"
+
+msgid "ai_me_settings"
+msgstr "Налады"
+
+msgid "ai_me_tools_log"
+msgstr "Часопіс"
+
+msgid "ai_me_tools_repository"
+msgstr "Каталогі прыкладанняў"
+
+msgid "ai_me_tools_restore"
+msgstr "Аднавіць прыкладанні"
+
+msgid "ai_me_update_all"
+msgstr "Абнавіць усё"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Няўдалая запампоўка '%s'. Паспрабаваць ізноў?"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "Прыкладанне, якое вы збіраецеся ўсталяваць не прадугледжана Nokia. Прыкладанні з ненадзейных крыніц могуць утрымоўваць шкоднасныя праграмы, якія могуць прывесці да фінансавых страт, доступ да дадзеных, якія захоўваюцца на дэвайсе, або да іншай шкоды дэвайсу. Дадатак можа таксама залежаць ад правоў трэціх асоб і ўмоў ліцэнзіі.\nУсталёўка будзе на свой страх і рызыку."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Некаторыя з прыкладанняў, якія вы збіраецеся ўсталёўваць не прадугледжаныя Nokia. Прыкладанні з ненадзейных крыніц могуць утрымоўваць шкоднасныя праграмы, якія могуць прывесці да фінансавых страт, доступ да дадзеных, якія захоўваюцца на дэвайсе, або іншую шкоду для дэвайса. Заяўкі таксама могуць быць прадметам для правоў трэціх асоб і ўмоў ліцэнзіі.\nУстаноўка будзе на свой страх і рызыка."
+
+msgid "ai_nc_remove_repository"
+msgstr "Выдаліць каталог?\nПакункі прыкладанняў, прапанаваных у гэтым каталогу больш не будуць даступныя для ўсталёўкі і абнаўлення."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "Абнаўленні гатовыя да ўсталёўкі"
+
+msgid "ai_ni_all_installed"
+msgstr "Усе прыкладанні ўжо ўсталяваныя"
+
+msgid "ai_ni_bd_details"
+msgstr "Падрабязнасці"
+
+msgid "ai_ni_continue_install"
+msgstr "Працягнуць усталёўку?"
+
+msgid "ai_ni_device_restart"
+msgstr "Аперацыйная сістэма паспяхова абноўленая. Дэвайс будзе перазагружаны. Калі ласка, пачакайце, так як перарыванні могуць пашкодзіць дэвайсу."
+
+msgid "ai_ni_device_restart_long"
+msgstr "Аперацыйная сістэма паспяхова абноўленая. Дэвайс будзе перазагружаны. Калі ласка, пачакайце, так як перарыванні могуць пашкодзіць дэвайсу."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "Не хапае зарада батарэі для ўсталёўкі абнаўлення Maemo.\nПачніце зарадку і паўтарыце ізноў."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "Немагчыма ўсталяваць.\nКаталог несумяшчальны з цяперашняй аперацыйнай сістэмай."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Не ўдалося спампаваць '%s'"
+
+msgid "ai_ni_error_download_missing"
+msgstr "Немагчыма спампаваць '%s'.\nПакунак прыкладання не знойдзены."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "Немагчыма ўсталяваць '%s'.\nКанфліктуючыя пакункі прыкладанняў."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "Немагчыма ўсталяваць '%s'.\nУсталявальны файл пашкоджаны."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "Немагчыма ўсталяваць '%s'.\nНесумяшчальны пакунак прыкладання."
+
+msgid "ai_ni_error_install_missing"
+msgstr "Немагчыма ўсталяваць '%s'.\nНекаторыя пакункі прыкладання, неабходныя для ўсталёўкі, адсутнічаюць."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Немагчыма ўсталяваць '%s'."
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "Немагчыма ўсталяваць '%s'.\nПакунак прыкладання несумяшчальнаы цяперашняй аперацыйнай сістэмай."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "'%s' Адчынены.\nЗачыніце прыкладанне і паспрабуйце зноў."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "Немагчыма выдаліць '%s'.\nНекаторыя пакункі прыкладання неабходныя іншым прыкладанням."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Немагчыма выдаліць '%s'."
+
+msgid "ai_ni_error_update_conflict"
+msgstr "Немагчыма абнавіць '%s'.\nКанфліктуючыя пакункі прыкладанняў."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "Немагчыма абнавіць '%s'.\nАднаўляльны файл пашкоджаны."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Немагчыма абнавіць '%s'."
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "Немагчыма абнавіць '%s'.\nНесумяшчальны пакунак прыкладання."
+
+msgid "ai_ni_error_update_missing"
+msgstr "Немагчыма абнавіць '%s'.\nНекаторыя пакункі прыкладання, неабходныя для абнаўлення, адсутнічаюць."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Завяршэнне ўсталёўкі абнаўленняў"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s' паспяхова ўсталяваны. Запусціць прыкладанне?"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Не хапае месца ў памяці для ўстаноўкі прыкладання. Выдаліце ​​некаторыя прыкладанні, каб вызваліць дастаткова месца для ўсталёўкі."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d прыкладанне паспяхова ўсталявана"
+msgstr[1] "%d  прыкладанні паспяхова ўсталяваныя"
+
+msgid "ai_ni_operation_failed"
+msgstr "Збой аперацыі"
+
+msgid "ai_ni_operation_progress"
+msgstr "Праца ў прагрэсе.\nКалі ласка, пачакайце."
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' ужо ўсталявана"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Абнаўленні праграмнага забеспячэння паспяхова ўсталяваныя"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Аперацыйная сістэма паспяхова абноўлена"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Немагчыма выдаліць каталог"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' паспяхова выдалена"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "Немагчыма абнавіць спіс прыкладанняў.\nНемагчыма атрымаць доступ да каталогаў.\nПраверце падлучэнне да сеткі.\nПаспрабаваць яшчэ раз?"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "Спіс прыкладанняў часткова абнаўляецца.\nНекаторыя каталогі недаступныя.\nПраверце ўласцівасці каталога."
+
+msgid "ai_ni_updates_restart"
+msgstr "Абнаўленні праграмнага забеспячэння паспяхова ўсталяваныя. Дэвайс будзе перазагружаны."
+
+msgid "ai_nw_checking_updates"
+msgstr "Праверка наяўнасці абнаўленняў, калі ласка, пачакайце"
+
+msgid "ai_nw_connecting"
+msgstr "Падлучэнне"
+
+msgid "ai_nw_downloading"
+msgstr "Запампоўка %s"
+
+msgid "ai_nw_installing"
+msgstr "Усталёўка '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Падрыхтоўка да ўсталёўкі, калі ласка, пачакайце"
+
+msgid "ai_nw_searching"
+msgstr "Пошук"
+
+msgid "ai_nw_uninstalling"
+msgstr "Выдаленне '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Абнаўленне '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Загрузка"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Новыя версіі праграмнага забеспячэння"
+
+msgid "ai_sb_app_push_link"
+msgstr "Запампаваць"
+
+msgid "ai_sb_app_push_no"
+msgstr "Ігнараваць"
+
+msgid "ai_sb_update_am"
+msgstr "Працягнуць"
+
+msgid "ai_sb_update_description"
+msgstr "Новае абнаўленне праграмнага забеспячэння"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Праграмнае забяспечанне Nokia (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Абнаўленне Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Праграмы іншых вытворцаў (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Дадаць каталог"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Кампаненты"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Дыстрыбуцыя"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Назва каталога"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Сеціўны адрас"
+
+msgid "ai_ti_confirm_install"
+msgstr "Усталяваць"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Выдаліць"
+
+msgid "ai_ti_confirm_update"
+msgstr "Абнавіць"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Я разумею і згодзен"
+
+msgid "ai_ti_details"
+msgstr "Уласцівасці прыкладання"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Асноўнае"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Залежнасці"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Апісанне"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Усталёўка"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Праблемы"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Выдаленне"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Абнаўленне"
+
+msgid "ai_ti_edit_repository"
+msgstr "Уласцівасці каталога"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Я згодзен"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Недаступныя каталогі"
+
+msgid "ai_ti_install_apps"
+msgstr "Усталяваць прыкладанні"
+
+msgid "ai_ti_license_agreement"
+msgstr "Ліцэнзійнае пагадненне"
+
+msgid "ai_ti_log"
+msgstr "Часопіс"
+
+msgid "ai_ti_new_repository"
+msgstr "Новы каталог"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Абнаўленне Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Каталогі"
+
+msgid "ai_ti_save_log"
+msgstr "Захаваць часопіс"
+
+msgid "ai_ti_search"
+msgstr "Шукаць прыкладанні"
+
+msgid "ai_ti_select_package"
+msgstr "Абраць прыкладанне"
+
+msgid "ai_va_details_available_version"
+msgstr "Даступная версія:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Каталог:"
+
+msgid "ai_va_details_download_size"
+msgstr "Памер запампоўкі:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Усталёўка '%1$s' вызваліць %2$s памяці дэвайса."
+
+msgid "ai_va_details_install_requires"
+msgstr "Усталёўка '%1$s' патрабуе %2$s памяці дэвайса."
+
+msgid "ai_va_details_installed_version"
+msgstr "Усталяваная версія:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Памер"
+
+msgid "ai_va_details_status_broken"
+msgstr "Пашкоджаны"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Пашкоджаны і неабнаўляемы"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Пашкоджаны, але абнаўляемы"
+
+msgid "ai_va_details_status_installable"
+msgstr "Усталёўваны"
+
+msgid "ai_va_details_status_installed"
+msgstr "Усталяваны"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Недаступны"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Неўсталёўваны"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Даступна абнаўленне, але неўсталёўванае"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Здольны да абнаўлення"
+
+msgid "ai_va_details_unable_install"
+msgstr "Немагчыма ўсталяваць '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Немагчыма выдаліць '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Немагчыма абнавіць '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Выдаленне '%1$s' вызваліць %2$s памяці дэвайса."
+
+msgid "ai_va_details_update_frees"
+msgstr "Абнаўленне '%1$s' вызваліць %2$s памяці дэвайса."
+
+msgid "ai_va_details_update_requires"
+msgstr "Абнаўленне '%1$s' патрабуе %2$s памяці дэвайса."
+
+msgid "ai_va_search_name"
+msgstr "Назва прыкладання"
+
+msgid "ai_va_search_name_description"
+msgstr "Назва прыкладання і апісанне"
+
+msgid "ai_va_sort_name"
+msgstr "Назва"
+
+msgid "ai_va_sort_size"
+msgstr "Памер"
+
+msgid "apma_fi_by_provider"
+msgstr "з %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Новыя версіі"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Новыя абнаўленні"
