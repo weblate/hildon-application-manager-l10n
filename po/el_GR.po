@@ -1,0 +1,635 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Διαχείριση εφαρμογών"
+
+msgid "ai_ap_name"
+msgstr "Εφαρμογές"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Λεπτομέρειες"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Προσθήκη"
+
+msgid "ai_bd_confirm_details"
+msgstr "Λεπτομέρειες"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Συνέχεια"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Κατάργηση"
+
+msgid "ai_bd_create_backup"
+msgstr "Δημιουργία αντιγράφων ασφαλείας"
+
+msgid "ai_bd_license_ok"
+msgstr "Αποδοχή"
+
+msgid "ai_bd_log_clear"
+msgstr "Καθαρισμός"
+
+msgid "ai_bd_log_save_as"
+msgstr "Αποθήκευση"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Αποθήκευση"
+
+msgid "ai_bd_repository_delete"
+msgstr "Διαγραφή"
+
+msgid "ai_bd_repository_new"
+msgstr "Νέο"
+
+msgid "ai_bd_search_ok"
+msgstr "Αναζήτηση"
+
+msgid "ai_category_all"
+msgstr "Όλα"
+
+msgid "ai_category_desktop"
+msgstr "Επιφάνεια Εργασίας"
+
+msgid "ai_category_development"
+msgstr "Προγραμματισμός"
+
+msgid "ai_category_education"
+msgstr "Εκπαίδευση"
+
+msgid "ai_category_games"
+msgstr "Παιχνίδια"
+
+msgid "ai_category_graphics"
+msgstr "Γραφικά"
+
+msgid "ai_category_multimedia"
+msgstr "Πολυμέσα"
+
+msgid "ai_category_navigation"
+msgstr "Τοποθεσία και πλοήγηση"
+
+msgid "ai_category_network"
+msgstr "Δίκτυο"
+
+msgid "ai_category_office"
+msgstr "Γραφείο"
+
+msgid "ai_category_other"
+msgstr "Άλλα"
+
+msgid "ai_category_science"
+msgstr "Επιστήμη"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Κοινή χρήση πρόσθετων"
+
+msgid "ai_category_system"
+msgstr "Σύστημα"
+
+msgid "ai_category_utilities"
+msgstr "Εργαλεία"
+
+msgid "ai_cb_restarting_device"
+msgstr "Επανεκκίνηση της συσκευής"
+
+msgid "ai_fi_details_category"
+msgstr "Κατηγορία:"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Συντηρητής:"
+
+msgid "ai_fi_details_package"
+msgstr "Εφαρμογή:"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Σύγκρουση με πακέτα εφαρμογών:"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Πακέτα εφαρμογών για εγκατάσταση:"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Πακέτα εφαρμογών που λείπουν:"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Απαιτούνται από πακέτα εφαρμογών:"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Πακέτα εφαρμογών για αφαίρεση:"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Πακέτα εφαρμογών για αναβάθμιση:"
+
+msgid "ai_fi_details_status"
+msgstr "Κατάσταση:"
+
+msgid "ai_fi_details_summary"
+msgstr "Σύνοψη:"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Περιεχόμενα"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Απενεργοποιημένο"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Διανομή"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Όνομα καταλόγου"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Διεύθυνση διαδικτύου"
+
+msgid "ai_fi_search_area"
+msgstr "Αναζήτηση περιοχής"
+
+msgid "ai_fi_search_words"
+msgstr "Αναζήτηση λέξεων"
+
+msgid "ai_fib_web_address"
+msgstr "http://tableteer.nokia.com"
+
+msgid "ai_ia_add_catalogue_add"
+msgstr "Προσθήκη νέου καταλόγου;\n'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr "Ο κατάλογος έχει ήδη εγκατασταθεί αλλά είναι απενεργοποιημένος\nΕνεργοποίηση τώρα;"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Για να εγκαταστήσετε από αυτή την πηγή, προσθέστε τον κατάλογο αυτό."
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr "Η εγκατάσταση λογισμικού από τον κατάλογο αυτό δεν παρέχεται από τη Nokia και μπορεί να περιλαμβάνουν κακόβουλα προγράμματα που μπορούν να εχουν πρόσβαση στα δεδομένα που αποθηκεύονται στη συσκευή, να προκαλέσουν οικονομική ζημιά ή βλάβη στη συσκευή."
+
+msgid "ai_ia_details_use_pc"
+msgstr "Αυτή η ενημερωμένη έκδοση Maemo απαιτεί την εφαρμογή ενημέρωσης λογισμικού της Nokia στον Η/Υ σας για εγκατάσταση.\nΣυνδέστε τη συσκευή με τον Η/Υ μέσω καλωδίου USB και ανοίξτε την εφαρμογή ενημέρωσης λογισμικού της Nokia. Η εφαρμογή θα σας καθοδηγήσει για το υπόλοιπο της ενημερωμένης έκδοσης Maemo."
+
+msgid "ai_ia_failed_catalogue"
+msgstr "Αποτυχία ανανέωσης"
+
+msgid "ai_ia_osupdate_pc"
+msgstr "Για να ενημερώσετε τη συσκευή σας σε αυτήν την έκδοση του λειτουργικού συστήματος θα πρέπει να χρησιμοποιήσετε την εφαρμογή ενημέρωσης λογισμικού της Nokia στον Η/Υ σας.\nΣυνδέστε τη συσκευή με τον Η/Υ σας μέσω ενός καλωδίου USB και ξεκινήστε την εφαρμογή."
+
+msgid "ai_ia_osupdate_restart"
+msgstr "Όλες οι εφαρμογές θα κλείσουν κατά τη διάρκεια της εγκατάστασης και όλες οι λειτουργίες θα απενεργοποιηθούν, συμπεριλαμβανομένης της λήψης κλήσεων έκτακτης ανάγκης.\nΗ συσκευή στη συνέχεια θα κάνει επανεκκίνηση.\nΗ δημιουργία ενός αντιγράφου ασφαλείας των παραπάνω συνιστάται."
+
+msgid "ai_ia_restore"
+msgstr "Το αντίγραφο ασφαλείας απαριθμεί αυτές τις εφαρμογές.\nΕπιλέξτε τις εφαρμογές για λήψη και εγκατάσταση."
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(δεν υπάρχουν εφαρμογές)"
+
+msgid "ai_ia_storage"
+msgstr "Απαιτούμενη μνήμη: %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Εισάγετε πρώτα το όνομα καταλόγου"
+
+msgid "ai_ib_enter_text"
+msgstr "Εισάγετε το κείμενο για εύρεση"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Εισάγετε πρώτα τη διεύθυνση διαδικτίου"
+
+msgid "ai_ib_no_matches"
+msgstr "Δεν βρέθηκαν αντιστοιχίες"
+
+msgid "ai_ib_no_repositories"
+msgstr "Δεν υπάρχουν κατάλογοι σε χρήση"
+
+msgid "ai_ib_search_complete"
+msgstr "Η αναζήτηση ολοκληρώθηκε"
+
+msgid "ai_ib_unable_cancel"
+msgstr "Αδύνατη η ακύρωση.\nΠαρακαλώ περιμένετε."
+
+msgid "ai_ib_unable_edit"
+msgstr "Αδυναμία επεξεργασίας καταλόγου"
+
+msgid "ai_li_install"
+msgstr "Λήψη"
+
+msgid "ai_li_no_applications_available"
+msgstr "(δεν υπάρχουν διαθέσιμες εφαρμογές)"
+
+msgid "ai_li_no_installed_applications"
+msgstr "(δεν εγκαταστάθηκαν εφαρμογές)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(δεν υπάρχουν διαθέσιμες ενημερώσεις)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Kαταγραφή συμβάντων"
+
+msgid "ai_li_uninstall"
+msgstr "Κατάργηση"
+
+msgid "ai_li_update"
+msgstr "Ενημέρωση"
+
+msgid "ai_me_details"
+msgstr "Λεπτομέρειες"
+
+msgid "ai_me_package_install_file"
+msgstr "Εγκατάσταση από αρχείο"
+
+msgid "ai_me_refresh"
+msgstr "Ανανέωση"
+
+msgid "ai_me_search"
+msgstr "Αναζήτηση"
+
+msgid "ai_me_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "ai_me_tools_log"
+msgstr "Καταγραφή συμβάντων"
+
+msgid "ai_me_tools_repository"
+msgstr "Κατάλογοι εφαρμογών"
+
+msgid "ai_me_tools_restore"
+msgstr "Επαναφορά εφαρμογών"
+
+msgid "ai_me_update_all"
+msgstr "Ενημέρωση όλων"
+
+msgid "ai_nc_error_download_failed"
+msgstr "Απέτυχε η λήψη του '%s'. Προσπάθεια ξανα;"
+
+msgid "ai_nc_install"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_non_verified_package"
+msgstr "Η εφαρμογή που πρόκειται να εγκαταστήσετε δεν παρέχεται από τη Nokia. Οι εφαρμογές από μη αξιόπιστες πηγές μπορεί να περιλαμβάνουν κακόβουλα προγράμματα που μπορούν να προκαλέσουν οικονομική ζημία, πρόσβαση στα δεδομένα που αποθηκεύονται στη συσκευή, ή με άλλο τρόπο βλάβη στη συσκευή. Η εφαρμογή μπορεί επίσης να υπόκειται σε δικαιώματα τρίτων και σε όρους της άδειας χρήσης.\nΗ εγκατάσταση θα γίνει με δική σας ευθύνη."
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr "Μερικές από τις εφαρμογές που πρόκειται να εγκαταστήσετε δεν παρέχονται από τη Nokia. Οι εφαρμογές από μη αξιόπιστες πηγές μπορεί να περιλαμβάνουν κακόβουλα προγράμματα που μπορούν να προκαλέσουν οικονομική ζημία, πρόσβαση στα δεδομένα που αποθηκεύονται στη συσκευή, ή με άλλο τρόπο βλάβη στη συσκευή. Οι εφαρμογές μπορούν επίσης να υπόκεινται σε δικαιώματα τρίτων και σε όρους της άδειας χρήσης.\nΗ εγκατάσταση θα γίνει με δική σας ευθύνη."
+
+msgid "ai_nc_remove_repository"
+msgstr "Διαγραφή καταλόγου;\nΤα πακέτα εφαρμογών που προσφέρονται από τον κατάλογο δεν θα είναι πλέον διαθέσιμα για εγκατάσταση και αναβαθμίσεις."
+
+msgid "ai_nc_uninstall"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update"
+msgstr "%s %s\n%s"
+
+msgid "ai_nc_update_all"
+msgstr "Έτοιμοι να εγκαταστήσετε όλες τις ενημερώσεις"
+
+msgid "ai_ni_all_installed"
+msgstr "Όλες οι εφαρμογές έχουν ήδη εγκατασταθεί"
+
+msgid "ai_ni_bd_details"
+msgstr "Λεπτομέρειες"
+
+msgid "ai_ni_continue_install"
+msgstr "Συνέχεια στην εγκατάσταση;"
+
+msgid "ai_ni_device_restart"
+msgstr "Το λειτουργικό σύστημα ενημερώθηκε επιτυχώς. Η συσκευή θα κάνει επανεκκίνηση. Παρακαλώ περιμένετε, τυχόν διακοπή μπορεί να βλάψει τη συσκευή."
+
+msgid "ai_ni_device_restart_long"
+msgstr "Το λειτουργικό σύστημα ενημερώθηκε επιτυχώς. Η συσκευή θα κάνει επανεκκίνηση. Παρακαλώ περιμένετε, τυχόν διακοπή μπορεί να βλάψει τη συσκευή."
+
+msgid "ai_ni_error_battery_empty"
+msgstr "Δεν υπάρχει αρκετή ισχύς στη μπαταρία για να εγκαταστήσετε την ενημερωμένη έκδοση Maemo.\nΞεκινήστε τη φόρτιση και προσπαθήστε ξανά."
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr "Αδύνατη η εγκατάσταση.\nΚατάλογος ασύμβατος με το ισχύον λειτουργικό σύστημα."
+
+msgid "ai_ni_error_download_failed"
+msgstr "Η λήψη του '%s' απέτυχε"
+
+msgid "ai_ni_error_download_missing"
+msgstr "Αδύνατη η λήψη του '%s'.\nΔεν βρέθηκε το πακέτο εφαρμογής."
+
+msgid "ai_ni_error_install_conflict"
+msgstr "Αδύνατη η εγκατάσταση του '%s'.\nΑντικρουόμενα πακέτα εφαρμογών."
+
+msgid "ai_ni_error_install_corrupted"
+msgstr "Αδύνατη η εγκατάσταση του '%s'.\nΚατεστραμμένο αρχείο εγκατάστασης."
+
+msgid "ai_ni_error_install_incompatible"
+msgstr "Αδύνατη η εγκατάσταση του '%s'.\nΑσύμβατο πακέτο εφαρμογής."
+
+msgid "ai_ni_error_install_missing"
+msgstr "Αδύνατη η εγκατάσταση του '%s'.\nΟρισμένα πακέτα εφαρμογών που απαιτούνται για την εγκατάσταση λείπουν."
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Αδύνατη η εγκατάσταση του '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr "Αδύνατη η εγκατάσταση του '%s'.\nΤο πακέτο εφαρμογής είναι ασύμβατο με το ισχύον λειτουργικό σύστημα."
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr "Το '%s' είναι ανοικτό.\nΚλείστε την εφαρμογή και προσπαθήστε ξανά."
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr "Αδύνατη η απεγκατάσταση του '%s'.\nΟρισμένα πακέτα της εφαρμογής είναι αναγκαία για τη λειτουργία άλλων εφαρμογών."
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Αδύνατη η απεγκατάσταση του '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr "Αδύνατη η ενημέρωση του '%s'.\nΑντικρουόμενα πακέτα εφαρμογών."
+
+msgid "ai_ni_error_update_corrupted"
+msgstr "Αδύνατη η ενημέρωση του '%s'.\nΚατεστραμμένο αρχείο ενημέρωσης."
+
+msgid "ai_ni_error_update_failed"
+msgstr "Αδύνατη η ενημέρωση του '%s'"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr "Αδύνατη η ενημέρωση του '%s'.\nΑσύμβατο πακέτο εφαρμογής."
+
+msgid "ai_ni_error_update_missing"
+msgstr "Αδύνατη η ενημέρωση του '%s'.\nΟρισμένα πακέτα εφαρμογών που απαιτούνται\nγια την ενημέρωση λείπουν."
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Ολοκλήρωση της εγκατάστασης ενημέρωσης"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "Το '%s' εγκαταστάθηκε με επιτυχία. Εκκίνηση εφαρμογής;"
+
+msgid "ai_ni_memory_shortage"
+msgstr "Δεν υπάρχει επαρκής χώρος στη μνήμη εγκατάστασης εφαρμογών. Απεγκαταστήστε ορισμένες εφαρμογές για να αποδεσμεύσετε αρκετό ελεύθερο χώρο για την εγκατάσταση αυτή."
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d εφαρμογή εγκαταστάθηκε με επιτυχία"
+msgstr[1] "%d εφαρμογές εγκαταστάθηκαν με επιτυχία"
+
+msgid "ai_ni_operation_failed"
+msgstr "Η λειτουργία απέτυχε"
+
+msgid "ai_ni_operation_progress"
+msgstr "Λειτουργία σε εξέλιξη.\nΠαρακαλώ περιμένετε."
+
+msgid "ai_ni_package_installed"
+msgstr "Το '%s' είναι ήδη εγκατεστημένο"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Οι ενημερώσεις λογισμικού εγκαταστάθηκαν με επιτυχία"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Το λειτουργικό σύστημα ενημερώθηκε επιτυχώς"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Αδύνατη η διαγραφή του καταλόγου"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "Το '%s' απεγκαταστάθηκε επιτυχώς"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr "Αδύνατη η ανανέωση της λίστας εφαρμογών.\nΑδύνατη η πρόσβαση στους καταλόγους.\nΕλέγξτε τη σύνδεση δικτύου.\nΔοκιμάστε ξανά;"
+
+msgid "ai_ni_update_partly_successful"
+msgstr "Μερική ανανέωση της λίστας εφαρμογών.\nΟρισμένοι κατάλογοι μη διαθέσιμοι.\nΕλέγξτε τις λεπτομέρειες καταλόγου."
+
+msgid "ai_ni_updates_restart"
+msgstr "Οι ενημερώσεις λογισμικού εγκαταστάθηκαν με επιτυχία. Η συσκευή θα κάνει επανεκκίνηση."
+
+msgid "ai_nw_checking_updates"
+msgstr "Έλεγχος για ενημερώσεις, παρακαλώ περιμένετε"
+
+msgid "ai_nw_connecting"
+msgstr "Σύνδεση"
+
+msgid "ai_nw_downloading"
+msgstr "Λήψη %s"
+
+msgid "ai_nw_installing"
+msgstr "Εγκατάσταση του '%s'"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Προετοιμασία για την εγκατάσταση, παρακαλώ περιμένετε"
+
+msgid "ai_nw_searching"
+msgstr "Αναζήτηση"
+
+msgid "ai_nw_uninstalling"
+msgstr "Απεγκατάσταση του '%s'"
+
+msgid "ai_nw_updating"
+msgstr "Ενημέρωση του '%s' %s"
+
+msgid "ai_pb_progress"
+msgstr "Φόρτωση"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Νέες κυκλοφορίες λογισμικού"
+
+msgid "ai_sb_app_push_link"
+msgstr "Λήψη"
+
+msgid "ai_sb_app_push_no"
+msgstr "Παράβλεψη"
+
+msgid "ai_sb_update_am"
+msgstr "Συνέχεια"
+
+msgid "ai_sb_update_description"
+msgstr "Νέες ενημερώσεις λογισμικού"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr "Λογισμικό Nokia (%d)"
+
+msgid "ai_sb_update_os"
+msgstr "Ενημερωμένη έκδοση Maemo"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Λογισμικό τρίτων (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Προσθήκη καταλόγου"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Περιεχόμενα"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Διανομή"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Όνομα καταλόγου"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Διεύθυνση διαδικτύου"
+
+msgid "ai_ti_confirm_install"
+msgstr "Εγκατάσταση"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Απεγκατάσταση"
+
+msgid "ai_ti_confirm_update"
+msgstr "Ενημέρωση"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Κατανοώ και συμφωνώ"
+
+msgid "ai_ti_details"
+msgstr "Λεπτομέρειες εφαρμογής"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Σύνοψη"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Εξαρτήσεις"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Περιγραφή"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Εγκατάσταση"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Προβλήματα"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Κατάργηση"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Ενημέρωση"
+
+msgid "ai_ti_edit_repository"
+msgstr "Λεπτομέρειες καταλόγου"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Συμφωνώ"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Αποτυχία καταλόγων"
+
+msgid "ai_ti_install_apps"
+msgstr "Εγκατάσταση εφαρμογών"
+
+msgid "ai_ti_license_agreement"
+msgstr "Συμφωνητικό άδειας"
+
+msgid "ai_ti_log"
+msgstr "Καταγραφή συμβάντων"
+
+msgid "ai_ti_new_repository"
+msgstr "Νέος κατάλογος"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Ενημερωμένη έκδοση Maemo"
+
+msgid "ai_ti_repository"
+msgstr "Κατάλογοι"
+
+msgid "ai_ti_save_log"
+msgstr "Αποθήκευση καταγραφής συμβάντων"
+
+msgid "ai_ti_search"
+msgstr "Αναζήτηση εφαρμογών"
+
+msgid "ai_ti_select_package"
+msgstr "Επιλέξτε εφαρμογή"
+
+msgid "ai_va_details_available_version"
+msgstr "Διαθέσιμη έκδοση:"
+
+msgid "ai_va_details_catalogue"
+msgstr "Κατάλογος:"
+
+msgid "ai_va_details_download_size"
+msgstr "Μέγεθος λήψης:"
+
+msgid "ai_va_details_install_frees"
+msgstr "Η εγκατάσταση του '%1$s' αποδεσμεύει %2$s από τη μνήμη της συσκευής"
+
+msgid "ai_va_details_install_requires"
+msgstr "Η εγκατάσταση του '%1$s' απαιτεί %2$s από τη μνήμη της συσκευής"
+
+msgid "ai_va_details_installed_version"
+msgstr "Εγκατεστημένη έκδοση:"
+
+msgid "ai_va_details_no_info"
+msgstr "–"
+
+msgid "ai_va_details_size"
+msgstr "Μέγεθος:"
+
+msgid "ai_va_details_status_broken"
+msgstr "Κατεστραμμένο"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Κατεστραμμένο χωρίς δυνατότητα ενημέρωσης"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Κατεστραμμένο αλλά με δυνατότητα ενημέρωσης"
+
+msgid "ai_va_details_status_installable"
+msgstr "Δυνατότητα εγκατάστασης"
+
+msgid "ai_va_details_status_installed"
+msgstr "Εγκατεστημένο"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Δεν είναι διαθέσιμο"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Δεν μπορεί να εγκατασταθεί"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Η ενημέρωση είναι διαθέσιμη αλλά δεν μπορεί να εγκατασταθεί"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Δυνατότητα ενημέρωσης"
+
+msgid "ai_va_details_unable_install"
+msgstr "Αδύνατη η εγκατάσταση του '%s'"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Αδύνατη η απεγκατάσταση του '%s'"
+
+msgid "ai_va_details_unable_update"
+msgstr "Αδύνατη η ενημέρωση του '%s'"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "Η  απεγκατάσταση του '%1$s' αποδεσμεύει %2$s από τη μνήμη της συσκευής"
+
+msgid "ai_va_details_update_frees"
+msgstr "Η ενημέρωση του '%1$s' αποδεσμεύει %2$s από τη μνήμη της συσκευής"
+
+msgid "ai_va_details_update_requires"
+msgstr "Η ενημέρωση του '%1$s' απαιτεί %2$s από τη μνήμη της συσκευής"
+
+msgid "ai_va_search_name"
+msgstr "Όνομα εφαρμογής"
+
+msgid "ai_va_search_name_description"
+msgstr "Όνομα και περιγραφή εφαρμογής"
+
+msgid "ai_va_sort_name"
+msgstr "Όνομα"
+
+msgid "ai_va_sort_size"
+msgstr "Μέγεθος"
+
+msgid "apma_fi_by_provider"
+msgstr "από %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Νέες κυκλοφορίες"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Νέες ενημερώσεις"
