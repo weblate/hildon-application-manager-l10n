@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2023-01-24 22:48+0000\n"
+"Last-Translator: norayr tanakian <norayr@arnet.am>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/hy/>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
+
+msgid "ai_ap_application_installer"
+msgstr "Յաւելուածներ"
+
+msgid "ai_ap_name"
+msgstr "Յաւելուածների կառավարիչ"
+
+msgid "ai_bd_add_catalogue_details"
+msgstr "Մանրամասներ"
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr "Աւելացնել"
+
+msgid "ai_bd_confirm_details"
+msgstr "Մանրամասներ"
+
+msgid "ai_bd_confirm_ok"
+msgstr "Շարունակել"
+
+msgid "ai_bd_confirm_uninstall"
+msgstr "Հեռացնել"
+
+msgid "ai_bd_create_backup"
+msgstr "Ստեղծել պահուստ"
+
+msgid "ai_bd_license_ok"
+msgstr "Ընդունել"
+
+msgid "ai_bd_log_clear"
+msgstr "Մաքրել"
+
+msgid "ai_bd_log_save_as"
+msgstr "Պահել որպէս"
+
+msgid "ai_bd_new_repository_ok"
+msgstr "Պահել"
+
+msgid "ai_bd_repository_delete"
+msgstr "Հեռացնել"
+
+msgid "ai_bd_repository_new"
+msgstr "Նոր"
+
+msgid "ai_bd_search_ok"
+msgstr "Փնտրել"
+
+msgid "ai_category_all"
+msgstr "Բոլորը"
+
+msgid "ai_category_desktop"
+msgstr "Աշխատատիրոյթ"
+
+msgid "ai_category_development"
+msgstr "Ծրագրաւորում"
+
+msgid "ai_category_education"
+msgstr "Կրթութիւն"
+
+msgid "ai_category_games"
+msgstr "Խաղեր"
+
+msgid "ai_category_graphics"
+msgstr "Գրաֆիկա"
+
+msgid "ai_category_multimedia"
+msgstr "բազմասփիւռ"
+
+msgid "ai_category_navigation"
+msgstr "Տեղանք եւ նաւարկում"
+
+msgid "ai_category_network"
+msgstr " Ցանց"
+
+msgid "ai_category_office"
+msgstr "Գրասենեակ"
+
+msgid "ai_category_other"
+msgstr "Այլ"
+
+msgid "ai_category_science"
+msgstr "Գիտութիւն"
+
+msgid "ai_category_sharing_plugins"
+msgstr "Կիսուելու ընդլայնումներ"
+
+msgid "ai_category_system"
+msgstr "Համակարգ"
+
+msgid "ai_category_utilities"
+msgstr "Գործիքներ"
+
+msgid "ai_cb_restarting_device"
+msgstr "Սարքի վերամեկնարկում"
+
+msgid "ai_fi_details_category"
+msgstr "Կարգ՝"
+
+msgid "ai_fi_details_maintainer"
+msgstr "Պահապան՝"
+
+msgid "ai_fi_details_package"
+msgstr "Յաւելուած՝"
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr "Հակասում է հետեւեալ փաթեթներին՝"
+
+msgid "ai_fi_details_packages_install"
+msgstr "Փաթեթներ, որ տեղակայուելու են՝"
+
+msgid "ai_fi_details_packages_missing"
+msgstr "Պակասող փաթեթներ՝"
+
+msgid "ai_fi_details_packages_needing"
+msgstr "Պահանջուում է փաթեթների կողմից՝"
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr "Փաթեթներ, որ հեռացուելու են՝"
+
+msgid "ai_fi_details_packages_update"
+msgstr "Փաթեթներ, որ թարմացուելու են՝"
+
+msgid "ai_fi_details_status"
+msgstr "Կարգավիճակ՝"
+
+msgid "ai_fi_details_summary"
+msgstr "Ամփոփում՝"
+
+msgid "ai_fi_new_repository_component"
+msgstr "Բաղադրիչներ"
+
+msgid "ai_fi_new_repository_disabled"
+msgstr "Խեղուած"
+
+msgid "ai_fi_new_repository_distribution"
+msgstr "Տարածոյ"
+
+msgid "ai_fi_new_repository_name"
+msgstr "Շտեմարանի անուն"
+
+msgid "ai_fi_new_repository_web_address"
+msgstr "Ուեբ հասցէ"
+
+msgid "ai_fi_search_area"
+msgstr "Փնտրել տիրոյթ"
+
+msgid "ai_fi_search_words"
+msgstr "Փնտրել բառեր"
+
+msgid "ai_fib_web_address"
+msgstr ""
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+"Աւելացնե՞լ նոր շտեմարան\n"
+"'%s'"
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+"Շտեմարանն արդէն տեղակայուած է, բայց այս պահին՝ խեղուած։\n"
+"Միացնե՞լ այն։"
+
+msgid "ai_ia_add_catalogue_install"
+msgstr "Այս աղբիւրից տեղակայման համար, աւելացէք դրա շտեմարանը։"
+
+#, fuzzy
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+"Այս շտեմարանից տեղակայուող ծրագրակազմը չի տրամադրւում Մաեմօ Լեսթէ "
+"նախագծողների հիմնական թիմի կողմից, եւ ստուգուած չէ՝ կարող է պարունակել "
+"վնասակար կոդ։"
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+
+msgid "ai_ia_failed_catalogue"
+msgstr "թարմացումը խափանուեց"
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+"Տեղակայման ընթացքում բոլոր գործող յաւելուածները փակուելու են, իսկ համակարգի "
+"գործառոյթները չեն կատացուելու (ներառեալ արտակարգ զանգերը)՝\n"
+"Սարքը վերամեկնարկուելու է։\n"
+"Մի օգտագործէք սարքն այս ընթացքում։\n"
+"Խորհուրդ է տրւում պահեստաւորել տուեալները։"
+
+msgid "ai_ia_restore"
+msgstr ""
+"Պահուստի մէջ կան հետեւեալ ծրագրերը։\n"
+"Ընտրէք նրանք որ ցանկանում էք ներբեռնել եւ տեղակայել։"
+
+msgid "ai_ia_select_package_no_packages"
+msgstr "(յաւելուածներ չկան)"
+
+msgid "ai_ia_storage"
+msgstr "Պահանջուող յիշողութիւն՝ %s"
+
+msgid "ai_ib_enter_name"
+msgstr "Ներմուծէք սկզբից շտեմարանի անունը"
+
+msgid "ai_ib_enter_text"
+msgstr "Ներմուծէք փնտրուող տեքստը"
+
+msgid "ai_ib_enter_web_address"
+msgstr "Ներմուծէք սկզբից ուեբ հասցէն"
+
+msgid "ai_ib_no_matches"
+msgstr "Չգտնուեց"
+
+msgid "ai_ib_no_repositories"
+msgstr "Ոչ մի շտեմարան չի օգտագործւում"
+
+msgid "ai_ib_search_complete"
+msgstr "Փնտրելու գործողութիւնն աւարտուեց"
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+"Հնարաւոր չէ չեղարկել։\n"
+"Սպասէ՛ք։"
+
+msgid "ai_ib_unable_edit"
+msgstr "Հնարաւոր չէ խմբագրել շտեմարանը"
+
+msgid "ai_li_install"
+msgstr "Ներբեռնել"
+
+msgid "ai_li_no_applications_available"
+msgstr "(յաւելուածներ չկան)"
+
+#, fuzzy
+msgid "ai_li_no_installed_applications"
+msgstr "(ոչ մի յաւելուած)"
+
+msgid "ai_li_no_updates_available"
+msgstr "(թարմացումներ չկան)"
+
+msgid "ai_li_save_log_default_name"
+msgstr "Գրանցամատեան"
+
+msgid "ai_li_uninstall"
+msgstr "Հեռացնել"
+
+msgid "ai_li_update"
+msgstr "Թարմացնել"
+
+msgid "ai_me_details"
+msgstr "Մանրամասներ"
+
+msgid "ai_me_package_install_file"
+msgstr "Տեղակայել նիշքից"
+
+msgid "ai_me_refresh"
+msgstr "Նորացնել"
+
+msgid "ai_me_search"
+msgstr "Փնտրել"
+
+msgid "ai_me_settings"
+msgstr "Կարգաւորումներ"
+
+msgid "ai_me_tools_log"
+msgstr "Գրանցամատեան"
+
+msgid "ai_me_tools_repository"
+msgstr "Յաւելուածների շտեմարաններ"
+
+msgid "ai_me_tools_restore"
+msgstr "Վերականգնել յաւելուածները"
+
+msgid "ai_me_update_all"
+msgstr "Թարմացնել բոլորը"
+
+msgid "ai_nc_error_download_failed"
+msgstr "'%s'֊ի ներբեռնումը խափանուեց։ Փորձե՞լ կրկին։"
+
+msgid "ai_nc_install"
+msgstr ""
+
+#, fuzzy
+msgid "ai_nc_non_verified_package"
+msgstr ""
+"Յաւելուածն որ տեղակայում էք ստուգուած չէ Մաեմօ Լեսթէ թիմի կողմից։ Անյայտ "
+"աղբիւրներից յաւելուածները կարող են պարունակել վնասակար կոդ, դիմել սարքի "
+"տուեալներին, եւ ֆինանսական եւ այլ վնաս պատճառել։ Երրորդ կողմի իրաւունքներն "
+"ու արտօնագրերը կարող է վերաբերուեն յաւելուածին։\n"
+"Տեղակայէք ձեր պատասխանատւութիւնը գիտակցելով։"
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+"Հեռացն՞լ շտեմարանը։\n"
+"Շտեմարանի յաւելուածները հնարաւոր չի լինի տեղակայել։"
+
+msgid "ai_nc_uninstall"
+msgstr ""
+
+msgid "ai_nc_update"
+msgstr ""
+
+msgid "ai_nc_update_all"
+msgstr "Հնարաւոր է տեղակայել բոլոր թարմացումները"
+
+msgid "ai_ni_all_installed"
+msgstr "Բոլոր յաւելուածներն արդէն տեղակայուած են"
+
+msgid "ai_ni_bd_details"
+msgstr "Մանրամասներ"
+
+msgid "ai_ni_continue_install"
+msgstr "Շարունակե՞լ տեղակայումը։"
+
+msgid "ai_ni_device_restart"
+msgstr ""
+"Օպերացիոն համակարգը յաջողութեամբ թարմացուեց։ Սարքը վերամեկնարկուելու է։ "
+"Խնդրում ենք սպասել, զի ընդհատելը կարող է վնասել սարքը։"
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+"Օպերացիոն համակարգը յաջողութեամբ թարմացուեց։ Սարքը վերամեկնարկուելու է։ "
+"Խնդրում ենք սպասել, զի ընդհատելը կարող է վնասել սարքը։"
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+"Մարտկոցի լիցքը բաւական չէ թարմացումները տեղակայելու համար։\n"
+"Սկսէք լիցքաւորել, եւ փորձէք կրկին։"
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+"Հնարաւոր չէ տեղակայել։\n"
+"Շտեմարանը համատեղելի չէ օպերացիոն համակարգի հետ։"
+
+msgid "ai_ni_error_download_failed"
+msgstr "'%s' ներբեռնելը խափանուեց"
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+"Հնարաւոր չէ ներբեռնել '%s' փաթեթը։\n"
+"Յաւելուածի փաթեթը գտնուած չէ։"
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+"Հնարաւոր չէ տեղակայել '%s' փաթեթը։\n"
+"Հակասող փաթեթներ։"
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+"Հնարաւոր չէ '%s' փաթեթը։\n"
+"Նիշքը փչացած է։"
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+"Հնարաւոր չէ տեղակայել '%s' փաթեթը։\n"
+"Անհամատեղելի փաթեթ։"
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+"Հնարաւոր չէ տեղակայել '%s' փաթեթը։\n"
+"Բացակայում են որոշ փաթեթներ, որ անհրաժեշտ են տեղակայման համար։"
+
+msgid "ai_ni_error_installation_failed"
+msgstr "Հնարաւոր չէ տեղակայել '%s'"
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+"Հնարաւոր չէ տեղակայելl '%s'։\n"
+"Փաթեթը համատեղելի չէ սոյն օպերացիոն համակարգի հետ։"
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+"'%s' բաց է։\n"
+"Փակէք յաւելուածն ու փորձէք կրկին։"
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+"Հնարաւոր չէ հեռացնել '%s' փաթեթը։\n"
+"Որոշ փաթեթները պահանջուած են այլ յաւելուածի կողմից։"
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr "Հնարաւոր չէ հեռացնել '%s'"
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+"Հնարաւոր չէ թարմացնել '%s' փաթեթը։\n"
+"Անհամատեղելի փաթեթներ։"
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+"Հնարաւոր չէ թարմացնել '%s' փաթեթը։\n"
+"Թարմացման նիշքը փչացած է։"
+
+msgid "ai_ni_error_update_failed"
+msgstr "Հնարաւոր չէ թարմացնել '%s' փաթեթը"
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+"Հնարաւոր չէ թարմացնել '%s' փաթեթը։\n"
+"Անհամատեղելի փաթեթ։"
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+"Հնարաւոր չէ թարմացնել '%s'։\n"
+"Թարմացման համար անհրաժեշտ\n"
+"որոշ փաթեթները բացակայում են։"
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr "Թարմացման տեղակայումն աւարտւում է"
+
+msgid "ai_ni_install_successful_launch"
+msgstr "'%s'֊ը յաջողութեամբ տեղակայուեց։ Մեկնարկե՞լ յաւելուածը։"
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+"Յաւելուածը տեղակայելու համար բաւական չէ ազատ տարածքը։ Կարող էք ազատել "
+"յիշողութիւն հեռացնելով որեւէ յաւելուած։"
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] "%d յաւելուածը յաջողութեամբ տեղակայուեց"
+msgstr[1] "%d յաւելուածները յաջողութեամբ տեղակայուած են"
+
+msgid "ai_ni_operation_failed"
+msgstr "Գործողութիւնը խափանուեց"
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+"Գործողութիւնն ընթացքում է։\n"
+"Խնդրում ենք սպասել։"
+
+msgid "ai_ni_package_installed"
+msgstr "'%s' ֊ն արդէն տեղակայուած է"
+
+msgid "ai_ni_software_update_installed"
+msgstr "Թարմացումները յաջողութեամբ տեղակայուած են"
+
+msgid "ai_ni_system_update_installed"
+msgstr "Օպերացիոն համակարգը յաջողութեամբ թարմացուեց"
+
+msgid "ai_ni_unable_remove_repository"
+msgstr "Հնարաւոր չէ հեռացնել շտեմարանը"
+
+msgid "ai_ni_uninstall_successful"
+msgstr "'%s' յաւելուածը յաջողութեամբ հեռացուեց"
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+"Հնարաւոր չէ թարմացնել յաւելուածների ցանկը։\n"
+"Հնարաւոր չէ դիմել շտեմարաններին։\n"
+"Ստուգէք կապը։\n"
+"Փորձէք կրկի՞ն։"
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+"Յաւելուածների ցանկը մասնակի թարմացուած է։\n"
+"Որոշ շտեմարաններն անհասանելի են։\n"
+"Ստուգէք շտեմարանների կարգաւորումները։"
+
+msgid "ai_ni_updates_restart"
+msgstr ""
+"Ծրագրակազմի թարմացումները յաջողութեամբ տեղակայուեցին։ Սարքն այժմ "
+"վերամեկնարկուելու է։"
+
+msgid "ai_nw_checking_updates"
+msgstr "Ստուգուում են թարմացումները, սպասէք"
+
+msgid "ai_nw_connecting"
+msgstr "Կապը հաստատուում է"
+
+msgid "ai_nw_downloading"
+msgstr "%s֊ը ներբեռնուում է"
+
+msgid "ai_nw_installing"
+msgstr "'%s'֊ը տեղակայւում է"
+
+msgid "ai_nw_preparing_installation"
+msgstr "Պատրաստուում է տեղակայումը, սպասէք"
+
+msgid "ai_nw_searching"
+msgstr "Փնտրուում է"
+
+msgid "ai_nw_uninstalling"
+msgstr "'%s'֊ը հեռացւում է"
+
+msgid "ai_nw_updating"
+msgstr "'%s' %s ֊ը թարմացւում է"
+
+msgid "ai_pb_progress"
+msgstr "Բեռնւում է"
+
+msgid "ai_sb_app_push_desc"
+msgstr "Ծրագրակազմի նոր թողարկումներ"
+
+msgid "ai_sb_app_push_link"
+msgstr "Ներբեռնել"
+
+msgid "ai_sb_app_push_no"
+msgstr "Անտեսել"
+
+msgid "ai_sb_update_am"
+msgstr "Շարունակել"
+
+msgid "ai_sb_update_description"
+msgstr "Ծրագրակազմի նոր թարմացումներ"
+
+msgid "ai_sb_update_nokia_%d"
+msgstr ""
+
+msgid "ai_sb_update_os"
+msgstr "Մաեմօ թարմացում"
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr "Երրորդ կողմի ծրագրակազմ (%d)"
+
+msgid "ai_ti_add_catalogue"
+msgstr "Աւելացնել շտեմարան"
+
+msgid "ai_ti_catalogue_details_component"
+msgstr "Բաղադրիչներ"
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr "Տարածոյ"
+
+msgid "ai_ti_catalogue_details_name"
+msgstr "Շտեմարանի անուն"
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr "Ուեբ հասցէ"
+
+msgid "ai_ti_confirm_install"
+msgstr "Տեղակայել"
+
+msgid "ai_ti_confirm_uninstall"
+msgstr "Հեռացնել"
+
+msgid "ai_ti_confirm_update"
+msgstr "Թարմացնել"
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr "Ես հասկանում եմ եւ համաձայնութիւնս եմ տալիս"
+
+msgid "ai_ti_details"
+msgstr "Մանրամասներ յաւելուածի մասին"
+
+msgid "ai_ti_details_noteb_common"
+msgstr "Ամփոփում"
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr "Կախուածութիւններ"
+
+msgid "ai_ti_details_noteb_description"
+msgstr "Նկարագրութիւն"
+
+msgid "ai_ti_details_noteb_installing"
+msgstr "Տեղակայւում է"
+
+msgid "ai_ti_details_noteb_problems"
+msgstr "Խնդիրներ"
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr "Հեռացւում է"
+
+msgid "ai_ti_details_noteb_updating"
+msgstr "Թարմացւում է"
+
+msgid "ai_ti_edit_repository"
+msgstr "Շտեմարանների մանրամասներ"
+
+msgid "ai_ti_eula_confirmation"
+msgstr "Համաձայն եմ"
+
+msgid "ai_ti_failed_repositories"
+msgstr "Խափանուած շտեմարաններ"
+
+msgid "ai_ti_install_apps"
+msgstr "Տեղակայել յաւելուածները"
+
+msgid "ai_ti_license_agreement"
+msgstr "Արտօնագիր"
+
+msgid "ai_ti_log"
+msgstr "Գրանցամատեան"
+
+msgid "ai_ti_new_repository"
+msgstr "Նոր շտեմարան"
+
+msgid "ai_ti_operating_system_update"
+msgstr "Մաեմօ թարմացում"
+
+msgid "ai_ti_repository"
+msgstr "Շտեմարաններ"
+
+msgid "ai_ti_save_log"
+msgstr "Պահել արձանագրութիւնը"
+
+msgid "ai_ti_search"
+msgstr "Փնտրել յաւելուածներ"
+
+msgid "ai_ti_select_package"
+msgstr "Ընտրել յաւելուած"
+
+msgid "ai_va_details_available_version"
+msgstr "Հասանելի վարկած՝"
+
+msgid "ai_va_details_catalogue"
+msgstr "Շտեմարան՝"
+
+msgid "ai_va_details_download_size"
+msgstr "Չափսը՝"
+
+msgid "ai_va_details_install_frees"
+msgstr "'%1$s'֊ի տեղակայումը կազատի %2$s յիշողութիւն"
+
+msgid "ai_va_details_install_requires"
+msgstr "'%1$s'֊ի տեղակայումը պահանջում է %2$s յիշողութիւն"
+
+msgid "ai_va_details_installed_version"
+msgstr "Տեղակայուած վարկած՝"
+
+msgid "ai_va_details_no_info"
+msgstr ""
+
+msgid "ai_va_details_size"
+msgstr "Չափս՝"
+
+msgid "ai_va_details_status_broken"
+msgstr "Կոտրուած"
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr "Կոտրուած եւ չթարմացուող"
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr "Կոտրուած բայց թարմացուող"
+
+msgid "ai_va_details_status_installable"
+msgstr "Տեղակայելի"
+
+msgid "ai_va_details_status_installed"
+msgstr "Տեղակայուած"
+
+msgid "ai_va_details_status_not_available"
+msgstr "Ոչ հասանելի"
+
+msgid "ai_va_details_status_not_installable"
+msgstr "Ոչ տեղակայելի"
+
+msgid "ai_va_details_status_not_updateable"
+msgstr "Թարմացումը հասանելի է բայց տեղակայելի չէ"
+
+msgid "ai_va_details_status_updateable"
+msgstr "Հնարաւոր է թարմացնել"
+
+msgid "ai_va_details_unable_install"
+msgstr "Հնարաւոր չէ տեղակայել '%s' փաթեթը"
+
+msgid "ai_va_details_unable_uninstall"
+msgstr "Հնարաւոր չէ հեռացնել '%s' փաթեթը"
+
+msgid "ai_va_details_unable_update"
+msgstr "Հնարաւոր չէ թարմացնել '%s' փաթեթը"
+
+msgid "ai_va_details_uninstall_frees"
+msgstr "'%1$s' հեռացնելը ազատում է %2$s յիշողութիւն"
+
+msgid "ai_va_details_update_frees"
+msgstr "'%1$s' թարմացնելը ազատում է %2$s յիշողութիւն"
+
+msgid "ai_va_details_update_requires"
+msgstr "'%1$s' թարմացնելը պահանջում է %2$s յիշողութիւն"
+
+msgid "ai_va_search_name"
+msgstr "Յաւելուածի անուն"
+
+msgid "ai_va_search_name_description"
+msgstr "Յաւելուածի անուն եւ նկարագրութիւն"
+
+msgid "ai_va_sort_name"
+msgstr "Անուն"
+
+msgid "ai_va_sort_size"
+msgstr "Չափս"
+
+msgid "apma_fi_by_provider"
+msgstr "հեղինակ՝ %s"
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr "Նոր թողարկումներ"
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr "Նոր թարմացումներ"
