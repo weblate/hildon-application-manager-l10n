@@ -6,8 +6,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2022-08-10 11:15+0000\n"
-"Last-Translator: SuperMario SuperFans <supermariosf@outlook.com>\n"
+"PO-Revision-Date: 2024-04-28 03:07+0000\n"
+"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "maemo-leste/hildon-application-manager-l10n/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.5.1\n"
 
 msgid "ai_ap_application_installer"
 msgstr "程序管理器"
@@ -176,15 +176,20 @@ msgstr "目录已安装却被禁用.\n立即启用?"
 msgid "ai_ia_add_catalogue_install"
 msgstr "要从此软件源安装，请将其加入目录。"
 
+#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
 msgstr "从本目录安装的程序不是Nokia提供的备的恶意程序."
 
+#, fuzzy
 msgid "ai_ia_details_use_pc"
-msgstr "系统更新需要你在电脑上安装Nokia软件更新程序.\n把设备通过USB数据线连接你的电脑更新操作."
+msgstr ""
+"系统更新需要你在电脑上安装Nokia软件更新程序.\n"
+"把设备通过USB数据线连接你的电脑更新操作."
 
 msgid "ai_ia_failed_catalogue"
 msgstr "刷新失败"
 
+#, fuzzy
 msgid "ai_ia_osupdate_pc"
 msgstr ""
 "更新到该版本的操作系统需要你在电脑上使用Nokia PC Suite更新程序。\n"
@@ -280,11 +285,21 @@ msgstr "下载 '%s' 失败. 再试一次?"
 msgid "ai_nc_install"
 msgstr "安装程序?\n%1$s%3$s"
 
+#, fuzzy
 msgid "ai_nc_non_verified_package"
-msgstr "注意：您將要安裝的应用程序並不是由诺基亚提供。使用来历不明的软件可能包含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设备。此应用程序也可能受到第三方的版权和授权条款约束\n您需要承担应用程序安装后的风险。"
+msgstr ""
+"注意：您將要安裝的应用程序並不是由 Maemo Leste 提供。使用来历不明的软件可能包"
+"含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设"
+"备。此应用程序也可能受到第三方的版权和授权条款约束\n"
+"您需要承担应用程序安装后的风险。"
 
+#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
-msgstr "注意：您將要安裝的应用程序並不是由诺基亚提供。使用来历不明的软件可能包含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设备。此应用程序也可能受到第三方的版权和授权条款约束\n您需要承担应用程序安装后的风险。"
+msgstr ""
+"注意：您將要安裝的应用程序並不是由 Maemo Leste 提供。使用来历不明的软件可能包"
+"含恶意应用程序，它可能令您造成经济损失，读取在您设备内的个人资料或损坏您的设"
+"备。此应用程序也可能受到第三方的版权和授权条款约束\n"
+"您需要承担应用程序安装后的风险。"
 
 msgid "ai_nc_remove_repository"
 msgstr "删除目录?\n来自于此目录的程序包列表将被清空."

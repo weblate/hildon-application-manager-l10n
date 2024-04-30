@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20091109114414\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2021-05-26 13:33+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-04-28 03:07+0000\n"
+"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-application-manager-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.5.1\n"
 
 # Name of Application manager shown as application title
 msgid "ai_ap_application_installer"
@@ -241,15 +241,23 @@ msgid "ai_bd_confirm_ok"
 msgstr "Devam et"
 
 # Text shown to the user when s/he has selected a non-Nokia package to be installed / updated. This text cannot be changed, it’s legal text.
+#, fuzzy
 msgid "ai_nc_non_verified_package"
 msgstr ""
-"Kurmak üzere olduğunuz uygulama Nokia kaynaklı değildir. Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
+"Kurmak üzere olduğunuz uygulama Nokia kaynaklı değildir. Güvenilmeyen "
+"kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere "
+"ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü "
+"parti haklara ve lisanslara tabi olabilir.\n"
 "Kurulum sizin sorumluluğunuzda olacaktır."
 
 # Text shown to the user when s/he has selected multiple non-Nokia packages to be installed / updated. This text cannot be changed, it’s legal text.
+#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
 msgstr ""
-"Kurmak üzere olduğunuz uygulamalardan bazıları Nokia kaynaklı değildir. Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
+"Kurmak üzere olduğunuz uygulamalardan bazıları Nokia kaynaklı değildir. "
+"Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, "
+"verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. "
+"Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
 "Installation will be at your own risk."
 
 # Confirmation checkbox label.
@@ -366,10 +374,14 @@ msgid "ai_va_details_catalogue"
 msgstr "Katalog:"
 
 # Content of the summary tap that guides the user to use Nokia Software Updater –application in PC by plugging the UBS cable between the device and the PC to handle the update, because the application manager is not able to do it.
+#, fuzzy
 msgid "ai_ia_details_use_pc"
 msgstr ""
-"Bu uygulama güncellemesi kurulum için PCnizdeki Nokia güncelleme uygulamasına (NSU) ihtiyaç duyuyor. \n"
-"Connect device to PC via USB cable and open Nokia software update application. The application will guide you through the rest of the Maemo update."
+"Bu uygulama güncellemesi kurulum için PCnizdeki Nokia güncelleme "
+"uygulamasına (NSU) ihtiyaç duyuyor. \n"
+"Connect device to PC via USB cable and open Nokia software update "
+"application. The application will guide you through the rest of the Maemo "
+"update."
 
 # Title in Notebook
 msgid "ai_ti_details_noteb_description"
@@ -528,8 +540,12 @@ msgid "ai_ia_add_catalogue_install"
 msgstr "Bu kaynaktan kurmak için, katalogunu ekleyin."
 
 # Informative text in Add catalogue –dialog, tells the user that Nokia takes no liability if the catalogue harms the device or causes financial harm.
+#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
-msgstr "Bu katalogdan yapılacak yükleme Nokia tarafından sağlanmamaktadır ve cihazınıza zarar verebilir, verilerinize ulaşabilir, cihaza hasar verebilir veya mali zararlara sebep olabilir."
+msgstr ""
+"Bu katalogdan yapılacak yükleme Nokia tarafından sağlanmamaktadır ve "
+"cihazınıza zarar verebilir, verilerinize ulaşabilir, cihaza hasar verebilir "
+"veya mali zararlara sebep olabilir."
 
 # Informative text in Add catalogue –dialog, where %s is the name of the catalogue
 msgid "ai_ia_add_catalogue_add"
@@ -641,6 +657,7 @@ msgid "ai_bd_create_backup"
 msgstr "Yedekle"
 
 # This text is shown to the user, when s/he needs to re-flash the device with PC. The Application manager part should be translated like ai_ap_application_installer. The "Nokia software updater" is a name of an application and must be translated like the application is translated company wide. That application is first installed to the PC and after that the user can use the PC and that application to re-flash the device.
+#, fuzzy
 msgid "ai_ia_osupdate_pc"
 msgstr ""
 "Aygıtınızı bu işletim sistemi sürümüne güncellemek için bilgisayarınızda "
