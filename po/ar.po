@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20091109114414\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2010-04-27 23:40+0400\n"
-"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2024-04-28 03:07+0000\n"
+"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/ar/>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.5.1\n"
 
 msgid "ai_ap_application_installer"
 msgstr "مدير البرامج"
@@ -174,20 +177,28 @@ msgstr ""
 msgid "ai_ia_add_catalogue_install"
 msgstr "للتثبيت من هذا المصدر, يجب إضافة الكتالوج الخاص به."
 
+#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
-msgstr "التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خللاً في النظام."
+msgstr ""
+"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث "
+"خللاً في النظام."
 
+#, fuzzy
 msgid "ai_ia_details_use_pc"
 msgstr ""
-"تحديث الميمو المطلوب يتطلب برنامج التحديث عبر نوكيا المتوفر على جهازك لتحميل.\n"
-"وقتح برنامج تحديث نوكيا ، البرنامج سوف يوفر لك التحديث الخاص بالميمو USB قم بتوصيل الجهاز بالكمبيوتر عبر ."
+"تحديث الميمو المطلوب يتطلب برنامج التحديث عبر نوكيا المتوفر على جهازك لتحميل."
+"\n"
+"وقتح برنامج تحديث نوكيا ، البرنامج سوف يوفر لك التحديث الخاص بالميمو USB قم "
+"بتوصيل الجهاز بالكمبيوتر عبر ."
 
 msgid "ai_ia_failed_catalogue"
 msgstr "فشلت عملية التحديث"
 
+#, fuzzy
 msgid "ai_ia_osupdate_pc"
 msgstr ""
-"لتحديث الجهاز إلى هذا الأصدار  من النظام يجب أستخدام برنامج تحديث نوكيا الموجود في الكمبيوتر.\n"
+"لتحديث الجهاز إلى هذا الأصدار  من النظام يجب أستخدام برنامج تحديث نوكيا "
+"الموجود في الكمبيوتر.\n"
 " وشغل البرنامج USB قم بتوصيل الجهاز بالكمبيوتر عبر."
 
 msgid "ai_ia_osupdate_restart"
@@ -283,14 +294,18 @@ msgstr ""
 "%s %s\n"
 "%s"
 
+#, fuzzy
 msgid "ai_nc_non_verified_package"
 msgstr ""
-"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
+"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث "
+"خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
 "التثبيت سيكون على مسؤوليتك."
 
+#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
 msgstr ""
-"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
+"التطبيق المراد تثبيته غير قادم رسمياً من نوكيا وممكن ان يضر بجهازك, أو يحدث "
+"خلل في النظام. قد يكون التطبيق أيضا خاضع لحقوق صاحبه وشروط الترخيص.\n"
 "التثبيت سيكون على مسؤوليتك."
 
 msgid "ai_nc_remove_repository"
@@ -689,4 +704,3 @@ msgstr "الإصدارات الجديدة"
 
 msgid "apma_menu_plugin_title_software_updates"
 msgstr "التحديثات جديدة"
-

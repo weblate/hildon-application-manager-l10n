@@ -5,20 +5,22 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20091109114414\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2010.01.19 11:03+0200\n"
-"PO-Revision-Date: 2010-03-27 21:58+0100\n"
-"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"PO-Revision-Date: 2024-04-28 03:07+0000\n"
+"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/sk/>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.1\n"
 
 msgid "ai_ap_application_installer"
 msgstr "Správca aplikácií"
 
 msgid "ai_ap_name"
-msgstr "Správca apl."
+msgstr "Správca aplikácie"
 
 msgid "ai_bd_add_catalogue_details"
 msgstr "Podrobnosti"
@@ -177,12 +179,14 @@ msgstr ""
 msgid "ai_ia_add_catalogue_install"
 msgstr "Ak chcete vykonať inštaláciu z tohoto zdroja, pridajte jeho katalóg."
 
+#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
 msgstr ""
 "Softvér nainštalovaný z tohoto katalógu neposkytuje spoločnosť Nokia. Môže "
 "obsahovať škodlivý softvér, ktorý môže získať prístup k dátam uloženým v "
 "prístroji a spôsobiť finančné škody alebo poškodenie prístroja."
 
+#, fuzzy
 msgid "ai_ia_details_use_pc"
 msgstr ""
 "K inštalácií tejto aktualizácie Maemo je v počítači vyžadovaná inštalovaná "
@@ -193,6 +197,7 @@ msgstr ""
 msgid "ai_ia_failed_catalogue"
 msgstr "obnovenie sa nepodarilo"
 
+#, fuzzy
 msgid "ai_ia_osupdate_pc"
 msgstr ""
 "Pokiaľ chcete zariadenie aktualizovať na túto verziu operačného systému "
@@ -301,6 +306,7 @@ msgstr ""
 "%s %s\n"
 "%s"
 
+#, fuzzy
 msgid "ai_nc_non_verified_package"
 msgstr ""
 "Aplikáciu, ktorú sa chystáte nainštalovať, nie je poskytovaná spoločnosťou "
@@ -310,6 +316,7 @@ msgstr ""
 "práva a licenčných podmienok tretích strán.\n"
 "Inštalácia bude uskutočnená na vaše riziko."
 
+#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
 msgstr ""
 "Niektoré aplikácie, ktoré sa chystáte nainštalovať, nie sú poskytované "

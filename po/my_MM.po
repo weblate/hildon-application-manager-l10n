@@ -3,16 +3,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2010-11-30 11:28+0000\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2024-04-28 03:07+0000\n"
+"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
+"Language-Team: Burmese <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/my/>\n"
+"Language: my_MM\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: my\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.1\n"
 
 msgid "ai_ap_application_installer"
 msgstr "Application manager"
@@ -173,17 +176,31 @@ msgstr "Catalog already installed but disabled.\nEnable now?"
 msgid "ai_ia_add_catalogue_install"
 msgstr "To install from this source, add its catalog."
 
+#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
-msgstr "Software installed from this catalog is not provided by Nokia and may include malware that access data stored in the device, cause financial damage or harm the device."
+msgstr ""
+"Software installed from this catalog is not provided by Nokia and may "
+"include malware that access data stored in the device, cause financial "
+"damage or harm the device."
 
+#, fuzzy
 msgid "ai_ia_details_use_pc"
-msgstr "This Maemo update requires the Nokia software update application on your PC for installation.\nConnect device to PC via USB cable and open Nokia software update application. The application will guide you through the rest of the Maemo update."
+msgstr ""
+"This Maemo update requires the Nokia software update application on your PC "
+"for installation.\n"
+"Connect device to PC via USB cable and open Nokia software update "
+"application. The application will guide you through the rest of the Maemo "
+"update."
 
 msgid "ai_ia_failed_catalogue"
 msgstr "failed to refresh"
 
+#, fuzzy
 msgid "ai_ia_osupdate_pc"
-msgstr "To update your device to this version of the operating system you must use the Nokia software update application on your PC.\nConnect the device to your PC via a USB cable and launch the application."
+msgstr ""
+"To update your device to this version of the operating system you must use "
+"the Nokia software update application on your PC.\n"
+"Connect the device to your PC via a USB cable and launch the application."
 
 msgid "ai_ia_osupdate_restart"
 msgstr "All applications will be closed during installation and all functions will be disabled, including making emergency calls.\nThe device will then restart.\nCreating a backup beforehand is recommended."
@@ -252,11 +269,12 @@ msgid "ai_me_refresh"
 msgstr "Refresh"
 
 msgid "ai_me_search"
-msgstr "Search"
+msgstr "ရှာရန်"
 
 msgid "ai_me_settings"
-msgstr "Settings"
+msgstr "ဆက္တင္"
 
+#, fuzzy
 msgid "ai_me_tools_log"
 msgstr "Log"
 
@@ -275,11 +293,25 @@ msgstr "Downloading '%s' failed. Try again?"
 msgid "ai_nc_install"
 msgstr "%s %s\n%s"
 
+#, fuzzy
 msgid "ai_nc_non_verified_package"
-msgstr "The application you are about to install is not provided by Nokia. Applications from untrusted sources may include malware that can cause financial damage, access data stored on the device or otherwise harm the device. The application may also be subject to third-party rights and license terms.\nInstallation will be at your own risk."
+msgstr ""
+"The application you are about to install is not provided by Nokia. "
+"Applications from untrusted sources may include malware that can cause "
+"financial damage, access data stored on the device or otherwise harm the "
+"device. The application may also be subject to third-party rights and "
+"license terms.\n"
+"Installation will be at your own risk."
 
+#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
-msgstr "Some of the applications you are about to install are not provided by Nokia. Applications from untrusted sources may include malware that can cause financial damage, access data stored on the device, or otherwise harm the device. The applications may also be subject to third-party rights and license terms.\nInstallation will be at your own risk."
+msgstr ""
+"Some of the applications you are about to install are not provided by Nokia. "
+"Applications from untrusted sources may include malware that can cause "
+"financial damage, access data stored on the device, or otherwise harm the "
+"device. The applications may also be subject to third-party rights and "
+"license terms.\n"
+"Installation will be at your own risk."
 
 msgid "ai_nc_remove_repository"
 msgstr "Delete catalog?\nApplication packages offered by this catalog will no longer be available for installation and upgrades."
