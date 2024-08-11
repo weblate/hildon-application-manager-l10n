@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20091109114414\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2024-04-28 03:07+0000\n"
-"Last-Translator: Yifei Zhan <weblate@zhan.science>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-application-manager-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.1\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Name of Application manager shown as application title
 msgid "ai_ap_application_installer"
@@ -184,7 +184,7 @@ msgstr "Hepsini güncelle"
 
 # Context sensitive menu command in application package lists, opens a dialog.
 msgid "ai_me_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # New Software Releases dialog title
 msgid "ai_sb_app_push_desc"
@@ -234,31 +234,31 @@ msgstr ""
 
 # Dialog Button in Confirm installation / update –dialog
 msgid "ai_bd_confirm_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # Dialog Button in Confirm installation / update –dialog also used in case of uninstall.
 msgid "ai_bd_confirm_ok"
 msgstr "Devam et"
 
 # Text shown to the user when s/he has selected a non-Nokia package to be installed / updated. This text cannot be changed, it’s legal text.
-#, fuzzy
 msgid "ai_nc_non_verified_package"
 msgstr ""
-"Kurmak üzere olduğunuz uygulama Nokia kaynaklı değildir. Güvenilmeyen "
-"kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, verilere "
-"ulaşabilir veya başka şekillerde cihaza hasar verebilirler. Uygulama üçüncü "
-"parti haklara ve lisanslara tabi olabilir.\n"
+"Kurmak üzere olduğunuz uygulama Maemo Leste tarafından sağlanmamaktadır. "
+"Güvenilmeyen kaynaklardan gelen uygulamalar, mali hasara neden olabilecek, "
+"aygıtta depolanan verilere erişebilecek veya aygıta başka şekilde zarar "
+"verebilecek kötü amaçlı yazılımlar içerebilir. Uygulama ayrıca üçüncü taraf "
+"haklarına ve lisans koşullarına tabi olabilir.\n"
 "Kurulum sizin sorumluluğunuzda olacaktır."
 
 # Text shown to the user when s/he has selected multiple non-Nokia packages to be installed / updated. This text cannot be changed, it’s legal text.
-#, fuzzy
 msgid "ai_nc_non_verified_package_multiple"
 msgstr ""
-"Kurmak üzere olduğunuz uygulamalardan bazıları Nokia kaynaklı değildir. "
-"Güvenilmeyen kaynaklardan gelen uygulamalar mali hasarlara yol açabilir, "
-"verilere ulaşabilir veya başka şekillerde cihaza hasar verebilirler. "
-"Uygulama üçüncü parti haklara ve lisanslara tabi olabilir.\n"
-"Installation will be at your own risk."
+"Kurmak üzere olduğunuz uygulamalardan bazıları Maemo Leste tarafından "
+"sağlanmamaktadır. Güvenilmeyen kaynaklardan gelen uygulamalar, mali hasara "
+"neden olabilecek, aygıtta depolanan verilere erişebilecek veya aygıta başka "
+"şekilde zarar verebilecek kötü amaçlı yazılımlar içerebilir. Uygulamalar "
+"ayrıca üçüncü taraf haklarına ve lisans koşullarına tabi olabilir.\n"
+"Kurulum sizin sorumluluğunuzda olacaktır."
 
 # Confirmation checkbox label.
 msgid "ai_ti_confirmation_checkbox"
@@ -291,7 +291,7 @@ msgstr ""
 
 # Title of Application details-dialog
 msgid "ai_ti_details"
-msgstr "Uygulama detayları"
+msgstr "Uygulama ayrıntıları"
 
 # Title in Notebook
 msgid "ai_ti_details_noteb_common"
@@ -374,14 +374,11 @@ msgid "ai_va_details_catalogue"
 msgstr "Katalog:"
 
 # Content of the summary tap that guides the user to use Nokia Software Updater –application in PC by plugging the UBS cable between the device and the PC to handle the update, because the application manager is not able to do it.
-#, fuzzy
 msgid "ai_ia_details_use_pc"
 msgstr ""
-"Bu uygulama güncellemesi kurulum için PCnizdeki Nokia güncelleme "
-"uygulamasına (NSU) ihtiyaç duyuyor. \n"
-"Connect device to PC via USB cable and open Nokia software update "
-"application. The application will guide you through the rest of the Maemo "
-"update."
+"Bu Maemo güncellemesi kurulum için bilgisayarınızı gerektirir.\n"
+"Aygıtı USB kablosuyla bilgisayara bağlayın ve uygulama Maemo güncellemesinin "
+"geri kalanında size rehberlik edecektir."
 
 # Title in Notebook
 msgid "ai_ti_details_noteb_description"
@@ -413,23 +410,23 @@ msgstr "Özet:"
 
 # Value in Application details-dialog, where first %s is the name of the package and second %s the size required shown in format detailed in chapter 4.1.3.
 msgid "ai_va_details_install_requires"
-msgstr "'%1$s' kurulumu %2$s cihaz belleğine ihtiyaç duyar"
+msgstr "'%1$s' kurulumu %2$s aygıt belleğine ihtiyaç duyar"
 
 # Value in Application details-dialog, where first %s is the name of the package and second %s the size freed shown in format detailed in chapter 4.1.3.
 msgid "ai_va_details_install_frees"
-msgstr "'%1$s' kurulumu %2$s cihaz belleğini boşaltır"
+msgstr "'%1$s' kurulumu %2$s aygıt belleğini boşaltır"
 
 # Value in Application details-dialog, where first %s is the name of the package and second %s the size required shown in format detailed in chapter 4.1.3.
 msgid "ai_va_details_update_requires"
-msgstr "'%1$s' güncellemesi %2$s cihaz belleğine ihtiyaç duyar"
+msgstr "'%1$s' güncellemesi %2$s aygıt belleğine ihtiyaç duyar"
 
 # Value in Application details-dialog, where first %s is the name of the package and second %s the size freed shown in format detailed in chapter 4.1.3.
 msgid "ai_va_details_update_frees"
-msgstr "'%1$s' güncellemesi %2$s cihaz belleğini boşaltır"
+msgstr "'%1$s' güncellemesi %2$s aygıt belleğini boşaltır"
 
 # Value in Application details-dialog, where first %s is the name of the package and second %s the freed size shown in format detailed in chapter 4.1.3.
 msgid "ai_va_details_uninstall_frees"
-msgstr "'%1$s' kaldırılması %2$s cihaz belleğini boşaltır"
+msgstr "'%1$s' kaldırılması %2$s aygıt belleğini boşaltır"
 
 # Value in Application details-dialog
 msgid "ai_va_details_unable_install"
@@ -509,7 +506,7 @@ msgstr "Kaydet"
 
 # Title of Catalogue details (editable)–dialog
 msgid "ai_ti_edit_repository"
-msgstr "Katalog detayları"
+msgstr "Katalog ayrıntıları"
 
 # Field item in Catalogue details –dialog
 msgid "ai_ti_catalogue_details_name"
@@ -540,12 +537,11 @@ msgid "ai_ia_add_catalogue_install"
 msgstr "Bu kaynaktan kurmak için, katalogunu ekleyin."
 
 # Informative text in Add catalogue –dialog, tells the user that Nokia takes no liability if the catalogue harms the device or causes financial harm.
-#, fuzzy
 msgid "ai_ia_add_catalogue_legal"
 msgstr ""
-"Bu katalogdan yapılacak yükleme Nokia tarafından sağlanmamaktadır ve "
-"cihazınıza zarar verebilir, verilerinize ulaşabilir, cihaza hasar verebilir "
-"veya mali zararlara sebep olabilir."
+"Bu katalogdan kurulan yazılımlar Maemo Leste tarafından sağlanmamaktadır ve "
+"aygıtta depolanan verilere erişen, mali hasara neden olan veya aygıta zarar "
+"veren kötü amaçlı yazılımlar içerebilir."
 
 # Informative text in Add catalogue –dialog, where %s is the name of the catalogue
 msgid "ai_ia_add_catalogue_add"
@@ -561,7 +557,7 @@ msgstr ""
 
 # Dialog button in Add catalogue –dialog
 msgid "ai_bd_add_catalogue_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # Dialog button in Add catalogue –dialog
 msgid "ai_bd_add_catalogue_ok"
@@ -647,9 +643,10 @@ msgstr "Maemo güncellemesi"
 # Dialog shown when user is going to install OS update. Includes information, instructions and suggestion about creating backup.
 msgid "ai_ia_osupdate_restart"
 msgstr ""
-"Kurulum sırasında tüm uygulamalar kapatılacak ve tüm fonksiyonlar etkisizleşecektir (acil aramalar dahil).\n"
-"Ardından cihaz yeniden başlayacaktır.\n"
-"Bu sırada cihazı kullanmayın.\n"
+"Kurulum sırasında tüm uygulamalar kapatılacak ve tüm fonksiyonlar "
+"etkisizleşecektir (acil aramalar dahil).\n"
+"Ardından aygıt yeniden başlayacaktır.\n"
+"Bu sırada aygıtı kullanmayın.\n"
 "Yedek almanız önerilir."
 
 # Dialog Button
@@ -657,11 +654,10 @@ msgid "ai_bd_create_backup"
 msgstr "Yedekle"
 
 # This text is shown to the user, when s/he needs to re-flash the device with PC. The Application manager part should be translated like ai_ap_application_installer. The "Nokia software updater" is a name of an application and must be translated like the application is translated company wide. That application is first installed to the PC and after that the user can use the PC and that application to re-flash the device.
-#, fuzzy
 msgid "ai_ia_osupdate_pc"
 msgstr ""
-"Aygıtınızı bu işletim sistemi sürümüne güncellemek için bilgisayarınızda "
-"Nokia PC Suite kullanmalısınız.\n"
+"Aygıtınızı işletim sisteminin bu sürümüne güncellemek için bilgisayarınızı "
+"kullanmanız gerekir.\n"
 "Aygıtı bir USB kablosuyla bilgisayarınıza bağlayın ve uygulamayı başlatın."
 
 # Title of the Select application –dialog
@@ -751,7 +747,7 @@ msgstr[1] "%d uygulama başarıyla kuruldu"
 
 # Information banner shown to the user when the update of multiple packages has been installed and the device needs to be restarted afterwards.
 msgid "ai_cb_restarting_device"
-msgstr "Cihaz yeniden başlatılıyor"
+msgstr "Aygıt yeniden başlatılıyor"
 
 # Information note shown, when all applications from the backup file are already installed and user tries to install them again.
 msgid "ai_ni_all_installed"
@@ -763,10 +759,14 @@ msgstr "İşletim sistemi başarıyla güncellendi"
 
 # Information note shown during system update process when restart is required.
 msgid "ai_ni_device_restart"
-msgstr "İşletim sistemi başarıyla güncellendi. Cihaz şimdi yeniden başlayacak. İşlemi bölmek cihaza zarar verebileceğinden lütfen bekleyin."
+msgstr ""
+"İşletim sistemi başarıyla güncellendi. Aygıt şimdi yeniden başlayacak. "
+"İşlemi bölmek aygıta zarar verebileceğinden lütfen bekleyin."
 
 msgid "ai_ni_device_restart_long"
-msgstr "İşletim sistemi başarıyla güncellendi. Cihaz şimdi yeniden başlayacak. İşlemi bölmek cihaza zarar verebileceğinden lütfen bekleyin."
+msgstr ""
+"İşletim sistemi başarıyla güncellendi. Aygıt şimdi yeniden başlayacak. "
+"İşlemi bölmek aygıta zarar verebileceğinden lütfen bekleyin."
 
 # Information note shown after software updates, when there is no need for rebooting.
 msgid "ai_ni_software_update_installed"
@@ -774,7 +774,7 @@ msgstr "Yazılım güncellemeleri başarıyla kuruldu"
 
 # Information note shown after software updates, when there is need for restarting.
 msgid "ai_ni_updates_restart"
-msgstr "Yazılım güncellemeleri başarıyla kuruldu. Cihaz yeniden başlayacak."
+msgstr "Yazılım güncellemeleri başarıyla kuruldu. Aygıt yeniden başlayacak."
 
 # Confirmation note shown to the user when s/he has selected a catalogue to be deleted from the list. If the user selects "Yes" the catalogue will be deleted.
 msgid "ai_nc_remove_repository"
@@ -800,7 +800,7 @@ msgid "ai_ni_update_partly_successful"
 msgstr ""
 "Uygulama listesi kısmen yenilendi.\n"
 "Bazı kataloglar uygun değil.\n"
-"Katalog detaylarını kontrol edin."
+"Katalog ayrıntılarına bakın."
 
 # The user will be asked if s/he still wants to continue installing process after the error message.
 msgid "ai_ni_continue_install"
@@ -852,7 +852,7 @@ msgstr ""
 
 # Button used in some error notifications
 msgid "ai_ni_bd_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # The package is created for older OS edition and it is not compatible with the current OS edition
 msgid "ai_ni_error_n770package_incompatible"
