@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-application-manager 20100119110327\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.19 11:03+0200\n"
+"PO-Revision-Date: 2010.01.19 11:03+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ai_ap_application_installer"
+msgstr ""
+
+msgid "ai_ap_name"
+msgstr ""
+
+msgid "ai_bd_add_catalogue_details"
+msgstr ""
+
+msgid "ai_bd_add_catalogue_ok"
+msgstr ""
+
+msgid "ai_bd_confirm_details"
+msgstr ""
+
+msgid "ai_bd_confirm_ok"
+msgstr ""
+
+msgid "ai_bd_confirm_uninstall"
+msgstr ""
+
+msgid "ai_bd_create_backup"
+msgstr ""
+
+msgid "ai_bd_license_ok"
+msgstr ""
+
+msgid "ai_bd_log_clear"
+msgstr ""
+
+msgid "ai_bd_log_save_as"
+msgstr ""
+
+msgid "ai_bd_new_repository_ok"
+msgstr ""
+
+msgid "ai_bd_repository_delete"
+msgstr ""
+
+msgid "ai_bd_repository_new"
+msgstr ""
+
+msgid "ai_bd_search_ok"
+msgstr ""
+
+msgid "ai_category_all"
+msgstr ""
+
+msgid "ai_category_desktop"
+msgstr ""
+
+msgid "ai_category_development"
+msgstr ""
+
+msgid "ai_category_education"
+msgstr ""
+
+msgid "ai_category_games"
+msgstr ""
+
+msgid "ai_category_graphics"
+msgstr ""
+
+msgid "ai_category_multimedia"
+msgstr ""
+
+msgid "ai_category_navigation"
+msgstr ""
+
+msgid "ai_category_network"
+msgstr ""
+
+msgid "ai_category_office"
+msgstr ""
+
+msgid "ai_category_other"
+msgstr ""
+
+msgid "ai_category_science"
+msgstr ""
+
+msgid "ai_category_sharing_plugins"
+msgstr ""
+
+msgid "ai_category_system"
+msgstr ""
+
+msgid "ai_category_utilities"
+msgstr ""
+
+msgid "ai_cb_restarting_device"
+msgstr ""
+
+msgid "ai_fi_details_category"
+msgstr ""
+
+msgid "ai_fi_details_maintainer"
+msgstr ""
+
+msgid "ai_fi_details_package"
+msgstr ""
+
+msgid "ai_fi_details_packages_conflicting"
+msgstr ""
+
+msgid "ai_fi_details_packages_install"
+msgstr ""
+
+msgid "ai_fi_details_packages_missing"
+msgstr ""
+
+msgid "ai_fi_details_packages_needing"
+msgstr ""
+
+msgid "ai_fi_details_packages_uninstall"
+msgstr ""
+
+msgid "ai_fi_details_packages_update"
+msgstr ""
+
+msgid "ai_fi_details_status"
+msgstr ""
+
+msgid "ai_fi_details_summary"
+msgstr ""
+
+msgid "ai_fi_new_repository_component"
+msgstr ""
+
+msgid "ai_fi_new_repository_disabled"
+msgstr ""
+
+msgid "ai_fi_new_repository_distribution"
+msgstr ""
+
+msgid "ai_fi_new_repository_name"
+msgstr ""
+
+msgid "ai_fi_new_repository_web_address"
+msgstr ""
+
+msgid "ai_fi_search_area"
+msgstr ""
+
+msgid "ai_fi_search_words"
+msgstr ""
+
+msgid "ai_fib_web_address"
+msgstr ""
+
+msgid "ai_ia_add_catalogue_add"
+msgstr ""
+
+msgid "ai_ia_add_catalogue_enable"
+msgstr ""
+
+msgid "ai_ia_add_catalogue_install"
+msgstr ""
+
+msgid "ai_ia_add_catalogue_legal"
+msgstr ""
+
+msgid "ai_ia_details_use_pc"
+msgstr ""
+
+msgid "ai_ia_failed_catalogue"
+msgstr ""
+
+msgid "ai_ia_osupdate_pc"
+msgstr ""
+
+msgid "ai_ia_osupdate_restart"
+msgstr ""
+
+msgid "ai_ia_restore"
+msgstr ""
+
+msgid "ai_ia_select_package_no_packages"
+msgstr ""
+
+msgid "ai_ia_storage"
+msgstr ""
+
+msgid "ai_ib_enter_name"
+msgstr ""
+
+msgid "ai_ib_enter_text"
+msgstr ""
+
+msgid "ai_ib_enter_web_address"
+msgstr ""
+
+msgid "ai_ib_no_matches"
+msgstr ""
+
+msgid "ai_ib_no_repositories"
+msgstr ""
+
+msgid "ai_ib_search_complete"
+msgstr ""
+
+msgid "ai_ib_unable_cancel"
+msgstr ""
+
+msgid "ai_ib_unable_edit"
+msgstr ""
+
+msgid "ai_li_install"
+msgstr ""
+
+msgid "ai_li_no_applications_available"
+msgstr ""
+
+msgid "ai_li_no_installed_applications"
+msgstr ""
+
+msgid "ai_li_no_updates_available"
+msgstr ""
+
+msgid "ai_li_save_log_default_name"
+msgstr ""
+
+msgid "ai_li_uninstall"
+msgstr ""
+
+msgid "ai_li_update"
+msgstr ""
+
+msgid "ai_me_details"
+msgstr ""
+
+msgid "ai_me_package_install_file"
+msgstr ""
+
+msgid "ai_me_refresh"
+msgstr ""
+
+msgid "ai_me_search"
+msgstr ""
+
+msgid "ai_me_settings"
+msgstr ""
+
+msgid "ai_me_tools_log"
+msgstr ""
+
+msgid "ai_me_tools_repository"
+msgstr ""
+
+msgid "ai_me_tools_restore"
+msgstr ""
+
+msgid "ai_me_update_all"
+msgstr ""
+
+msgid "ai_nc_error_download_failed"
+msgstr ""
+
+msgid "ai_nc_install"
+msgstr ""
+
+msgid "ai_nc_non_verified_package"
+msgstr ""
+
+msgid "ai_nc_non_verified_package_multiple"
+msgstr ""
+
+msgid "ai_nc_remove_repository"
+msgstr ""
+
+msgid "ai_nc_uninstall"
+msgstr ""
+
+msgid "ai_nc_update"
+msgstr ""
+
+msgid "ai_nc_update_all"
+msgstr ""
+
+msgid "ai_ni_all_installed"
+msgstr ""
+
+msgid "ai_ni_bd_details"
+msgstr ""
+
+msgid "ai_ni_continue_install"
+msgstr ""
+
+msgid "ai_ni_device_restart"
+msgstr ""
+
+msgid "ai_ni_device_restart_long"
+msgstr ""
+
+msgid "ai_ni_error_battery_empty"
+msgstr ""
+
+msgid "ai_ni_error_catalogue_incompatible"
+msgstr ""
+
+msgid "ai_ni_error_download_failed"
+msgstr ""
+
+msgid "ai_ni_error_download_missing"
+msgstr ""
+
+msgid "ai_ni_error_install_conflict"
+msgstr ""
+
+msgid "ai_ni_error_install_corrupted"
+msgstr ""
+
+msgid "ai_ni_error_install_incompatible"
+msgstr ""
+
+msgid "ai_ni_error_install_missing"
+msgstr ""
+
+msgid "ai_ni_error_installation_failed"
+msgstr ""
+
+msgid "ai_ni_error_n770package_incompatible"
+msgstr ""
+
+msgid "ai_ni_error_uninstall_applicationrunning"
+msgstr ""
+
+msgid "ai_ni_error_uninstall_packagesneeded"
+msgstr ""
+
+msgid "ai_ni_error_uninstallation_failed"
+msgstr ""
+
+msgid "ai_ni_error_update_conflict"
+msgstr ""
+
+msgid "ai_ni_error_update_corrupted"
+msgstr ""
+
+msgid "ai_ni_error_update_failed"
+msgstr ""
+
+msgid "ai_ni_error_update_incompatible"
+msgstr ""
+
+msgid "ai_ni_error_update_missing"
+msgstr ""
+
+msgid "ai_ni_error_updating_cancelled"
+msgstr ""
+
+msgid "ai_ni_install_successful_launch"
+msgstr ""
+
+msgid "ai_ni_memory_shortage"
+msgstr ""
+
+msgid "ai_ni_multiple_install"
+msgid_plural "ai_ni_multiple_installs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "ai_ni_operation_failed"
+msgstr ""
+
+msgid "ai_ni_operation_progress"
+msgstr ""
+
+msgid "ai_ni_package_installed"
+msgstr ""
+
+msgid "ai_ni_software_update_installed"
+msgstr ""
+
+msgid "ai_ni_system_update_installed"
+msgstr ""
+
+msgid "ai_ni_unable_remove_repository"
+msgstr ""
+
+msgid "ai_ni_uninstall_successful"
+msgstr ""
+
+msgid "ai_ni_update_list_not_successful"
+msgstr ""
+
+msgid "ai_ni_update_partly_successful"
+msgstr ""
+
+msgid "ai_ni_updates_restart"
+msgstr ""
+
+msgid "ai_nw_checking_updates"
+msgstr ""
+
+msgid "ai_nw_connecting"
+msgstr ""
+
+msgid "ai_nw_downloading"
+msgstr ""
+
+msgid "ai_nw_installing"
+msgstr ""
+
+msgid "ai_nw_preparing_installation"
+msgstr ""
+
+msgid "ai_nw_searching"
+msgstr ""
+
+msgid "ai_nw_uninstalling"
+msgstr ""
+
+msgid "ai_nw_updating"
+msgstr ""
+
+msgid "ai_pb_progress"
+msgstr ""
+
+msgid "ai_sb_app_push_desc"
+msgstr ""
+
+msgid "ai_sb_app_push_link"
+msgstr ""
+
+msgid "ai_sb_app_push_no"
+msgstr ""
+
+msgid "ai_sb_update_am"
+msgstr ""
+
+msgid "ai_sb_update_description"
+msgstr ""
+
+msgid "ai_sb_update_nokia_%d"
+msgstr ""
+
+msgid "ai_sb_update_os"
+msgstr ""
+
+msgid "ai_sb_update_thirdparty_%d"
+msgstr ""
+
+msgid "ai_ti_add_catalogue"
+msgstr ""
+
+msgid "ai_ti_catalogue_details_component"
+msgstr ""
+
+msgid "ai_ti_catalogue_details_distribution"
+msgstr ""
+
+msgid "ai_ti_catalogue_details_name"
+msgstr ""
+
+msgid "ai_ti_catalogue_details_web_address"
+msgstr ""
+
+msgid "ai_ti_confirm_install"
+msgstr ""
+
+msgid "ai_ti_confirm_uninstall"
+msgstr ""
+
+msgid "ai_ti_confirm_update"
+msgstr ""
+
+msgid "ai_ti_confirmation_checkbox"
+msgstr ""
+
+msgid "ai_ti_details"
+msgstr ""
+
+msgid "ai_ti_details_noteb_common"
+msgstr ""
+
+msgid "ai_ti_details_noteb_dependencies"
+msgstr ""
+
+msgid "ai_ti_details_noteb_description"
+msgstr ""
+
+msgid "ai_ti_details_noteb_installing"
+msgstr ""
+
+msgid "ai_ti_details_noteb_problems"
+msgstr ""
+
+msgid "ai_ti_details_noteb_uninstalling"
+msgstr ""
+
+msgid "ai_ti_details_noteb_updating"
+msgstr ""
+
+msgid "ai_ti_edit_repository"
+msgstr ""
+
+msgid "ai_ti_eula_confirmation"
+msgstr ""
+
+msgid "ai_ti_failed_repositories"
+msgstr ""
+
+msgid "ai_ti_install_apps"
+msgstr ""
+
+msgid "ai_ti_license_agreement"
+msgstr ""
+
+msgid "ai_ti_log"
+msgstr ""
+
+msgid "ai_ti_new_repository"
+msgstr ""
+
+msgid "ai_ti_operating_system_update"
+msgstr ""
+
+msgid "ai_ti_repository"
+msgstr ""
+
+msgid "ai_ti_save_log"
+msgstr ""
+
+msgid "ai_ti_search"
+msgstr ""
+
+msgid "ai_ti_select_package"
+msgstr ""
+
+msgid "ai_va_details_available_version"
+msgstr ""
+
+msgid "ai_va_details_catalogue"
+msgstr ""
+
+msgid "ai_va_details_download_size"
+msgstr ""
+
+msgid "ai_va_details_install_frees"
+msgstr ""
+
+msgid "ai_va_details_install_requires"
+msgstr ""
+
+msgid "ai_va_details_installed_version"
+msgstr ""
+
+msgid "ai_va_details_no_info"
+msgstr ""
+
+msgid "ai_va_details_size"
+msgstr ""
+
+msgid "ai_va_details_status_broken"
+msgstr ""
+
+msgid "ai_va_details_status_broken_not_updateable"
+msgstr ""
+
+msgid "ai_va_details_status_broken_updateable"
+msgstr ""
+
+msgid "ai_va_details_status_installable"
+msgstr ""
+
+msgid "ai_va_details_status_installed"
+msgstr ""
+
+msgid "ai_va_details_status_not_available"
+msgstr ""
+
+msgid "ai_va_details_status_not_installable"
+msgstr ""
+
+msgid "ai_va_details_status_not_updateable"
+msgstr ""
+
+msgid "ai_va_details_status_updateable"
+msgstr ""
+
+msgid "ai_va_details_unable_install"
+msgstr ""
+
+msgid "ai_va_details_unable_uninstall"
+msgstr ""
+
+msgid "ai_va_details_unable_update"
+msgstr ""
+
+msgid "ai_va_details_uninstall_frees"
+msgstr ""
+
+msgid "ai_va_details_update_frees"
+msgstr ""
+
+msgid "ai_va_details_update_requires"
+msgstr ""
+
+msgid "ai_va_search_name"
+msgstr ""
+
+msgid "ai_va_search_name_description"
+msgstr ""
+
+msgid "ai_va_sort_name"
+msgstr ""
+
+msgid "ai_va_sort_size"
+msgstr ""
+
+msgid "apma_fi_by_provider"
+msgstr ""
+
+msgid "apma_menu_plugin_title_software_releases"
+msgstr ""
+
+msgid "apma_menu_plugin_title_software_updates"
+msgstr ""
