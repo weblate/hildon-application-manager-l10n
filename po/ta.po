@@ -3,631 +3,719 @@ msgstr ""
 "Project-Id-Version: hildon-application-manager 20100119110327\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.01.19 11:03+0200\n"
-"PO-Revision-Date: 2010.01.19 11:03+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-18 17:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-application-manager-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "ai_ap_application_installer"
-msgstr ""
+msgstr "பயன்பாட்டு மேலாளர்"
 
 msgid "ai_ap_name"
-msgstr ""
+msgstr "பயன்பாட்டு மேலாளர்"
 
 msgid "ai_bd_add_catalogue_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "ai_bd_add_catalogue_ok"
-msgstr ""
+msgstr "கூட்டு"
 
 msgid "ai_bd_confirm_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "ai_bd_confirm_ok"
-msgstr ""
+msgstr "தொடரவும்"
 
 msgid "ai_bd_confirm_uninstall"
-msgstr ""
+msgstr "நிறுவல் நீக்க"
 
 msgid "ai_bd_create_backup"
-msgstr ""
+msgstr "காப்புப்பிரதியை உருவாக்கவும்"
 
 msgid "ai_bd_license_ok"
-msgstr ""
+msgstr "ஏற்றுக்கொள்"
 
 msgid "ai_bd_log_clear"
-msgstr ""
+msgstr "தெளிவான"
 
 msgid "ai_bd_log_save_as"
-msgstr ""
+msgstr "என சேமி"
 
 msgid "ai_bd_new_repository_ok"
-msgstr ""
+msgstr "சேமி"
 
 msgid "ai_bd_repository_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ai_bd_repository_new"
-msgstr ""
+msgstr "புதிய"
 
 msgid "ai_bd_search_ok"
-msgstr ""
+msgstr "தேடல்"
 
 msgid "ai_category_all"
-msgstr ""
+msgstr "அனைத்தும்"
 
 msgid "ai_category_desktop"
-msgstr ""
+msgstr "டெச்க்டாப்"
 
 msgid "ai_category_development"
-msgstr ""
+msgstr "வளர்ச்சி"
 
 msgid "ai_category_education"
-msgstr ""
+msgstr "கல்வி"
 
 msgid "ai_category_games"
-msgstr ""
+msgstr "விளையாட்டுகள்"
 
 msgid "ai_category_graphics"
-msgstr ""
+msgstr "கிராபிக்ச்"
 
 msgid "ai_category_multimedia"
-msgstr ""
+msgstr "பன்னூடகம்"
 
 msgid "ai_category_navigation"
-msgstr ""
+msgstr "இடம் மற்றும் வழிசெலுத்தல்"
 
 msgid "ai_category_network"
-msgstr ""
+msgstr " பிணையம்"
 
 msgid "ai_category_office"
-msgstr ""
+msgstr "அலுவலகம்"
 
 msgid "ai_category_other"
-msgstr ""
+msgstr "மற்றொன்று"
 
 msgid "ai_category_science"
-msgstr ""
+msgstr "அறிவியல்"
 
 msgid "ai_category_sharing_plugins"
-msgstr ""
+msgstr "செருகுநிரல்களைப் பகிர்கிறது"
 
 msgid "ai_category_system"
-msgstr ""
+msgstr "மண்டலம்"
 
 msgid "ai_category_utilities"
-msgstr ""
+msgstr "பயன்பாடுகள்"
 
 msgid "ai_cb_restarting_device"
-msgstr ""
+msgstr "சாதனத்தை மறுதொடக்கம் செய்தல்"
 
 msgid "ai_fi_details_category"
-msgstr ""
+msgstr "வகை:"
 
 msgid "ai_fi_details_maintainer"
-msgstr ""
+msgstr "பராமரிப்பாளர்:"
 
 msgid "ai_fi_details_package"
-msgstr ""
+msgstr "பயன்பாடு:"
 
 msgid "ai_fi_details_packages_conflicting"
-msgstr ""
+msgstr "பயன்பாட்டு தொகுப்புகளுடன் மோதல்:"
 
 msgid "ai_fi_details_packages_install"
-msgstr ""
+msgstr "நிறுவ பயன்பாட்டு தொகுப்புகள்:"
 
 msgid "ai_fi_details_packages_missing"
-msgstr ""
+msgstr "பயன்பாட்டு தொகுப்புகள் இல்லை:"
 
 msgid "ai_fi_details_packages_needing"
-msgstr ""
+msgstr "பயன்பாட்டு தொகுப்புகள் தேவை:"
 
 msgid "ai_fi_details_packages_uninstall"
-msgstr ""
+msgstr "அகற்றுவதற்கான பயன்பாட்டு தொகுப்புகள்:"
 
 msgid "ai_fi_details_packages_update"
-msgstr ""
+msgstr "புதுப்பிக்க பயன்பாட்டு தொகுப்புகள்:"
 
 msgid "ai_fi_details_status"
-msgstr ""
+msgstr "நிலை:"
 
 msgid "ai_fi_details_summary"
-msgstr ""
+msgstr "சுருக்கம்:"
 
 msgid "ai_fi_new_repository_component"
-msgstr ""
+msgstr "கூறுகள்"
 
 msgid "ai_fi_new_repository_disabled"
-msgstr ""
+msgstr "முடக்கப்பட்டது"
 
 msgid "ai_fi_new_repository_distribution"
-msgstr ""
+msgstr "பரவல்"
 
 msgid "ai_fi_new_repository_name"
-msgstr ""
+msgstr "அட்டவணை பெயர்"
 
 msgid "ai_fi_new_repository_web_address"
-msgstr ""
+msgstr "வலை முகவரி"
 
 msgid "ai_fi_search_area"
-msgstr ""
+msgstr "தேடல் பகுதி"
 
 msgid "ai_fi_search_words"
-msgstr ""
+msgstr "சொற்களைத் தேடுங்கள்"
 
 msgid "ai_fib_web_address"
-msgstr ""
+msgstr "http://tableteer.nokia.com"
 
 msgid "ai_ia_add_catalogue_add"
 msgstr ""
+"புதிய பட்டியலைச் சேர்க்கவா?\n"
+" '%s'"
 
 msgid "ai_ia_add_catalogue_enable"
 msgstr ""
+"பட்டியல் ஏற்கனவே நிறுவப்பட்ட ஆனால் முடக்கப்பட்டுள்ளது.\n"
+" இப்போது இயக்கவா?"
 
 msgid "ai_ia_add_catalogue_install"
-msgstr ""
+msgstr "இந்த மூலத்திலிருந்து நிறுவ, அதன் பட்டியலைச் சேர்க்கவும்."
 
 msgid "ai_ia_add_catalogue_legal"
 msgstr ""
+"இந்த பட்டியலிலிருந்து நிறுவப்பட்ட மென்பொருள் மேமோ லெச்டே வழங்கவில்லை, மேலும் சாதனத்தில் "
+"சேமிக்கப்பட்ட தரவை அணுகும், பொருள் சேதத்தை ஏற்படுத்தும் அல்லது சாதனத்திற்கு தீங்கு "
+"விளைவிக்கும் தீம்பொருளை உள்ளடக்கியிருக்கலாம்."
 
 msgid "ai_ia_details_use_pc"
 msgstr ""
+"இந்த மேமோ புதுப்பிப்புக்கு நிறுவலுக்கு உங்கள் பிசி தேவைப்படுகிறது.\n"
+" யூ.எச்.பி கேபிள் வழியாக கணினியுடன் சாதனத்தை இணைக்கவும், மீதமுள்ள மேமோ புதுப்பிப்பின் "
+"மூலம் பயன்பாடு உங்களுக்கு வழிகாட்டும்."
 
 msgid "ai_ia_failed_catalogue"
-msgstr ""
+msgstr "புதுப்பிக்கத் தவறிவிட்டது"
 
 msgid "ai_ia_osupdate_pc"
 msgstr ""
+"இயக்க முறைமையின் இந்த பதிப்பிற்கு உங்கள் சாதனத்தைப் புதுப்பிக்க நீங்கள் உங்கள் கணினியைப் "
+"பயன்படுத்த வேண்டும்.\n"
+" யூ.எச்.பி கேபிள் வழியாக சாதனத்தை உங்கள் கணினியுடன் இணைத்து பயன்பாட்டைத் தொடங்கவும்."
 
 msgid "ai_ia_osupdate_restart"
 msgstr ""
+"அனைத்து பயன்பாடுகளும் நிறுவலின் போது மூடப்படும் மற்றும் அனைத்து செயல்பாடுகளும் "
+"முடக்கப்படும் (அவசர அழைப்புகள் உட்பட).\n"
+" சாதனம் பின்னர் மறுதொடக்கம் செய்யும்.\n"
+" இந்த நேரத்தில் சாதனத்தைப் பயன்படுத்த வேண்டாம்.\n"
+" காப்புப்பிரதியை உருவாக்க பரிந்துரைக்கப்படுகிறது."
 
 msgid "ai_ia_restore"
 msgstr ""
+"காப்புப்பிரதி இந்த பயன்பாடுகளை பட்டியலிடுகிறது.\n"
+" பதிவிறக்கம் செய்து நிறுவ விண்ணப்பங்களைத் தேர்ந்தெடுக்கவும்."
 
 msgid "ai_ia_select_package_no_packages"
-msgstr ""
+msgstr "(பயன்பாடுகள் இல்லை)"
 
 msgid "ai_ia_storage"
-msgstr ""
+msgstr "நினைவகம் தேவை: %s"
 
 msgid "ai_ib_enter_name"
-msgstr ""
+msgstr "முதலில் அட்டவணை பெயரை உள்ளிடவும்"
 
 msgid "ai_ib_enter_text"
-msgstr ""
+msgstr "காணப்பட வேண்டிய உரையை உள்ளிடவும்"
 
 msgid "ai_ib_enter_web_address"
-msgstr ""
+msgstr "முதலில் வலை முகவரியை உள்ளிடவும்"
 
 msgid "ai_ib_no_matches"
-msgstr ""
+msgstr "போட்டிகள் எதுவும் கிடைக்கவில்லை"
 
 msgid "ai_ib_no_repositories"
-msgstr ""
+msgstr "பயன்பாட்டில் பட்டியல்கள் இல்லை"
 
 msgid "ai_ib_search_complete"
-msgstr ""
+msgstr "முழுமையான தேடல்"
 
 msgid "ai_ib_unable_cancel"
 msgstr ""
+"ரத்து செய்ய முடியவில்லை.\n"
+" தயவுசெய்து காத்திருங்கள்."
 
 msgid "ai_ib_unable_edit"
-msgstr ""
+msgstr "பட்டியலைத் திருத்த முடியவில்லை"
 
 msgid "ai_li_install"
-msgstr ""
+msgstr "பதிவிறக்கம்"
 
 msgid "ai_li_no_applications_available"
-msgstr ""
+msgstr "(பயன்பாடுகள் எதுவும் கிடைக்கவில்லை)"
 
 msgid "ai_li_no_installed_applications"
-msgstr ""
+msgstr "(பயன்பாடுகள் எதுவும் நிறுவப்படவில்லை)"
 
 msgid "ai_li_no_updates_available"
-msgstr ""
+msgstr "(புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை)"
 
 msgid "ai_li_save_log_default_name"
-msgstr ""
+msgstr "பதிவு"
 
 msgid "ai_li_uninstall"
-msgstr ""
+msgstr "நிறுவல் நீக்க"
 
 msgid "ai_li_update"
-msgstr ""
+msgstr "புதுப்பிப்பு"
 
 msgid "ai_me_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "ai_me_package_install_file"
-msgstr ""
+msgstr "கோப்பிலிருந்து நிறுவவும்"
 
 msgid "ai_me_refresh"
-msgstr ""
+msgstr "புதுப்பிப்பு"
 
 msgid "ai_me_search"
-msgstr ""
+msgstr "தேடல்"
 
 msgid "ai_me_settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "ai_me_tools_log"
-msgstr ""
+msgstr "பதிவு"
 
 msgid "ai_me_tools_repository"
-msgstr ""
+msgstr "பயன்பாட்டு பட்டியல்கள்"
 
 msgid "ai_me_tools_restore"
-msgstr ""
+msgstr "பயன்பாடுகளை மீட்டெடுங்கள்"
 
 msgid "ai_me_update_all"
-msgstr ""
+msgstr "அனைத்தையும் புதுப்பிக்கவும்"
 
 msgid "ai_nc_error_download_failed"
-msgstr ""
+msgstr "'%s' பதிவிறக்குவது தோல்வியடைந்தது. மீண்டும் முயற்சிக்கிறீர்களா?"
 
 msgid "ai_nc_install"
 msgstr ""
+"%s %s\n"
+" %s"
 
 msgid "ai_nc_non_verified_package"
 msgstr ""
+"நீங்கள் நிறுவவிருக்கும் பயன்பாடு மேமோ லெச்டே வழங்கவில்லை. நம்பத்தகாத மூலங்களின் "
+"பயன்பாடுகளில் பொருள் சேதத்தை ஏற்படுத்தக்கூடிய தீம்பொருள், சாதனத்தில் சேமிக்கப்பட்ட தரவை "
+"அணுகலாம் அல்லது சாதனத்திற்கு தீங்கு விளைவிக்கும். விண்ணப்பம் மூன்றாம் தரப்பு உரிமைகள் மற்றும் "
+"உரிம விதிமுறைகளுக்கு உட்பட்டதாக இருக்கலாம்.\n"
+" நிறுவல் உங்கள் சொந்த ஆபத்தில் இருக்கும்."
 
 msgid "ai_nc_non_verified_package_multiple"
 msgstr ""
+"நீங்கள் நிறுவவிருக்கும் சில பயன்பாடுகள் மேமோ லெச்டே வழங்கவில்லை. நம்பத்தகாத மூலங்களின் "
+"பயன்பாடுகளில் பொருள் சேதத்தை ஏற்படுத்தக்கூடிய தீம்பொருள், சாதனத்தில் சேமிக்கப்பட்ட தரவை "
+"அணுகலாம் அல்லது சாதனத்திற்கு தீங்கு விளைவிக்கும். விண்ணப்பங்கள் மூன்றாம் தரப்பு உரிமைகள் "
+"மற்றும் உரிம விதிமுறைகளுக்கு உட்பட்டிருக்கலாம்.\n"
+" நிறுவல் உங்கள் சொந்த ஆபத்தில் இருக்கும்."
 
 msgid "ai_nc_remove_repository"
 msgstr ""
+"பட்டியலை நீக்கவா?\n"
+" இந்த பட்டியலால் வழங்கப்படும் பயன்பாட்டு தொகுப்புகள் நிறுவல் மற்றும் மேம்படுத்தல்களுக்கு இனி "
+"கிடைக்காது."
 
 msgid "ai_nc_uninstall"
 msgstr ""
+"%s %s\n"
+" %s"
 
 msgid "ai_nc_update"
 msgstr ""
+"%s %s\n"
+" %s"
 
 msgid "ai_nc_update_all"
-msgstr ""
+msgstr "அனைத்து புதுப்பிப்புகளையும் நிறுவ தயாராக உள்ளது"
 
 msgid "ai_ni_all_installed"
-msgstr ""
+msgstr "ஏற்கனவே நிறுவப்பட்ட அனைத்து பயன்பாடுகளும்"
 
 msgid "ai_ni_bd_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "ai_ni_continue_install"
-msgstr ""
+msgstr "நிறுவ தொடர்ந்து?"
 
 msgid "ai_ni_device_restart"
 msgstr ""
+"இயக்க முறைமை வெற்றிகரமாக புதுப்பிக்கப்பட்டது. சாதனம் மறுதொடக்கம் செய்யும். குறுக்கிடுவது "
+"சாதனத்திற்கு தீங்கு விளைவிக்கும் என்பதால் தயவுசெய்து காத்திருங்கள்."
 
 msgid "ai_ni_device_restart_long"
 msgstr ""
+"இயக்க முறைமை வெற்றிகரமாக புதுப்பிக்கப்பட்டது. சாதனம் மறுதொடக்கம் செய்யும். குறுக்கிடுவது "
+"சாதனத்திற்கு தீங்கு விளைவிக்கும் என்பதால் தயவுசெய்து காத்திருங்கள்."
 
 msgid "ai_ni_error_battery_empty"
 msgstr ""
+"மேமோ புதுப்பிப்பை நிறுவ போதுமான பேட்டரி ஆற்றல் இல்லை.\n"
+" சார்ச் செய்யத் தொடங்கி மீண்டும் முயற்சிக்கவும்."
 
 msgid "ai_ni_error_catalogue_incompatible"
 msgstr ""
+"நிறுவ முடியவில்லை.\n"
+" தற்போதைய இயக்க முறைமையுடன் அட்டவணை பொருந்தாது."
 
 msgid "ai_ni_error_download_failed"
-msgstr ""
+msgstr "'%s' பதிவிறக்குவது தோல்வியடைந்தது"
 
 msgid "ai_ni_error_download_missing"
 msgstr ""
+"'%s' ஐ பதிவிறக்க முடியவில்லை.\n"
+" பயன்பாட்டு தொகுப்பு கிடைக்கவில்லை."
 
 msgid "ai_ni_error_install_conflict"
 msgstr ""
+"'%s' ஐ நிறுவ முடியவில்லை.\n"
+" முரண்பட்ட பயன்பாட்டு தொகுப்புகள்."
 
 msgid "ai_ni_error_install_corrupted"
 msgstr ""
+"'%s' ஐ நிறுவ முடியவில்லை.\n"
+" நிறுவல் கோப்பு சிதைந்தது."
 
 msgid "ai_ni_error_install_incompatible"
 msgstr ""
+"'%s' ஐ நிறுவ முடியவில்லை.\n"
+" பொருந்தாத பயன்பாட்டு தொகுப்பு."
 
 msgid "ai_ni_error_install_missing"
 msgstr ""
+"'%s' ஐ நிறுவ முடியவில்லை.\n"
+" நிறுவலுக்கு தேவையான சில பயன்பாட்டு தொகுப்புகள் இல்லை."
 
 msgid "ai_ni_error_installation_failed"
-msgstr ""
+msgstr "'%s' நிறுவ முடியவில்லை"
 
 msgid "ai_ni_error_n770package_incompatible"
 msgstr ""
+"'%s' ஐ நிறுவ முடியவில்லை.\n"
+" பயன்பாட்டு தொகுப்பு தற்போதைய இயக்க முறைமையுடன் பொருந்தாது."
 
 msgid "ai_ni_error_uninstall_applicationrunning"
 msgstr ""
+"'%s' திறந்திருக்கும்.\n"
+" பயன்பாட்டை மூடி மீண்டும் முயற்சிக்கவும்."
 
 msgid "ai_ni_error_uninstall_packagesneeded"
 msgstr ""
+"'%s' ஐ நிறுவல் நீக்க முடியவில்லை.\n"
+" சில பயன்பாட்டு தொகுப்புகள் பிற பயன்பாடுகளுக்கு தேவைப்படுகின்றன."
 
 msgid "ai_ni_error_uninstallation_failed"
-msgstr ""
+msgstr "'%s' ஐ நிறுவல் நீக்க முடியவில்லை"
 
 msgid "ai_ni_error_update_conflict"
 msgstr ""
+"'%s' ஐ புதுப்பிக்க முடியவில்லை.\n"
+" முரண்பட்ட பயன்பாட்டு தொகுப்புகள்."
 
 msgid "ai_ni_error_update_corrupted"
 msgstr ""
+"'%s' ஐ புதுப்பிக்க முடியவில்லை.\n"
+" புதுப்பிப்பு கோப்பு சிதைந்தது."
 
 msgid "ai_ni_error_update_failed"
-msgstr ""
+msgstr "'%s' புதுப்பிக்க முடியவில்லை"
 
 msgid "ai_ni_error_update_incompatible"
 msgstr ""
+"'%s' ஐ புதுப்பிக்க முடியவில்லை.\n"
+" பொருந்தாத பயன்பாட்டு தொகுப்பு."
 
 msgid "ai_ni_error_update_missing"
 msgstr ""
+"'%s' ஐ புதுப்பிக்க முடியவில்லை.\n"
+" சில பயன்பாட்டு தொகுப்புகள் தேவை\n"
+" புதுப்பிப்பு இல்லை."
 
 msgid "ai_ni_error_updating_cancelled"
-msgstr ""
+msgstr "புதுப்பிப்பு நிறுவலை நிறைவு செய்தல்"
 
 msgid "ai_ni_install_successful_launch"
-msgstr ""
+msgstr "'%s' வெற்றிகரமாக நிறுவப்பட்டது. விண்ணப்பத்தைத் தொடங்கவா?"
 
 msgid "ai_ni_memory_shortage"
 msgstr ""
+"பயன்பாட்டில் போதுமான இடம் இல்லை நினைவக நிறுவவும். இந்த நிறுவலுக்கு போதுமான இடத்தை "
+"விடுவிக்க சில பயன்பாடுகளை நிறுவல் நீக்கவும்."
 
 msgid "ai_ni_multiple_install"
 msgid_plural "ai_ni_multiple_installs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d பயன்பாடு வெற்றிகரமாக நிறுவப்பட்டுள்ளது"
+msgstr[1] "%d பயன்பாடுகள் வெற்றிகரமாக நிறுவப்பட்டுள்ளன"
 
 msgid "ai_ni_operation_failed"
-msgstr ""
+msgstr "செயல்பாடு தோல்வியடைந்தது"
 
 msgid "ai_ni_operation_progress"
 msgstr ""
+"செயல்பாட்டில் செயல்பாட்டில்.\n"
+" தயவுசெய்து காத்திருங்கள்."
 
 msgid "ai_ni_package_installed"
-msgstr ""
+msgstr "'%s' ஏற்கனவே நிறுவப்பட்டுள்ளது"
 
 msgid "ai_ni_software_update_installed"
-msgstr ""
+msgstr "மென்பொருள் புதுப்பிப்புகள் வெற்றிகரமாக நிறுவப்பட்டுள்ளன"
 
 msgid "ai_ni_system_update_installed"
-msgstr ""
+msgstr "இயக்க முறைமை வெற்றிகரமாக புதுப்பிக்கப்பட்டது"
 
 msgid "ai_ni_unable_remove_repository"
-msgstr ""
+msgstr "பட்டியலை நீக்க முடியவில்லை"
 
 msgid "ai_ni_uninstall_successful"
-msgstr ""
+msgstr "'%s' வெற்றிகரமாக நிறுவல் நீக்கப்பட்டது"
 
 msgid "ai_ni_update_list_not_successful"
 msgstr ""
+"பயன்பாட்டு பட்டியலைப் புதுப்பிக்க முடியவில்லை.\n"
+" பட்டியல்களை அணுக முடியவில்லை.\n"
+" பிணைய இணைப்பை சரிபார்க்கவும்.\n"
+" மீண்டும் முயற்சிக்கிறீர்களா?"
 
 msgid "ai_ni_update_partly_successful"
 msgstr ""
+"பயன்பாட்டு பட்டியல் ஓரளவு புதுப்பிக்கப்பட்டுள்ளது.\n"
+" சில பட்டியல்கள் கிடைக்கவில்லை.\n"
+" அட்டவணை விவரங்களை சரிபார்க்கவும்."
 
 msgid "ai_ni_updates_restart"
 msgstr ""
+"மென்பொருள் புதுப்பிப்புகள் வெற்றிகரமாக நிறுவப்பட்டுள்ளன. சாதனம் மறுதொடக்கம் செய்யும்."
 
 msgid "ai_nw_checking_updates"
-msgstr ""
+msgstr "புதுப்பிப்புகளைச் சரிபார்க்கிறது, தயவுசெய்து காத்திருங்கள்"
 
 msgid "ai_nw_connecting"
-msgstr ""
+msgstr "இணைத்தல்"
 
 msgid "ai_nw_downloading"
-msgstr ""
+msgstr "%s பதிவிறக்குதல்"
 
 msgid "ai_nw_installing"
-msgstr ""
+msgstr "'%s' நிறுவுதல்"
 
 msgid "ai_nw_preparing_installation"
-msgstr ""
+msgstr "நிறுவலுக்குத் தயாராகி, தயவுசெய்து காத்திருங்கள்"
 
 msgid "ai_nw_searching"
-msgstr ""
+msgstr "தேடுகிறது"
 
 msgid "ai_nw_uninstalling"
-msgstr ""
+msgstr "'%s' ஐ நிறுவல் நீக்குதல்"
 
 msgid "ai_nw_updating"
-msgstr ""
+msgstr "' %s' %s ஐ புதுப்பித்தல்"
 
 msgid "ai_pb_progress"
-msgstr ""
+msgstr "ஏற்றுகிறது"
 
 msgid "ai_sb_app_push_desc"
-msgstr ""
+msgstr "புதிய மென்பொருள் வெளியீடுகள்"
 
 msgid "ai_sb_app_push_link"
-msgstr ""
+msgstr "பதிவிறக்கம்"
 
 msgid "ai_sb_app_push_no"
-msgstr ""
+msgstr "புறக்கணிக்கவும்"
 
 msgid "ai_sb_update_am"
-msgstr ""
+msgstr "தொடரவும்"
 
 msgid "ai_sb_update_description"
-msgstr ""
+msgstr "புதிய மென்பொருள் புதுப்பிப்புகள்"
 
 msgid "ai_sb_update_nokia_%d"
-msgstr ""
+msgstr "OVI மென்பொருள் (%d)"
 
 msgid "ai_sb_update_os"
-msgstr ""
+msgstr "நிபந்தனை புதுப்பிப்பு"
 
 msgid "ai_sb_update_thirdparty_%d"
-msgstr ""
+msgstr "மூன்றாம் தரப்பு மென்பொருள் (%d)"
 
 msgid "ai_ti_add_catalogue"
-msgstr ""
+msgstr "பட்டியலைச் சேர்க்கவும்"
 
 msgid "ai_ti_catalogue_details_component"
-msgstr ""
+msgstr "கூறுகள்"
 
 msgid "ai_ti_catalogue_details_distribution"
-msgstr ""
+msgstr "பரவல்"
 
 msgid "ai_ti_catalogue_details_name"
-msgstr ""
+msgstr "அட்டவணை பெயர்"
 
 msgid "ai_ti_catalogue_details_web_address"
-msgstr ""
+msgstr "வலை முகவரி"
 
 msgid "ai_ti_confirm_install"
-msgstr ""
+msgstr "நிறுவவும்"
 
 msgid "ai_ti_confirm_uninstall"
-msgstr ""
+msgstr "நிறுவல் நீக்க"
 
 msgid "ai_ti_confirm_update"
-msgstr ""
+msgstr "புதுப்பிப்பு"
 
 msgid "ai_ti_confirmation_checkbox"
-msgstr ""
+msgstr "நான் புரிந்துகொண்டு ஒப்புக்கொள்கிறேன்"
 
 msgid "ai_ti_details"
-msgstr ""
+msgstr "விண்ணப்ப விவரங்கள்"
 
 msgid "ai_ti_details_noteb_common"
-msgstr ""
+msgstr "சுருக்கம்"
 
 msgid "ai_ti_details_noteb_dependencies"
-msgstr ""
+msgstr "சார்புநிலைகள்"
 
 msgid "ai_ti_details_noteb_description"
-msgstr ""
+msgstr "விவரம்"
 
 msgid "ai_ti_details_noteb_installing"
-msgstr ""
+msgstr "நிறுவுகிறது"
 
 msgid "ai_ti_details_noteb_problems"
-msgstr ""
+msgstr "சிக்கல்கள்"
 
 msgid "ai_ti_details_noteb_uninstalling"
-msgstr ""
+msgstr "நிறுவல் நீக்குதல்"
 
 msgid "ai_ti_details_noteb_updating"
-msgstr ""
+msgstr "புதுப்பித்தல்"
 
 msgid "ai_ti_edit_repository"
-msgstr ""
+msgstr "பட்டியல் விவரங்கள்"
 
 msgid "ai_ti_eula_confirmation"
-msgstr ""
+msgstr "நான் ஒப்புக்கொள்கிறேன்"
 
 msgid "ai_ti_failed_repositories"
-msgstr ""
+msgstr "தோல்வியுற்ற பட்டியல்கள்"
 
 msgid "ai_ti_install_apps"
-msgstr ""
+msgstr "பயன்பாடுகளை நிறுவவும்"
 
 msgid "ai_ti_license_agreement"
-msgstr ""
+msgstr "உரிம ஒப்பந்தம்"
 
 msgid "ai_ti_log"
-msgstr ""
+msgstr "பதிவு"
 
 msgid "ai_ti_new_repository"
-msgstr ""
+msgstr "புதிய பட்டியல்"
 
 msgid "ai_ti_operating_system_update"
-msgstr ""
+msgstr "நிபந்தனை புதுப்பிப்பு"
 
 msgid "ai_ti_repository"
-msgstr ""
+msgstr "பட்டியல்கள்"
 
 msgid "ai_ti_save_log"
-msgstr ""
+msgstr "பதிவைச் சேமிக்கவும்"
 
 msgid "ai_ti_search"
-msgstr ""
+msgstr "பயன்பாடுகளைத் தேடுங்கள்"
 
 msgid "ai_ti_select_package"
-msgstr ""
+msgstr "பயன்பாட்டைத் தேர்ந்தெடுக்கவும்"
 
 msgid "ai_va_details_available_version"
-msgstr ""
+msgstr "கிடைக்கும் பதிப்பு:"
 
 msgid "ai_va_details_catalogue"
-msgstr ""
+msgstr "பட்டியல்:"
 
 msgid "ai_va_details_download_size"
-msgstr ""
+msgstr "பதிவிறக்க அளவு:"
 
 msgid "ai_va_details_install_frees"
-msgstr ""
+msgstr "' %1$s' சாதன நினைவகத்தின் %2$s ஐ நிறுவுதல்"
 
 msgid "ai_va_details_install_requires"
-msgstr ""
+msgstr "' %1$s' ஐ நிறுவுவதற்கு %2$s சாதன நினைவகம் தேவைப்படுகிறது"
 
 msgid "ai_va_details_installed_version"
-msgstr ""
+msgstr "நிறுவப்பட்ட பதிப்பு:"
 
 msgid "ai_va_details_no_info"
-msgstr ""
+msgstr "-"
 
 msgid "ai_va_details_size"
-msgstr ""
+msgstr "அளவு:"
 
 msgid "ai_va_details_status_broken"
-msgstr ""
+msgstr "உடைந்த"
 
 msgid "ai_va_details_status_broken_not_updateable"
-msgstr ""
+msgstr "உடைந்த மற்றும் புதுப்பிக்க முடியாதது"
 
 msgid "ai_va_details_status_broken_updateable"
-msgstr ""
+msgstr "உடைந்த ஆனால் புதுப்பிக்கத்தக்கது"
 
 msgid "ai_va_details_status_installable"
-msgstr ""
+msgstr "நிறுவக்கூடியது"
 
 msgid "ai_va_details_status_installed"
-msgstr ""
+msgstr "நிறுவப்பட்டது"
 
 msgid "ai_va_details_status_not_available"
-msgstr ""
+msgstr "கிடைக்கவில்லை"
 
 msgid "ai_va_details_status_not_installable"
-msgstr ""
+msgstr "நிறுவ முடியாதது"
 
 msgid "ai_va_details_status_not_updateable"
-msgstr ""
+msgstr "புதுப்பிப்பு கிடைக்கிறது, ஆனால் நிறுவ முடியாதது"
 
 msgid "ai_va_details_status_updateable"
-msgstr ""
+msgstr "புதுப்பிக்கத்தக்கது"
 
 msgid "ai_va_details_unable_install"
-msgstr ""
+msgstr "'%s' நிறுவ முடியவில்லை"
 
 msgid "ai_va_details_unable_uninstall"
-msgstr ""
+msgstr "'%s' ஐ நிறுவல் நீக்க முடியவில்லை"
 
 msgid "ai_va_details_unable_update"
-msgstr ""
+msgstr "'%s' புதுப்பிக்க முடியவில்லை"
 
 msgid "ai_va_details_uninstall_frees"
-msgstr ""
+msgstr "' %1$s' ஐ நிறுவல் நீக்குவது சாதன நினைவகத்தின் %2$s ஐ விடுவிக்கிறது"
 
 msgid "ai_va_details_update_frees"
-msgstr ""
+msgstr "' %1$s' புதுப்பித்தல் சாதன நினைவகத்தின் %2$s ஐ விடுவிக்கிறது"
 
 msgid "ai_va_details_update_requires"
-msgstr ""
+msgstr "' %1$s' ஐப் புதுப்பிக்க சாதன நினைவகத்தின் %2$s தேவைப்படுகிறது"
 
 msgid "ai_va_search_name"
-msgstr ""
+msgstr "பயன்பாட்டு பெயர்"
 
 msgid "ai_va_search_name_description"
-msgstr ""
+msgstr "பயன்பாட்டு பெயர் மற்றும் விளக்கம்"
 
 msgid "ai_va_sort_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "ai_va_sort_size"
-msgstr ""
+msgstr "அளவு"
 
 msgid "apma_fi_by_provider"
-msgstr ""
+msgstr "மூலம் %s"
 
 msgid "apma_menu_plugin_title_software_releases"
-msgstr ""
+msgstr "புதிய வெளியீடுகள்"
 
 msgid "apma_menu_plugin_title_software_updates"
-msgstr ""
+msgstr "புதிய புதுப்பிப்புகள்"
